@@ -9,9 +9,11 @@
           >
             <v-select
               @update:model-value="onFilterLocation"
+              v-model="location"
               label="Location"
               :items="locationsList"
               variant="solo"
+              clearable=true
             ></v-select>
           </v-col>
           <v-col
@@ -19,9 +21,12 @@
             sm="4"
           >
             <v-select
+              @update:model-value="onFilterLevelRange"
+              v-model="levelRange"
               label="Level Range"
               :items="levelRangeList"
               variant="solo"
+              clearable=true
             ></v-select>
           </v-col>
           <v-col
@@ -42,13 +47,50 @@
     <v-data-table
       v-model:items-per-page="itemsPerPage"
       v-model:expanded="expanded"
+      :custom-filter="customSearch"
       :headers="headers"
       :items="quests"
       :search="search"
       item-value="name"
       show-expand
       class="elevation-1"
-    ></v-data-table>
+    >
+      <template v-slot:item.itemsNeeded="{ item }">
+        <v-list lines="one">
+          <v-list-item
+            v-for="itemNeeded in item.raw.itemsNeeded"
+            :key="itemNeeded"
+            :title="itemNeeded.qty + 'x ' + itemNeeded.name"
+          ></v-list-item>
+        </v-list>
+      </template>
+      <template v-slot:expanded-row="{ columns, item }">
+        <tr>
+          <td :colspan="columns.length">
+            <strong>Procedure:</strong>
+            <v-list lines="one">
+              <v-list-item
+                v-for="(procedure, index) in item.raw.procedures"
+                :key="procedure"
+                :title="(index + 1) + '. ' + procedure"
+              ></v-list-item>
+            </v-list>
+          </td>
+        </tr>
+        <tr>
+          <td :colspan="columns.length">
+            <strong>Potential Reward(s):</strong>
+            <v-list lines="one">
+              <v-list-item
+                v-for="reward in item.raw.rewards"
+                :key="reward"
+                :title="reward"
+              ></v-list-item>
+            </v-list>
+          </td>
+        </tr>
+      </template>
+    </v-data-table>
   </v-card>
 </template>
 
@@ -79,6 +121,8 @@ function transformToTableFormat(quests) {
 export default {
   data () {
     return {
+      location: '',
+      levelRange: '',
       locationsList: [...new Set(QUESTS_ALL.map(quest => quest.location))],
       levelRangeList: ['0-10', '11-20', '21-30', '31-40', '41-50', '51-65', '66-200'],
       search: '',
@@ -94,6 +138,8 @@ export default {
         { title: 'NPC', align: 'end', key: 'npc' },
         { title: 'NPC Location', align: 'end', key: 'npcLocation' },
         { title: 'EXP', align: 'end', key: 'exp' },
+        { title: 'Item(s) Needed', align: 'end', key: 'itemsNeeded', sortable: false },
+        { title: 'Procedure', align: ' d-none', key: 'procedures', sortable: false },
       ],
       quests: QUESTS_ALL,
       expanded: [],
@@ -101,9 +147,46 @@ export default {
   },
   methods: {
     onFilterLocation(value) {
-      this.quests = QUESTS_ALL.filter(quest => quest.location === value)
-    }
-  }
+      this.location = value
+      this.onFilterChange()
+    },
+    onFilterLevelRange(value) {
+      this.levelRange = value
+      this.onFilterChange()
+    },
+    onFilterChange() {
+      const startRange = this.levelRange && this.levelRange.split('-')[0]
+      const endRange = this.levelRange && this.levelRange.split('-')[1]
+
+      this.quests = QUESTS_ALL.filter(quest => {
+        const locationFilter = !this.location || (quest.location === this.location)
+        const levelRangeFilter = !this.levelRange || (quest.level >= startRange && quest.level <= endRange)
+
+        return locationFilter && levelRangeFilter
+      })
+    },
+    customSearch(_, search, item) {
+      // why 6? no idea
+      return Object.values(Object.values(item)[6]).some(
+        (itemValue) => {
+          if (typeof (itemValue) === 'object') {
+            return itemValue.some(value => {
+              if(typeof(value) === 'object') {
+                return Object.values(value).some(
+                  (objValue) => {
+                    return objValue && objValue.toString().toLowerCase().includes(search.toLowerCase())
+                  }) 
+              } else {
+                return value && value.toString().toLowerCase().includes(search.toLowerCase());
+              }
+            });
+          } else {
+            return itemValue && itemValue.toString().toLowerCase().includes(search.toLowerCase());
+          }
+        }
+      );
+    },
+  },
 }
 </script>
 
