@@ -1,0 +1,1908 @@
+[
+  {
+    "location": "Ludus Lake",
+    "level": "41",
+    "name": "Eliminating Mateon",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/eliminating-mateon",
+    "chain": [
+      {
+        "name": "Eliminating Mateon",
+        "npc": "Green Mesoranger",
+        "exp": 5100,
+        "rewards": [
+          "20,000 mesos",
+          "5,100 experience"
+        ],
+        "procedures": [
+          "Search for Green Mesoranger in Omega Sector: Boswell Field IV.",
+          "Eliminate 100 Mateon.",
+          "Return to Green Mesoranger once you have completed the task."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Omega Sector: Boswell Field IV"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "41",
+    "name": "Eliminating Plateon and Mecateon",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/eliminating-plateon-and-mecateon",
+    "chain": [
+      {
+        "name": "Eliminating Plateon and Mecateon",
+        "npc": "Green Mesoranger",
+        "exp": 6100,
+        "rewards": [
+          "6,100 experience",
+          "Adamantium Knuckle x  if you are a Warrior",
+          "Blue Arten x  if you are a Magician",
+          "Gold Brace x  if you are a Bowman",
+          "Gold Cleave x  if you are a Thief",
+          "Brown Barbee x 1 if you are a Pirate"
+        ],
+        "procedures": [
+          "Search for Green Mesoranger in Omega Sector: Boswell Field IV.",
+          "Eliminate 200 Plateon.",
+          "Hunt for 150 Mecateon's Laser Gun from Mecateon.",
+          "Return to Green Mesoranger and give him the items collected."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Mecateon's Laser Gun",
+            "qty": "150"
+          }
+        ],
+        "npcLocation": "Omega Sector: Boswell Field IV"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "41",
+    "name": "Eliminating Plateon",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/eliminating-plateon",
+    "chain": [
+      {
+        "name": "Eliminating Plateon",
+        "npc": "Green Mesoranger",
+        "exp": 5600,
+        "rewards": [
+          "5,600 experience",
+          "Orange Juice x 50"
+        ],
+        "procedures": [
+          "Search for Green Mesoranger in Omega Sector: Boswell Field IV.",
+          "Hunt for 80 Plateon's Helmet from Plateon.",
+          "Return to Green Mesoranger and give him the items collected."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Plateon's Helmet",
+            "qty": "80"
+          }
+        ],
+        "npcLocation": "Omega Sector: Boswell Field IV"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "43",
+    "name": "Eliminating Chief Gray",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/eliminating-chief-gray",
+    "chain": [
+      {
+        "name": "Eliminating Chief Gray",
+        "npc": "Black Mesoranger",
+        "exp": 5800,
+        "rewards": [
+          "25,000 mesos",
+          "5,800 experience"
+        ],
+        "procedures": [
+          "Search for Black Mesoranger in Omega Sector: Kulan Field I.",
+          "Collect 3 Note by hunting Chief Gray.",
+          "Return to Black Mesoranger once you have completed the task."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Note",
+            "qty": "3"
+          }
+        ],
+        "npcLocation": "Omega Sector: Kulan Field I"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "44",
+    "name": "Collecting Meteorite Samples",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/collecting-meteorite-samples",
+    "chain": [
+      {
+        "name": "Collecting Meteorite Samples             (Level 44 and above)",
+        "npc": "Yellow Mesoranger",
+        "exp": 16000,
+        "rewards": [
+          "16,000 experience",
+          "Unagi x 50"
+        ],
+        "procedures": [
+          "Talk to Yellow Mesoranger in Omega Sector: Off-Limits.",
+          "Head over to Omega Sector: Kulan Field I and obtain 1 Meteorite Sample from Meteorite 1.",
+          "Head back to Omega Sector: Kulan Field II and obtain 1 Meteorite Sample from Meteorite 4.",
+          "Go to Omega Sector: Kulan Field III and obtain 1 Meteorite Sample from Meteorite 2.",
+          "Search for Hidden Street: Barnard Field and obtain 1 Meteorite Sample from Meteorite 5.",
+          "Go to Omega Sector: Kulan Field IV and obtain 1 Meteorite Sample from Meteorite 3.",
+          "Finally, go to Omega Sector: Kulan Field V and obtain 1 Meteorite Sample from Meteorite 6.\n\n\n\nKulan Field I\n\nKulan Field II\n\n\n\nKulan Field III\n\nKulan Field IV\n\n\n\nKulan Field V\n\nBarnard Field",
+          "Return to Yellow Mesoranger once you have completed the task."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Meteorite Sample",
+            "qty": "6"
+          }
+        ],
+        "npcLocation": "Omega Sector: Off-Limits"
+      },
+      {
+        "name": "",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "44",
+    "name": "The Effort to Make-Up",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/the-effort-to-make-up",
+    "chain": [
+      {
+        "name": "The Effort to Make-Up",
+        "npc": "Yellow Mesoranger",
+        "exp": 5700,
+        "rewards": [
+          "5,700 experience",
+          "Pansy Earrings x 1"
+        ],
+        "procedures": [
+          "Talk to Yellow Mesoranger in Omega Sector: Off-Limits.",
+          "Eliminate 120 Ultra Gray.",
+          "Return to Yellow Mesoranger  once you have completed the task."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Omega Sector: Off-Limits"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "44",
+    "name": "Trading with Alien Gray",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/trading-with-alien-gray",
+    "chain": [
+      {
+        "name": "Trading with Alien Gray",
+        "npc": "Alien Gray",
+        "exp": 3400,
+        "rewards": [
+          "3,400 experience",
+          "Alien Sack x 3"
+        ],
+        "procedures": [
+          "Talk to Alien Gray in Omega Sector: Kulan Field II.",
+          "Collect 3 Secret Document by hitting the storage units around Omega Sector: Silo.",
+          "Return to Alien Gray once you have completed the task."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Secret Document",
+            "qty": "3"
+          }
+        ],
+        "npcLocation": "Omega Sector: Kulan Field II"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "45",
+    "name": "Retrieving the Storybook: The Story of Axes",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/retrieving-the-storybook-the-story-of-axes",
+    "chain": [
+      {
+        "name": "Retrieving the Storybook: The Story of Axes",
+        "npc": "Wiz the Librarian",
+        "exp": 5000,
+        "rewards": [
+          "5,000 experience",
+          "Melting Cheese x 30"
+        ],
+        "procedures": [
+          "Once you have obtained 1 Storybook on The Story Of Axes from The Story of Axes quest, talk to Wiz the Librarian at Ludibrium: Helios Tower <Library>."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Storybook on The Story Of Axes",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Ludibrium: Helios Tower <Library>"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "45",
+    "name": "Judging the Axe",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/judging-the-axe",
+    "chain": [
+      {
+        "name": "Judging the Axe",
+        "npc": "God of Mountains",
+        "exp": 0,
+        "rewards": [
+          "Tree Cutter's Steel Axe x 1",
+          "Chil Sung's Steel Axe x 1",
+          "Tree's Steel Axe x 1",
+          "Chil Nam's Steel Axe x 1",
+          "Steel Axe For Tree Cutters x 1",
+          "Broken Steel Axe x 1"
+        ],
+        "procedures": [
+          "Search for God of Mountains at Korean Folk Town: A Small Well and talk to him.",
+          "Hunt for 1 Axe from Dark Axe Stump.",
+          "Return to God of Mountains after you have obtained the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Axe",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Korean Folk Town: A Small Well"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "45",
+    "name": "The Story of Axes",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/the-story-of-axes",
+    "chain": [
+      {
+        "name": "The Story of Axes",
+        "npc": "God of Mountains",
+        "exp": 14000,
+        "rewards": [
+          "14,000 experience",
+          "Storybook on The Story Of Axes x 1"
+        ],
+        "procedures": [
+          "Search for God of Mountains at Korean Folk Town: A Small Well and talk to him.",
+          "Redo Judging the Axe quest until you obtain 1 Tree Cutter's Steel Axe.",
+          "Once you have successfully obtained the item, head over to Korean Folk Town: Tiger Forest II and talk to Tree Cutter."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Tree Cutter's Steel Axe",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Korean Folk Town: A Small Well"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "45",
+    "name": "The History of Zeta Leticulan",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/the-history-of-zeta-leticulan",
+    "chain": [
+      {
+        "name": "The History of Zeta Leticulan",
+        "npc": "Black Mesoranger",
+        "exp": 12000,
+        "rewards": [
+          "12,000 experience",
+          "Scroll for One-Handed Sword for ATT 10% x 1 if you are a Warrior",
+          "Scroll for One-Handed Axe for ATT 10% x 1 if you are a Warrior",
+          "Scroll for One-Handed BW for ATT 10% x 1 if you are a Warrior",
+          "Scroll for Two-Handed Sword for ATT 10% x 1 if you are a Warrior",
+          "Scroll for Two-Handed Axe for ATT 10% x 1 if you are a Warrior",
+          "Scroll for Two-Handed BW for ATT 10% x 1 if you are a Warrior",
+          "Scroll for Pole Arm for ATT 10% x 1 if you are a Warrior",
+          "Scroll for Spear for ATT 10% x 1 if you are a Warrior",
+          "Scroll for Staff for Magic Attack 10% x 1 if you are a Magician",
+          "Scroll for Wand for Magic Attack 10% x 1 if you are a Magician",
+          "Scroll for Bow for ATT 10% x 1 if you are a Bowman",
+          "Scroll for Crossbow for ATT 10% x 1 if you are a Bowman",
+          "Scroll for Claw for ATT 10% x 1 if you are a Thief",
+          "Scroll for Dagger for ATT 10% x 1 if you are a Thief",
+          "Scroll for Knuckler for ATT 10% x 1 if you are a Pirate",
+          "Scroll for Gun for ATT 10% x 1 if you are a Pirate"
+        ],
+        "procedures": [
+          "Talk to Black Mesoranger in Omega Sector: Kulan Field I.",
+          "Hunt for 1 Barnard Gray's Cell from Barnard Gray.",
+          "Hunt for 1 Zeta Gray's Cell from Zeta Gray.",
+          "Hunt for 1 Ultra Gray's Cell from Ultra Gray.",
+          "Hunt for 1 Chief Gray's Cell from Chief Gray.",
+          "Return to Black Mesoranger once you have completed the task."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Barnard Gray's Cell",
+            "qty": "1"
+          },
+          {
+            "name": "Zeta Gray's Cell",
+            "qty": "1"
+          },
+          {
+            "name": "Ultra Gray's Cell",
+            "qty": "1"
+          },
+          {
+            "name": "Chief Gray's Cell",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Omega Sector: Kulan Field I"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "47",
+    "name": "Chief Gray's Sign",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/chief-grays-sign",
+    "chain": [
+      {
+        "name": "Chief Gray's Sign",
+        "npc": "Gunny",
+        "exp": 5200,
+        "rewards": [
+          "5,200 experience",
+          "Fat Sausage x 100"
+        ],
+        "procedures": [
+          "Talk to Gunny in Omega Sector: Boswell Field V.",
+          "Hunt for 5 Chief Gray's Sign from Chief Gray.",
+          "Return to Gunny and pass him the collected item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Chief Gray's Sign",
+            "qty": "5"
+          }
+        ],
+        "npcLocation": "Omega Sector: Boswell Field V"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "50",
+    "name": "The Control Program Rombot",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/the-control-program-rombot",
+    "chain": [
+      {
+        "name": "The New Control Program             (Level 50 and above)",
+        "npc": "Kay",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Kay in Omega Sector: Silo.",
+          "Go to Porter in Omega Sector: Command Center and talk to him."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Omega Sector: Silo"
+      },
+      {
+        "name": "Porter the Undependable             (Level 50 and above)",
+        "npc": "Porter",
+        "exp": 500,
+        "rewards": [
+          "500 experience",
+          "Deciphered Memory Card x 2"
+        ],
+        "procedures": [
+          "Hunt for 3 Rombot's Memory Card from Rombot.",
+          "Head back to Porter in Omega Sector: Command Center and give him the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Rombot's Memory Card",
+            "qty": "3"
+          }
+        ],
+        "npcLocation": "Omega Sector: Command Center"
+      },
+      {
+        "name": "Porter's Mistake             (Level 50 and above)",
+        "npc": "Porter",
+        "exp": 500,
+        "rewards": [
+          "500 experience",
+          "Deciphered Memory Card x 1"
+        ],
+        "procedures": [
+          "Hunt for another 1 Rombot's Memory Card from Rombot.",
+          "Head back to Porter in Omega Sector: Command Center and give him the collected item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Rombot's Memory Card",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Omega Sector: Command Center"
+      },
+      {
+        "name": "The Brilliant Assistant             (Level 50 and above)",
+        "npc": "Kay",
+        "exp": 6300,
+        "rewards": [
+          "6,300 experience",
+          "Command Center Warp Capsule x 3"
+        ],
+        "procedures": [
+          "Lastly, return to Kay and give her the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Deciphered Memory Card",
+            "qty": "3"
+          }
+        ],
+        "npcLocation": "Omega Sector: Silo"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "50",
+    "name": "Fuel for MT-09",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/fuel-for-mt-09",
+    "chain": [
+      {
+        "name": "Fuel for MT-09",
+        "npc": "Kay",
+        "exp": 5800,
+        "rewards": [
+          "5,800 experience",
+          "Screw x 50"
+        ],
+        "procedures": [
+          "Talk to Kay in Omega Sector: Silo.",
+          "Collect 5 MT-09's Fuel from MT-09.",
+          "Return to Kay and give her the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "MT-09's Fuel",
+            "qty": "5"
+          }
+        ],
+        "npcLocation": "Omega Sector: Silo"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "50",
+    "name": "Porter's Challenge",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/porters-challenge",
+    "chain": [
+      {
+        "name": "Porter's Challenge",
+        "npc": "Porter",
+        "exp": 0,
+        "rewards": [
+          "Wisdom Crystal Ore x 5",
+          "Dark Crystal Ore x 5",
+          "Power Crystal Ore x 5",
+          "DEX Crystal Ore x 5",
+          "LUK Crystal Ore x 5",
+          "Bronze Ore x 10",
+          "Adamantium Ore x 10",
+          "Steel Ore x 10",
+          "Gold Ore x 10",
+          "Silver Ore x 15",
+          "Mithril Ore x 18",
+          "Orihalcon Ore x 20"
+        ],
+        "procedures": [
+          "Talk to Porter in Omega Sector.",
+          "Hunt for 200 Blue Toy Block from King Block Golem.",
+          "Hunt for 200 Jr. Cerebes Tooth from Jr. Cerebes.",
+          "Go back Porter and give him the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Blue Toy Block",
+            "qty": "200"
+          },
+          {
+            "name": "Jr. Cerebes Tooth",
+            "qty": "200"
+          }
+        ],
+        "npcLocation": "Omega Sector: Command Center"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "50",
+    "name": "The Missing Dropship",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/the-missing-dropship",
+    "chain": [
+      {
+        "name": "Porter's Secret Letter             (Level 50 and above)",
+        "npc": "Porter",
+        "exp": 2500,
+        "rewards": [
+          "2,500 experience"
+        ],
+        "procedures": [
+          "Talk to Porter in Omega Sector: Command Center and you will obtain 1 Porter's Letter.",
+          "Go to Kay in Omega Sector: Silo and pass the item to her."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Porter's Letter",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Omega Sector: Command Center"
+      },
+      {
+        "name": "Where is the Dropship?             (Level 50 and above)",
+        "npc": "Dropship",
+        "exp": 0,
+        "rewards": [
+          "Pilot's Letter x 1"
+        ],
+        "procedures": [
+          "Search for Dropship in Hidden Street: Plateon Field.",
+          "Click on it and you will obtain 1 Pilot's Letter."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Hidden Street: Plateon Field"
+      },
+      {
+        "name": "The Pilot's Whereabouts...             (Level 50 and above)",
+        "npc": "Kay",
+        "exp": 18000,
+        "rewards": [
+          "18,000 experience",
+          "Red-Hearted Earrings x 1"
+        ],
+        "procedures": [
+          "Return to Kay and give her the obtained item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Pilot's Letter",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Omega Sector: Silo"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "41",
+    "name": "Queen's New Make-Up Kit",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/queens-new-make-up-kit",
+    "chain": [
+      {
+        "name": "Queen's New Make-Up Kit",
+        "npc": "Areda",
+        "exp": 15000,
+        "rewards": [
+          "15,000 experience"
+        ],
+        "procedures": [
+          "Talk to Areda in Ariant Castle: King's Room.",
+          "Hunt for 20 Sand.",
+          "Return to her after you have completed the task."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Sand",
+            "qty": "20"
+          }
+        ],
+        "npcLocation": "Ariant Castle: King's Room"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "45",
+    "name": "Making the Body and Physics Medicine",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/making-the-body-and-physics-medicine",
+    "chain": [
+      {
+        "name": "Making the Body and Physics Medicine 1             (Level 45 and above)",
+        "npc": "No Gong",
+        "exp": 2000,
+        "rewards": [
+          "2,000 experience"
+        ],
+        "procedures": [
+          "Talk to No Gong at Mu Lung: Mu Lung Temple.",
+          "Hunt for 10 Snake Leather from Red Flower Serpent or Blue Flower Serpent.",
+          "Head over to Mu Lung and talk to Tae Sang."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Snake Leather",
+            "qty": "10"
+          }
+        ],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      },
+      {
+        "name": "Making the Body and Physics Medicine 2             (Level 45 and above)",
+        "npc": "Tae Sang",
+        "exp": 13000,
+        "rewards": [
+          "13,000 experience",
+          "Body And Physics Medicine x 5"
+        ],
+        "procedures": [
+          "Talk to Tae Sang at Mu Lung and you will obtain 1 Body And Physics Medicine.",
+          "Head back to Mu Lung: Mu Lung Temple and give the obtained item to No Gong."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Body And Physics Medicine",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Mu Lung"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "45",
+    "name": "The Fairy in Despair 1",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/the-fairy-in-despair-1",
+    "chain": [
+      {
+        "name": "Phyllia's Concern",
+        "npc": "Phyllia",
+        "exp": 500,
+        "rewards": [
+          "500 experience"
+        ],
+        "procedures": [
+          "Talk to Phyllia in Sunset Road: Magatia.",
+          "Go to Orbis: Orbis Park and talk to Ericsson."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Phyllia's Letter",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Sunset Road: Magatia"
+      },
+      {
+        "name": "Ericsson's Ingredients",
+        "npc": "Ericsson",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience"
+        ],
+        "procedures": [
+          "Talk to Ericsson at Orbis: Orbis Park.",
+          "Hunt for 100 Lunar Pixie's Moonpiece from Lunar Pixie.",
+          "Hunt for 10 Fierry's Tentacle from Fierry.",
+          "Return to Ericsson and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Lunar Pixie's Moonpiece",
+            "qty": "100"
+          },
+          {
+            "name": "Fierry's Tentacle",
+            "qty": "10"
+          }
+        ],
+        "npcLocation": "Orbis: Orbis Park"
+      },
+      {
+        "name": "A Sip of the Moon",
+        "npc": "Ericsson",
+        "exp": 33000,
+        "rewards": [
+          "33,000 experience"
+        ],
+        "procedures": [
+          "Talk to Ericsson at Orbis: Orbis Park to obtain Drop of Moon and Ericsson's Letter.",
+          "Go back to Sunset Road: Magatia and deliver the obtained items to Phyllia."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Drop of Moon",
+            "qty": "1"
+          },
+          {
+            "name": "Ericsson's Letter",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Orbis: Orbis Park"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "45",
+    "name": "A Present for Keeny",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/a-present-for-keeny",
+    "chain": [
+      {
+        "name": "Keeny's Pal Humanoid A             (Level 45 and above)",
+        "npc": "Humanoid A",
+        "exp": 9500,
+        "rewards": [
+          "9,500 experience",
+          "Despite what the in-game text mentions about hunting 100 Piece of Mithril, you really are supposed to hunt for 100 Hardened Piece of Steel. This is a bug that may be fixed in the future."
+        ],
+        "procedures": [
+          "Talk to Humanoid A in Sunset Road: Magatia.",
+          "Hunt for 100 Piece of Steel from Iron Mutae.",
+          "Hunt for 100 Hardened Piece of Steel from Reinforced Iron Mutae.",
+          "Return to Humanoid A and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Piece of Steel",
+            "qty": "100"
+          },
+          {
+            "name": "Hardened Piece of Steel",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Sunset Road: Magatia"
+      },
+      {
+        "name": "A Present for Keeny",
+        "npc": "Humanoid A",
+        "exp": 20000,
+        "rewards": [
+          "20,000 experience"
+        ],
+        "procedures": [
+          "Talk to Humanoid A in Sunset Road: Magatia.",
+          "Go to Keeny and pass Mute's Model to her."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Mute's Model",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Sunset Road: Magatia"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "49",
+    "name": "Eliminating the Escaped Pot",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/eliminating-the-escaped-pot",
+    "chain": [
+      {
+        "name": "Eliminating the Escaped Pot",
+        "npc": "Captain Hwang",
+        "exp": 44600,
+        "rewards": [
+          "44,600 experience",
+          "Watermelon x 30"
+        ],
+        "procedures": [
+          "Talk to Captain Hwang in Herb Town.",
+          "Eliminate 400 Jar.",
+          "Return to him after you have completed the given task."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Herb Town"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "50",
+    "name": "No Gong's Teaching",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/no-gongs-teaching",
+    "chain": [
+      {
+        "name": "No Gong's Teaching             (Level 50 and above)",
+        "npc": "No Gong",
+        "exp": 15500,
+        "rewards": [
+          "15,500 experience"
+        ],
+        "procedures": [
+          "Talk to No Gong at Mu Lung: Mu Lung Temple.",
+          "Kill 10 Straw Target Dummy."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      },
+      {
+        "name": "No Gong's Teaching 2             (Level 50 and above)",
+        "npc": "No Gong",
+        "exp": 16000,
+        "rewards": [
+          "16,000 experience"
+        ],
+        "procedures": [
+          "Talk to No Gong at Mu Lung: Mu Lung Temple.",
+          "Kill 20 Straw Target Dummy."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      },
+      {
+        "name": "No Gong's Teaching 3             (Level 50 and above)",
+        "npc": "No Gong",
+        "exp": 16500,
+        "rewards": [
+          "16,500 experience"
+        ],
+        "procedures": [
+          "Talk to No Gong at Mu Lung: Mu Lung Temple.",
+          "Kill 40 Straw Target Dummy."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "50",
+    "name": "Intruder - The Herb Farm",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/intruder-the-herb-farm",
+    "chain": [
+      {
+        "name": "Intruder - The Herb Farm 1             (Level 50 and above)",
+        "npc": "Mr. Ku",
+        "exp": 18300,
+        "rewards": [
+          "18,300 experience"
+        ],
+        "procedures": [
+          "Talk to Mr. Ku at Herb Town.",
+          "Eliminate 100 Bellflower Root.",
+          "Return and talk to him after you have completed the task."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Herb Town"
+      },
+      {
+        "name": "Intruder - The Herb Farm 2             (Level 50 and above)",
+        "npc": "Mr. Ku",
+        "exp": 33500,
+        "rewards": [
+          "33,500 experience"
+        ],
+        "procedures": [
+          "Talk to Mr. Ku at Herb Town again.",
+          "Eliminate 100 Captain.",
+          "Eliminate 100 Kru.",
+          "Return and talk to him after you have completed the task."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Herb Town"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "50",
+    "name": "Do Gong Searching for the Swallow",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/do-gong-searching-for-the-swallow",
+    "chain": [
+      {
+        "name": "Do Gong Searching for the Swallow",
+        "npc": "Do Gong",
+        "exp": 5000,
+        "rewards": [
+          "5,000 experience"
+        ],
+        "procedures": [
+          "Talk to Do Gong at Mu Lung: Mu Lung Temple.",
+          "Head over to Korean Folk Town and talk to Swallow."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "50",
+    "name": "Gordon Passes His Magic",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/gordon-passes-his-magic",
+    "chain": [
+      {
+        "name": "Moren's Upset",
+        "npc": "Moren",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "1. Talk to Moren.",
+          "2. Then talk to Gordon in El Nath: El Nath Market.",
+          "3. Answer his questions correctly."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Magatia: Weapon & Armor Shop"
+      },
+      {
+        "name": "Gordon's Magic Iron",
+        "npc": "Gordon",
+        "exp": 20000,
+        "rewards": [
+          "20,000 experience",
+          "Gordon's Magic Iron x 1"
+        ],
+        "procedures": [
+          "Talk to Gordon in El Nath: El Nath Market.",
+          "Answer his questions correctly.",
+          "Hunt for 50 Jr. Yeti Skin from Jr. Yeti.",
+          "Return to Gordon and give him the obtained items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Jr. Yeti Skin",
+            "qty": "50"
+          }
+        ],
+        "npcLocation": "El Nath: El Nath Market"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "42",
+    "name": "Icarus and the Flying Pill",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/icarus-and-the-flying-pill",
+    "chain": [
+      {
+        "name": "In Search of Wing the Fairy",
+        "npc": "Icarus",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Icarus in Kerning City.",
+          "Talk to Wing the Fairy in Ellinia."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Kerning City"
+      },
+      {
+        "name": "The Ingredients for the Flying Pill",
+        "npc": "Wing the Fairy",
+        "exp": 100,
+        "rewards": [
+          "100 experience",
+          "Flying Medicine x 1"
+        ],
+        "procedures": [
+          "Talk to Wing the Fairy in Ellinia.",
+          "Hunt for 50 Medicine With Weird Vibes from Wraith.",
+          "Collect 20 Witch Grass Leaves from the plant shown below.",
+          "Return to Wing the Fairy once you have collected the necessary items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Medicine With Weird Vibes",
+            "qty": "50"
+          },
+          {
+            "name": "Witch Grass Leaves",
+            "qty": "20"
+          }
+        ],
+        "npcLocation": "Ellinia"
+      },
+      {
+        "name": "Delivering the Flying Pill",
+        "npc": "Icarus",
+        "exp": 13000,
+        "rewards": [
+          "13,000 experience",
+          "Icarus Cape (1) x 1",
+          "Icarus Cape (2) x 1",
+          "Icarus Cape (3) x 1"
+        ],
+        "procedures": [
+          "Return to Icarus with the Flying Medicine."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Flying Medicine",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Kerning City"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "45",
+    "name": "Manji's Old Gladius",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/manjis-old-gladius",
+    "chain": [
+      {
+        "name": "Hero's Gladius",
+        "npc": "Manji",
+        "exp": 0,
+        "rewards": [
+          "Old Gladius x 1"
+        ],
+        "procedures": [
+          "Talk to Manji in Perion."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Perion"
+      },
+      {
+        "name": "Reawakening the Gladius",
+        "npc": "Chrishrama",
+        "exp": 8000,
+        "rewards": [
+          "8,000 experience",
+          "Hero's Gladius x 1"
+        ],
+        "procedures": [
+          "Talk to Chrishrama in Sleepywood.",
+          "Hunt for 1 Ancient Scroll from Dark Stone Golem.",
+          "Hunt for 1 Flaming Feather.",
+          "Collect 1 Star Rock.",
+          "Collect 1 Piece of Ice.",
+          "Return to Chrishrama once you have collected the necessary items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Old Gladius",
+            "qty": "1"
+          },
+          {
+            "name": "Ancient Scroll",
+            "qty": "1"
+          },
+          {
+            "name": "Flaming Feather",
+            "qty": "1"
+          },
+          {
+            "name": "Star Rock",
+            "qty": "1"
+          },
+          {
+            "name": "Piece of Ice",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Sleepywood"
+      },
+      {
+        "name": "Hero's Gladius (Continued)",
+        "npc": "Manji",
+        "exp": 7500,
+        "rewards": [
+          "7,500 experience",
+          "Hero's Gladius x 1",
+          "Skull Earrings x 1"
+        ],
+        "procedures": [
+          "Talk to Manji in Perion."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Hero's Gladius",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Perion"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "50",
+    "name": "Luke the Security Man's Wish to Travel (Warrior Only)",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/luke-the-security-mans-wish-to-travel-warrior-only",
+    "chain": [
+      {
+        "name": "Luke the Security Man's Wish to Travel (Warrior Only)",
+        "npc": "Luke",
+        "exp": 22000,
+        "rewards": [
+          "22,000 experience",
+          "Old Bronze Nordic Helm x 1"
+        ],
+        "procedures": [
+          "Talk to Luke in Warning Street: Henesys Dungeon Entrance.",
+          "Hunt for 3 Taurospear's Horn  from Taurospear.",
+          "Hunt for 50 Dragon Skin.",
+          "Hunt for 1 Black Feather from Red Drake.",
+          "Collect 40 Screw.",
+          "Collect 10 Orihalcon Plate.",
+          "Return to Luke once you have collected the necessary items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Taurospear's Horn",
+            "qty": "3"
+          },
+          {
+            "name": "Dragon Skin",
+            "qty": "50"
+          },
+          {
+            "name": "Black Feather",
+            "qty": "1"
+          },
+          {
+            "name": "Screw",
+            "qty": "40"
+          },
+          {
+            "name": "Orihalcon Plate",
+            "qty": "10"
+          }
+        ],
+        "npcLocation": "Warning Street: Henesys Dungeon Entrance"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "50",
+    "name": "Lionel's Journey",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/lionels-journey",
+    "chain": [
+      {
+        "name": "Lionel's Journey",
+        "npc": "Maya",
+        "exp": 0,
+        "rewards": [
+          "Scroll for Cape for Magic Def 60% x 1"
+        ],
+        "procedures": [
+          "Talk to Maya in Henesys.",
+          "Collect 100 Hector's Tail.",
+          "Return to Maya once you have collected the necessary items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Hector's Tail",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Henesys"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "50",
+    "name": "Sabitrama's Anti-Aging Medicine",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/sabitramas-anti-aging-medicine",
+    "chain": [
+      {
+        "name": "Sabitrama's Anti-Aging Medicine",
+        "npc": "Sabitrama",
+        "exp": 8500,
+        "rewards": [
+          "8,500 experience",
+          "2 Fame",
+          "Star Rock x 1",
+          "Random Reward(s) (if quest is repeated):\n\nRed-Hearted Earrings\nBlack Crystal Ore\nDiamond Ore",
+          "Red-Hearted Earrings",
+          "Black Crystal Ore",
+          "Diamond Ore"
+        ],
+        "procedures": [
+          "Talk to Sabitrama in Sleepywood.",
+          "Talk to Shane in Ellinia.",
+          "Collect the Ginseng selected by Sabitrama at the top of the Forest of Patience.",
+          "Return to Sabitrama once you have completed the necessary tasks."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Single-Rooted Ginseng",
+            "qty": "1"
+          },
+          {
+            "name": "Double Rooted Ginseng",
+            "qty": "1"
+          },
+          {
+            "name": "Triple-Rooted Ginseng",
+            "qty": "1"
+          },
+          {
+            "name": "Double Rooted Red Ginseng",
+            "qty": "1"
+          },
+          {
+            "name": "Triple-Rooted Red Ginseng",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Sleepywood"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "50",
+    "name": "A Spell That Seals Up a Critical Danger",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/a-spell-that-seals-up-a-critical-danger",
+    "chain": [
+      {
+        "name": "A Spell That Seals Up a Critical Danger I",
+        "npc": "Insignificant Being",
+        "exp": 12000,
+        "rewards": [
+          "12,000 experience",
+          "Power Elixir x 20"
+        ],
+        "procedures": [
+          "Talk to the Insignificant Being in Dungeon: Another Entrance.",
+          "Hunt for 33 Cold Steam from Cold Eye.",
+          "Return to the Insignificant Being once you have collected the necessary items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Cold Steam",
+            "qty": "33"
+          }
+        ],
+        "npcLocation": "Dungeon: Another Entrance"
+      },
+      {
+        "name": "A Spell That Seals Up a Critical Danger II",
+        "npc": "Insignificant Being",
+        "exp": 45000,
+        "rewards": [
+          "45,000 experience",
+          "Power Elixir x 30"
+        ],
+        "procedures": [
+          "Talk to the Insignificant Being in Dungeon: Another Entrance.",
+          "Hunt for 33 Wild Kargo's Spirit Rock from Wild Kargo.",
+          "Hunt for 18 Tauromacis's Spirit Rock from Tauromacis.",
+          "Hunt for 18 Taurospear's Spirit Rock from Taurospear.",
+          "Return to the Insignificant Being once you have collected the necessary items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Wild Kargo's Spirit Rock",
+            "qty": "33"
+          },
+          {
+            "name": "Tauromacis's Spirit Rock",
+            "qty": "18"
+          },
+          {
+            "name": "Taurospear's Spirit Rock",
+            "qty": "18"
+          }
+        ],
+        "npcLocation": "Dungeon: Another Entrance"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "50",
+    "name": "Manji and Balrog",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/manji-and-balrog",
+    "chain": [
+      {
+        "name": "Manji and Balrog",
+        "npc": "Manji",
+        "exp": 50000,
+        "rewards": [
+          "50,000 experience"
+        ],
+        "procedures": [
+          "Talk to Manji of Perion.",
+          "Then go to Dungeon: Bottom of the Temple and talk to Mu Young."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Perion"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "50",
+    "name": "How to Shoo Away the Evil",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/how-to-shoo-away-the-evil",
+    "chain": [
+      {
+        "name": "How to Shoo Away the Evil",
+        "npc": "Chrishrama",
+        "exp": 60000,
+        "rewards": [
+          "60,000 experience"
+        ],
+        "procedures": [
+          "Talk to Chrishrama of Sleepywood.",
+          "After obtaining 6 Shaman Charm from Chrishrama, you will need to locate a total of 6 Shaman Rock or Shaman Rock [2] and place the Charm on them.",
+          "The first Shaman Rock is located at Dungeon: Ant Tunnel III at the marked red star in the following mini map:",
+          "The second Shaman Rock is located at Dungeon: Dangerous Steam at the marked red star in the following mini map:",
+          "The third Shaman Rock is located at Dungeon: Deep Ant Tunnel II at the marked red star in the following mini map:",
+          "The fourth and fifth Shaman Rock [2] are located at Dungeon: The Tunnel That Lost Light I at the marked red stars in the following mini map:",
+          "The final Shaman Rock [2] is located at Dungeon: The Tunnel That Lost Light II at the marked red star in the following mini map:",
+          "Return to Chrishrama and talk to him."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Sleepywood"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "50",
+    "name": "The Mysterious Note",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-mysterious-note",
+    "chain": [
+      {
+        "name": "The Owner of the Mysterious Note             (Level 50 and above)",
+        "npc": "Mysterious Piece of Paper",
+        "exp": 30000,
+        "rewards": [
+          "30,000 experience"
+        ],
+        "procedures": [
+          "Head over to Dungeon: Ant Tunnel I and locate a Mysterious Piece of Paper. Double click on it.",
+          "Take the Mysterious Piece of Paper to Mu Young at Dungeon: Bottom of the Temple and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Mysterious Piece of Paper",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Dungeon: Ant Tunnel I"
+      },
+      {
+        "name": "Who is the Owner of the Mysterious Note?             (Level 50 and above)",
+        "npc": "Mu Young",
+        "exp": 50000,
+        "rewards": [
+          "50,000 experience"
+        ],
+        "procedures": [
+          "Talk to Mu Young at Dungeon: Bottom of the Temple.",
+          "You will be transported to a different area. Defeat the Jr. Balrog that appears.",
+          "Then talk to Tristan's Spirit at Hidden Street: Tristan's Resting Place."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Mysterious Piece of Paper",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Dungeon: Bottom of the Temple"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "42",
+    "name": "Hughes' New Research",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/hughes-new-research",
+    "chain": [
+      {
+        "name": "Hughes' New Research",
+        "npc": "Hughes the Fuse",
+        "exp": 28290,
+        "rewards": [
+          "28,290 experience",
+          "3 Fame"
+        ],
+        "procedures": [
+          "Search for the hole in Orbis: Orbis Tower <B2> that leads to Orbis Tower <Hugh's Laboratory>.",
+          "Enter and talk to Hughes the Fuse.",
+          "Hunt for 100 Poopa Egg from Poopa.",
+          "Hunt for 100 Poison Poopa's Poisonous Spikes from Poison Poopa.",
+          "Return to Hughes the Fuse once you have completed the tasks given."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Poopa Egg",
+            "qty": "100"
+          },
+          {
+            "name": "Poison Poopa's Poisonous Spikes",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Orbis Tower <Hugh's Laboratory>"
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "43",
+    "name": "Her Secret Craving for Seal Meat",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/her-secret-craving-for-seal-meat",
+    "chain": [
+      {
+        "name": "Her Secret Craving for Seal Meat",
+        "npc": "Grandma Yeon",
+        "exp": 30000,
+        "rewards": [
+          "30,000 experience"
+        ],
+        "procedures": [
+          "Talk to Grandma Yeon in Korean Folk Town.",
+          "Hunt for 15 Seal Meat.",
+          "Return to Grandma Yeon once you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Seal Meat",
+            "qty": "15"
+          }
+        ],
+        "npcLocation": "Korean Folk Town"
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "45",
+    "name": "Find Mariwaka's Purse!",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/find-mariwakas-purse",
+    "chain": [
+      {
+        "name": "Grako's Request             (Level 45 and above)",
+        "npc": "Grako",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Grako in Zipangu: Showa Town.",
+          "Purchase 1 Cider from Doran.",
+          "Return to Grako after purchasing the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Cider",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Zipangu: Showa Town"
+      },
+      {
+        "name": "Grako's Request 2             (Level 45 and above)",
+        "npc": "Grako",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Grako once again.",
+          "Search for Mariwaka in Zipangu: Showa Town and talk to her."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Zipangu: Showa Town"
+      },
+      {
+        "name": "Mariwaka's Request             (Level 45 and above)",
+        "npc": "Popo",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Search for Popo in Zipangu: Showa Town and speak to him."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Zipangu: Showa Town"
+      },
+      {
+        "name": "Mariwaka's Purse             (Level 45 and above)",
+        "npc": "Mariwaka",
+        "exp": 0,
+        "rewards": [
+          "All Cure Potion x 20"
+        ],
+        "procedures": [
+          "Hunt for 1 Mariwaka's Bag from Leader A or Leader B.",
+          "Give the collected item back to Mariwaka."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Mariwaka's Bag",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Zipangu: Showa Town"
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "50",
+    "name": "Umi's Ambition",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/umis-ambition",
+    "chain": [
+      {
+        "name": "Umi Needs Money             (Level 50 and above)",
+        "npc": "Umi",
+        "exp": 2000,
+        "rewards": [
+          "2,000 experience"
+        ],
+        "procedures": [
+          "Talk to Umi in Zipangu: Showa Town. Take note that you must pay 5,000,000 mesos before the quest can begin."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Zipangu: Showa Town"
+      },
+      {
+        "name": "Lazy Alien Gray             (Level 50 and above)",
+        "npc": "Alien Gray",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Head over to Omega Sector: Kulan Field II and search for Alien Gray."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Omega Sector: Kulan Field II"
+      },
+      {
+        "name": "The Arrogant Alien Gray             (Level 50 and above)",
+        "npc": "Alien Gray",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Hunt for 400 Space Food from Barnard Gray.",
+          "Return to Alien Gray after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Space Food",
+            "qty": "400"
+          }
+        ],
+        "npcLocation": "Omega Sector: Kulan Field II"
+      },
+      {
+        "name": "Good Luck             (Level 50 and above)",
+        "npc": "Umi",
+        "exp": 0,
+        "rewards": [
+          "Black Metus x 1",
+          "Black Mamba x 1",
+          "Redemption x 1",
+          "Gigantic Sledge x 1",
+          "Sparta x 1",
+          "Dark Ritual x 1",
+          "Deadly Fin x 1",
+          "Serpent's Coil x 1",
+          "Neocora x 1",
+          "Hawkhead x 1",
+          "Tamus x 1",
+          "Jeweled Katar x 1",
+          "Sai x 1",
+          "Thorns x 1",
+          "Lion's Fang x 1",
+          "Serpent's Tongue x 1",
+          "Olympus x 1",
+          "Rower x 1",
+          "Steel Slain x 1",
+          "Grey Work Gloves x 1",
+          "Watermelon x 100",
+          "Dried Squid x 100",
+          "Dark Scroll for Topwear for STR 30% x 1",
+          "Dark Scroll for Bottomwear for Jump 30% x 1",
+          "Dark Scroll for Overall Armor for INT 30% x 1",
+          "Dark Scroll for Overall Armor for DEX 30% x 1",
+          "Dark Scroll for Overall Armor for DEF 30% x 1"
+        ],
+        "procedures": [
+          "Refine 10 Orihalcon Plate.",
+          "Bring the items to Umi."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Orihalcon Plate",
+            "qty": "10"
+          }
+        ],
+        "npcLocation": "Zipangu: Showa Town"
+      }
+    ]
+  },
+  {
+    "location": "Singapore",
+    "level": "45",
+    "name": "Technical Assignment",
+    "url": "https://bbb.hidden-street.net/quest/singapore/technical-assignment",
+    "chain": [
+      {
+        "name": "Technical Assignment",
+        "npc": "Johnson",
+        "exp": 8000,
+        "rewards": [
+          "8,000 experience",
+          "Screw x 20"
+        ],
+        "procedures": [
+          "Talk to Johnson in Singapore.",
+          "Hunt for 2 Headlight from Trucker.",
+          "Hunt for 6 Tires from Trucker.",
+          "Hunt for 1 Batteries from Trucker.",
+          "Talk to Airu in Singapore after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Headlight",
+            "qty": "2"
+          },
+          {
+            "name": "Tires",
+            "qty": "6"
+          },
+          {
+            "name": "Batteries",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Singapore: CBD"
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "50",
+    "name": "Cleaning Up the Streets",
+    "url": "https://bbb.hidden-street.net/quest/masteria/cleaning-up-the-streets",
+    "chain": [
+      {
+        "name": "Cleaning Up the Streets",
+        "npc": "Lita Lawless",
+        "exp": 15000,
+        "rewards": [
+          "15,000 experience",
+          "Onyx Blade x 1 if you are a Warrior",
+          "Nocturnal Staff x 1 if you are a Magician",
+          "Diamond Arrow for Bow x 1000 if you are a Bowman",
+          "Diamond Arrow for Crossbow x 1000 if you are a Bowman",
+          "White Identity x 1 if you are a Thief",
+          "Mr. Rasfelt x 1 if you are a Pirate",
+          "Fury Claw x 1 if you are a Pirate"
+        ],
+        "procedures": [
+          "Talk to Lita Lawless at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Eliminate  200 Gryphon .",
+          "Eliminate  200 Electrophant .",
+          "Return to Lita Lawless after you have completed your task."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center"
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "50",
+    "name": "Cleaning Up the Streets - Continued",
+    "url": "https://bbb.hidden-street.net/quest/masteria/cleaning-up-the-streets-continued",
+    "chain": [
+      {
+        "name": "Cleaning Up the Streets - Continued",
+        "npc": "Lita Lawless",
+        "exp": 9000,
+        "rewards": [
+          "9,000 experience"
+        ],
+        "procedures": [
+          "Talk to Lita Lawless in New Leaf City Town Street: New Leaf City - Town Center.",
+          "Eliminate 200 Gryphon.",
+          "Eliminate 200 Electrophant.",
+          "Return to Lita Lawless after your task is completed."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center"
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "50",
+    "name": "Featherweights",
+    "url": "https://bbb.hidden-street.net/quest/masteria/featherweights",
+    "chain": [
+      {
+        "name": "Featherweights",
+        "npc": "Icebyrd Slimm",
+        "exp": 0,
+        "rewards": [
+          "Barbarian Elixir x 10",
+          "Sorcerer Elixir x 10"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm in New Leaf City Town Street: New Leaf City - Town Center.",
+          "Hunt for 150 Boomer Core from Boomer.",
+          "Eliminate 100 Gryphon.",
+          "Return to Icebyrd Slimm after your task is completed."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Boomer Core",
+            "qty": "150"
+          }
+        ],
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center"
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "50",
+    "name": "Urban Warrior",
+    "url": "https://bbb.hidden-street.net/quest/masteria/urban-warrior",
+    "chain": [
+      {
+        "name": "Urban Warrior",
+        "npc": "Icebyrd Slimm",
+        "exp": 10000,
+        "rewards": [
+          "10,000 experience",
+          "Warrior Throne x 1"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm in New Leaf City Town Street: New Leaf City - Town Center."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center"
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "50",
+    "name": "Finding Jack",
+    "url": "https://bbb.hidden-street.net/quest/masteria/finding-jack",
+    "chain": [
+      {
+        "name": "Finding Jack",
+        "npc": "John Barricade",
+        "exp": 175000,
+        "rewards": [
+          "175,000 experience",
+          "Map of Phantom Forest x 1"
+        ],
+        "procedures": [
+          "Talk to John Barricade in Bigger Ben: Lobby.",
+          "Look for Jack in Crimsonwood Mountain: Cavern of Pain and talk to him."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Bigger Ben: Lobby"
+      }
+    ]
+  },
+  {
+    "location": "Malaysia",
+    "level": "50",
+    "name": "Malek's Joy of Music",
+    "url": "https://bbb.hidden-street.net/quest/malaysia/maleks-joy-of-music",
+    "chain": [
+      {
+        "name": "A Bright and Sunny Day",
+        "npc": "Village Chief Malek",
+        "exp": 10000,
+        "rewards": [
+          "3,000 mesos",
+          "10,000 experience",
+          "3 Fame"
+        ],
+        "procedures": [
+          "Talk to Village Chief Malek in Malaysia: Muddy Banks 2.",
+          "Hunt for 50 Coconut Husk from Chlorotrap.",
+          "Return to Village Chief Malek and give him the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Coconut Husk",
+            "qty": "50"
+          }
+        ],
+        "npcLocation": "Malaysia: Muddy Banks 2"
+      },
+      {
+        "name": "Too Hot!",
+        "npc": "Village Chief Malek",
+        "exp": 20000,
+        "rewards": [
+          "5,000 mesos",
+          "20,000 experience",
+          "5 Fame"
+        ],
+        "procedures": [
+          "Talk to Village Chief Malek in Malaysia: Muddy Banks 2.",
+          "Hunt for 100 Coconut Husk from Chlorotrap.",
+          "Return to Village Chief Malek and give him the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Coconut Husk",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Malaysia: Muddy Banks 2"
+      },
+      {
+        "name": "I Am Bored!",
+        "npc": "Village Chief Malek",
+        "exp": 30000,
+        "rewards": [
+          "8,000 mesos",
+          "30,000 experience",
+          "8 Fame"
+        ],
+        "procedures": [
+          "Talk to Village Chief Malek in Malaysia: Muddy Banks 2.",
+          "Hunt for 100 Rebab from Emo Slime.",
+          "Return to Village Chief Malek and give him the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Rebab",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Malaysia: Muddy Banks 2"
+      },
+      {
+        "name": "All Taken Away!",
+        "npc": "Village Chief Malek",
+        "exp": 30000,
+        "rewards": [
+          "10,000 mesos",
+          "30,000 experience",
+          "10 Fame"
+        ],
+        "procedures": [
+          "Talk to Village Chief Malek in Malaysia: Muddy Banks 2.",
+          "Hunt for 150 Rebab from Emo Slime.",
+          "Return to Village Chief Malek and give him the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Rebab",
+            "qty": "150"
+          }
+        ],
+        "npcLocation": "Malaysia: Muddy Banks 2"
+      }
+    ]
+  }
+]

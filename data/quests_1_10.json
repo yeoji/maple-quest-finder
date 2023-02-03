@@ -1,0 +1,950 @@
+[
+  {
+    "location": "Victoria Island",
+    "level": "0",
+    "name": "A Lesson On Job Advancement",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/a-lesson-on-job-advancement",
+    "chain": [
+      {
+        "name": "A Lesson On Job Advancement",
+        "npc": "Olaf",
+        "npcLocation": "Lith Harbor",
+        "exp": 65,
+        "rewards": [
+          "65 experience"
+        ],
+        "procedures": [
+          "Talk to Olaf in Lith Harbor.",
+          "Correctly answer the questions asked by him.\nQUESTIONS:\nThe level required to advance as a warrior, thief or bowman.\nThe level required to advance as a magician.\nThe place to advance for certain jobs.",
+          "The level required to advance as a warrior, thief or bowman.",
+          "The level required to advance as a magician.",
+          "The place to advance for certain jobs."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "0",
+    "name": "The Path of Magician (Magician Only)",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-path-of-magician-magician-only",
+    "chain": [
+      {
+        "name": "The Path of Magician (Magician Only)",
+        "npc": "Olaf",
+        "npcLocation": "Lith Harbor",
+        "exp": 300,
+        "rewards": [
+          "300 experience"
+        ],
+        "procedures": [
+          "Talk to Olaf in Lith Harbor.",
+          "Head over to Ellinia and talk to Grendel the Really Old."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "0",
+    "name": "The Path of Thief (Thief Only)",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-path-of-thief-thief-only",
+    "chain": [
+      {
+        "name": "The Path of Thief (Thief Only)",
+        "npc": "Olaf",
+        "npcLocation": "Lith Harbor",
+        "exp": 300,
+        "rewards": [
+          "300 experience"
+        ],
+        "procedures": [
+          "Talk to Olaf in Lith Harbor.",
+          "Head over to Kerning City and talk to Dark Lord."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "0",
+    "name": "The Wandering Alchemist Eurek's New Skill",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-wandering-alchemist-eureks-new-skill",
+    "chain": [
+      {
+        "name": "The Wandering Alchemist Eurek's New Skill",
+        "npc": "Eurek the Alchemist",
+        "npcLocation": "Leafre",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Eurek the Alchemist in Sleepywood.",
+          "Purchase 1 Scroll for Bottomwear for DEF 100%.",
+          "Purchase 1 Scroll for Helmet for DEF 100%.",
+          "Purchase 1 Scroll for One-Handed Sword for ATT 100%.",
+          "Purchase 1 Scroll for Topwear for DEF 100%.",
+          "Obtain 1 Red Whip.",
+          "Pay Eurek the Alchemist 1,000,000 mesos to complete the quest.",
+          "Return to him after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Scroll for Bottomwear for DEF 100%",
+            "qty": "1"
+          },
+          {
+            "name": "Scroll for Helmet for DEF 100%",
+            "qty": "1"
+          },
+          {
+            "name": "Scroll for One-Handed Sword for ATT 100%",
+            "qty": "1"
+          },
+          {
+            "name": "Scroll for Topwear for DEF 100%",
+            "qty": "1"
+          },
+          {
+            "name": "Red Whip",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "0",
+    "name": "Captain Al's Passing of Knowledge",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/captain-als-passing-of-knowledge",
+    "chain": [
+      {
+        "name": "Enjoy the Entitlement!",
+        "npc": "Captain Al",
+        "npcLocation": "Lith Harbor",
+        "exp": 10000,
+        "rewards": [
+          "10,000 experience"
+        ],
+        "procedures": [
+          "Find Captain Al and talk to him.",
+          "Save up 2,000 Rep then use Entitlement to spend it down below 500.",
+          "Talk to Captain Al again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Captain Al, Who Are You?",
+        "npc": "Captain Al",
+        "npcLocation": "Lith Harbor",
+        "exp": 1500,
+        "rewards": [
+          "1,500 experience"
+        ],
+        "procedures": [
+          "Find Captain Al and talk to him.",
+          "Become a member of a Family.",
+          "Talk to Captain Al again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Find a Junior!",
+        "npc": "Captain Al",
+        "npcLocation": "Lith Harbor",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Find Captain Al and talk to him.",
+          "Add at least one Junior.",
+          "Return to Captain Al and talk to him."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "0",
+    "name": "The Path of Bowman (Bowman Only)",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-path-of-bowman-bowman-only",
+    "chain": [
+      {
+        "name": "The Path of Bowman (Bowman Only)",
+        "npc": "Olaf",
+        "npcLocation": "Lith Harbor",
+        "exp": 300,
+        "rewards": [
+          "300 experience"
+        ],
+        "procedures": [
+          "Talk to Olaf in Lith Harbor.",
+          "Head over to Victoria Road: Henesys Park and talk to Athena Pierce."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "0",
+    "name": "The Path of Warrior (Warrior Only)",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-path-of-warrior-warrior-only",
+    "chain": [
+      {
+        "name": "The Path of Warrior (Warrior Only)",
+        "npc": "Olaf",
+        "npcLocation": "Lith Harbor",
+        "exp": 300,
+        "rewards": [
+          "300 experience"
+        ],
+        "procedures": [
+          "Talk to Olaf in Lith Harbor.",
+          "Head over to Perion and talk to Dances with Balrog."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "0",
+    "name": "The Road of Pirate (Pirate Only)",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-road-of-pirate-pirate-only",
+    "chain": [
+      {
+        "name": "The Road of Pirate (Pirate Only)",
+        "npc": "Olaf",
+        "npcLocation": "Lith Harbor",
+        "exp": 300,
+        "rewards": [
+          "300 experience"
+        ],
+        "procedures": [
+          "Talk to Olaf in Lith Harbor.",
+          "Head over to Nautilus Port and talk to Kyrin."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "Whalians and The Nautilus",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/whalians-and-the-nautilus",
+    "chain": [
+      {
+        "name": "The Prince Request",
+        "npc": "Sharyl",
+        "npcLocation": "The Nautilus: Bottom Floor - Hallway",
+        "exp": 400,
+        "rewards": [
+          "400 experience"
+        ],
+        "procedures": [
+          "Talk to Sharyl in The Nautilus: Bottom Floor - Hallway.",
+          "Obtain 1 Mana Elixir.",
+          "Return to Sharyl after you have obtained the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Mana Elixir",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Shining Stone",
+        "npc": "Sharyl",
+        "npcLocation": "The Nautilus: Bottom Floor - Hallway",
+        "exp": 400,
+        "rewards": [
+          "400 experience"
+        ],
+        "procedures": [
+          "After talking to Sharyl, go to The Nautilus: Generator Room.",
+          "Head to the bottom of the room and click on the Shiny Stone.",
+          "Return to Sharyl after you have completed the task."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "I Need To Find My Daughter",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/i-need-to-find-my-daughter",
+    "chain": [
+      {
+        "name": "I Need To Find My Daughter 1",
+        "npc": "Bruce",
+        "npcLocation": "Henesys",
+        "exp": 0,
+        "rewards": [
+          "Ayan's Letter x 1"
+        ],
+        "procedures": [
+          "Talk to Bruce in Henesys.  You will obtain 1 Toy Sword.",
+          "Bring that item to Ayan in Perion."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Toy Sword",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "I Need To Find My Daughter 2",
+        "npc": "Bruce",
+        "npcLocation": "Henesys",
+        "exp": 200,
+        "rewards": [
+          "500 mesos",
+          "200 experience"
+        ],
+        "procedures": [
+          "Bring the obtained item to Henesys and give it to Bruce."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Ayan's Letter",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "I'm Bored",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/im-bored",
+    "chain": [
+      {
+        "name": "I'm Bored 2",
+        "npc": "Icarus",
+        "npcLocation": "Kerning City",
+        "exp": 250,
+        "rewards": [
+          "250 experience",
+          "Red Potion x 25",
+          "Blue Potion x 15"
+        ],
+        "procedures": [
+          "Hunt for 40 Squishy Liquid.",
+          "Hunt for 40 Tree Branch.",
+          "Return to Icarus after you have collected all the items and give it to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Squishy Liquid",
+            "qty": "40"
+          },
+          {
+            "name": "Tree Branch",
+            "qty": "40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "The Lost Letter",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-lost-letter",
+    "chain": [
+      {
+        "name": "The Half-Written Letter",
+        "npc": "Muirhat",
+        "npcLocation": "The Nautilus: Top Floor - Hallway",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Double click on the garbage can which is located near Muirhat in The Nautilus: Top Floor - Hallway.",
+          "Once you have obtained 1 Crumpled Paper, talk to Muirhat.",
+          "Head over to Henesys and talk to Athena Pierce."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Crumpled Paper",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Athena Pierce's Gift",
+        "npc": "Athena Pierce",
+        "npcLocation": "Victoria Road: Henesys Park",
+        "exp": 300,
+        "rewards": [
+          "300 experience",
+          "Nautilus Return Scroll x 5"
+        ],
+        "procedures": [
+          "Talk to Athena Pierce in Henesys and you will obtain 1 Old Orgel.",
+          "Go back to The Nautilus: Top Floor - Hallway and give the obtained item to Kyrin."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Old Orgel",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "Fanzy the Mysterious Cat",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/fanzy-the-mysterious-cat",
+    "chain": [
+      {
+        "name": "Fanzy the Mysterious Cat",
+        "npc": "Nella",
+        "npcLocation": "Kerning City",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Nella in Kerning City.",
+          "You will initiate the next quest, Fanzy the Amusing Cat."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Pet from Cash Shop",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "Fanzy the Amusing Cat",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/fanzy-the-amusing-cat",
+    "chain": [
+      {
+        "name": "Fanzy the Amusing Cat",
+        "npc": "Fanzy",
+        "npcLocation": "Victoria Road: The Forest North of Ellinia",
+        "exp": 500,
+        "rewards": [
+          "500 experience",
+          "You will also be rewarded 15 pet closeness."
+        ],
+        "procedures": [
+          "Search for Fanzy at Victoria Road: The Forest North of Ellinia.",
+          "Hunt for 1 Red Ball of Yarn from Slime.",
+          "Go back to Fanzy once you have completed the task."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Red Ball of Yarn",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "Sea Firefly",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/sea-firefly",
+    "chain": [
+      {
+        "name": "Sea Firefly 2",
+        "npc": "Muse",
+        "npcLocation": "Aquarium: Zoo",
+        "exp": 7000,
+        "rewards": [
+          "7,000 experience"
+        ],
+        "procedures": [
+          "Talk to Muse in Aquarium: Zoo and you will obtain 1 Magic Flask (Filled).",
+          "Go back to The Nautilus: Bottom Floor - Hallway and give the obtained item to Sharyl."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Magic Flask (Filled)",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Sea Firefly 1",
+        "npc": "Sharyl",
+        "npcLocation": "The Nautilus: Bottom Floor - Hallway",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Sharyl in The Nautilus: Bottom Floor - Hallway and you will obtain 1 Magic Flask (Empty).",
+          "Head over to Aquarium: Zoo and give the obtained item to Muse."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Magic Flask (Empty)",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "The Large Pearl",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-large-pearl",
+    "chain": [
+      {
+        "name": "The Large Pearl",
+        "npc": "Sharyl",
+        "npcLocation": "The Nautilus: Bottom Floor - Hallway",
+        "exp": 7000,
+        "rewards": [
+          "7,000 experience"
+        ],
+        "procedures": [
+          "Talk to Sharyl in The Nautilus: Bottom Floor - Hallway.",
+          "Go to the bottom of the map in The Nautilus: Generator Room.",
+          "Hit the oyster as shown in the image above until you have obtained 1 Large Pearl.",
+          "Head over to The Nautilus: Top Floor - Hallway and give the obtained item to Muirhat."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Large Pearl",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "The Stump Horror Story",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-stump-horror-story",
+    "chain": [
+      {
+        "name": "The Stump Horror Story",
+        "npc": "Ayan",
+        "npcLocation": "Perion",
+        "exp": 300,
+        "rewards": [
+          "300 experience"
+        ],
+        "procedures": [
+          "Talk to Ayan in Perion.",
+          "Hunt and kill 50 Stump.",
+          "Return to Perion and talk to Ayan."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "I Need Help On My Homework!",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/i-need-help-on-my-homework",
+    "chain": [
+      {
+        "name": "I Need Help On My Homework!",
+        "npc": "Wing the Fairy",
+        "npcLocation": "Ellinia",
+        "exp": 250,
+        "rewards": [
+          "250 experience",
+          "Blue Potion x 25"
+        ],
+        "procedures": [
+          "Talk to Wing the Fairy in Ellinia.",
+          "Hunt for 10 Slime's Bubble.",
+          "Hunt for 30 Tree Branch.",
+          "Hunt for 30 Squishy Liquid.",
+          "Once you have obtained the items, return to Wing the Fairy and give them to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Slime's Bubble",
+            "qty": "10"
+          },
+          {
+            "name": "Tree Branch",
+            "qty": "30"
+          },
+          {
+            "name": "Squishy Liquid",
+            "qty": "30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "The Reason Behind the Mushroom Studies",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-reason-behind-the-mushroom-studies",
+    "chain": [
+      {
+        "name": "The Reason Behind the Mushroom Studies",
+        "npc": "Bruce",
+        "npcLocation": "Henesys",
+        "exp": 300,
+        "rewards": [
+          "300 experience",
+          "Red Potion x 25"
+        ],
+        "procedures": [
+          "Talk to Bruce in Henesys.",
+          "Hunt for 40 Orange Mushroom Cap.",
+          "Hunt for 10 Mushroom Spore.",
+          "Return to Bruce and give him all the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Orange Mushroom Cap",
+            "qty": "40"
+          },
+          {
+            "name": "Mushroom Spore",
+            "qty": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "A Mysterious Entity On-Board The Nautilus",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/a-mysterious-entity-on-board-the-nautilus",
+    "chain": [
+      {
+        "name": "A Mysterious Entity On-Board The Nautilus",
+        "npc": "Baine",
+        "npcLocation": "The Nautilus: Bottom Floor - Hallway",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Baine in The Nautilus: Bottom Floor - Hallway.",
+          "Head out to Victoria Road: Nautilus Harbor and talk to Bart."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "A Mysterious Presence On-Board The Nautilus",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/a-mysterious-presence-on-board-the-nautilus",
+    "chain": [
+      {
+        "name": "A Mysterious Presence On-Board The Nautilus",
+        "npc": "Bart",
+        "npcLocation": "Victoria Road: Nautilus Harbor",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Bart in Victoria Road: Nautilus Harbor and you will obtain 1 Daily Log.",
+          "Go to The Nautilus: Bottom Floor - Hallway and talk to Baine."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Daily Log",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "The Truth Behind the Black Shadow",
+        "npc": "Baine",
+        "npcLocation": "The Nautilus: Bottom Floor - Hallway",
+        "exp": 400,
+        "rewards": [
+          "400 experience"
+        ],
+        "procedures": [
+          "Talk to Baine in The Nautilus: Bottom Floor - Hallway.",
+          "Kill 20 Red Snail.",
+          "Kill 20 Pig.",
+          "Hunt for 1 Black Magician's Token from Red Snail or Pig.",
+          "Return to Baine once you have completed the tasks."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Black Magician's Token",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Report to Muirhat",
+        "npc": "Baine",
+        "npcLocation": "The Nautilus: Bottom Floor - Hallway",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Baine in The Nautilus: Bottom Floor - Hallway. You will obtain 1 Confidential Report.",
+          "Look for Muirhat in The Nautilus: Top Floor - Hallway and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Confidential Report",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Disciples of the Black Magician",
+        "npc": "Muirhat",
+        "npcLocation": "The Nautilus: Top Floor - Hallway",
+        "exp": 500,
+        "rewards": [
+          "500 experience",
+          "1 Fame"
+        ],
+        "procedures": [
+          "Talk to Muirhat in The Nautilus: Top Floor - Hallway.",
+          "Talk to him again and select: \"Please send me to where the Black Magician's Subordinate is hiding.\"",
+          "Kill the Pig in the map until a Black Magician's Subordinate appears (this one doesn't make a sound when hit). Defeat it.",
+          "Return to Muirhat and talk to him once you have completed the tasks."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "10",
+    "name": "Fixing Blackbull's House",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/fixing-blackbulls-house",
+    "chain": [
+      {
+        "name": "Fixing Blackbull's House",
+        "npc": "Blackbull",
+        "npcLocation": "Perion",
+        "exp": 50,
+        "rewards": [
+          "50 experience",
+          "Steel Shield x 1",
+          "Red Triangular Shield x 1"
+        ],
+        "procedures": [
+          "Talk Blackbull in Perion.",
+          "Hunt 30 Tree Branch from Stump.",
+          "Hunt 50 Firewood from Axe Stump or Dark Axe Stump.",
+          "Talk to Blackbull again."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Tree Branch",
+            "qty": "30"
+          },
+          {
+            "name": "Firewood",
+            "qty": "50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "0",
+    "name": "Beauty or Beast",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/beauty-or-beast",
+    "chain": [
+      {
+        "name": "Beauty or Beast",
+        "npc": "Claudia",
+        "npcLocation": "Amoria",
+        "exp": 500,
+        "rewards": [
+          "500 experience",
+          "Claudia's Coupon (EXP Hair) x 1"
+        ],
+        "procedures": [
+          "Talk to Claudia in Amoria.",
+          "Hunt for 25 Squishy Liquid.",
+          "Return to Claudia after you have collected the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Squishy Liquid",
+            "qty": "25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "8",
+    "name": "MapleStory Basic Knowledge",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/maplestory-basic-knowledge",
+    "chain": [
+      {
+        "name": "Playing Around in Ninja Town             (Level 30 and above)",
+        "npc": "Shururu",
+        "npcLocation": "Zipangu: Outside Ninja Castle",
+        "exp": 0,
+        "rewards": [
+          "Dark Scroll for Shoes for Jump 30% x 1",
+          "Elixir x 10"
+        ],
+        "procedures": [
+          "Talk to Shururu at Zipangu: Outside Ninja Castle.",
+          "Hunt for 30 Genin Doll from Genin.",
+          "Return and talk to Shururu."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Genin Doll",
+            "qty": "30"
+          }
+        ]
+      },
+      {
+        "name": "Around Lith Harbor             (Level 8 and above)",
+        "npc": "Olaf",
+        "npcLocation": "Lith Harbor",
+        "exp": 0,
+        "rewards": [
+          "White Pill  x 25",
+          "Blue Pill x 25"
+        ],
+        "procedures": [
+          "Talk to Olaf at Lith Harbor.",
+          "Hunt Ribbon Pig for 1 Pig's Head and 20 Pig's Ribbon.",
+          "Return and talk to Olaf."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Pig's Head",
+            "qty": "1"
+          },
+          {
+            "name": "Pig's Ribbon",
+            "qty": "20"
+          }
+        ]
+      },
+      {
+        "name": "Relaxing at the Mushroom Shrine             (Level 20 and above)",
+        "npc": "Kino Konoko",
+        "npcLocation": "Zipangu: Mushroom Shrine",
+        "exp": 0,
+        "rewards": [
+          "Mana Elixir x 30",
+          "Kinoko Ramen (Salt) x 30"
+        ],
+        "procedures": [
+          "Talk to Kino Konoko at Zipangu: Mushroom Shrine.",
+          "Hunt for 2 Maple Special Bento from Blue Mushroom.",
+          "Return and talk to Kino Konoko."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Maple Special Bento",
+            "qty": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "10",
+    "name": "Tigun the Guard at the Palace",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/tigun-the-guard-at-the-palace",
+    "chain": [
+      {
+        "name": "Tigun the Guard at the Palace",
+        "npc": "Tigun",
+        "npcLocation": "Ariant: Ariant Castle",
+        "exp": 0,
+        "rewards": [
+          "Palace Pass x 1",
+          "This quest is repeatable if you have dropped the Palace Pass."
+        ],
+        "procedures": [
+          "Talk to Tigun in Ariant: Ariant Castle.",
+          "Talk to him once again to complete the quest."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "10",
+    "name": "Learning About the Culture of Ariant",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/learning-about-the-culture-of-ariant",
+    "chain": [
+      {
+        "name": "Learning About the Culture of Ariant",
+        "npc": "Byron",
+        "npcLocation": "Ariant: The Town of Ariant",
+        "exp": 300,
+        "rewards": [
+          "300 experience"
+        ],
+        "procedures": [
+          "Talk to Byron in Ariant: The Town of Ariant.",
+          "Head over to Ariant: Ariant Castle and talk to the Court Oasis (double click on the water) as shown in the image below.",
+          "Go back to Byron and talk to him."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "10",
+    "name": "Disgruntled Roly-Poly Worker",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/disgruntled-roly-poly-worker",
+    "chain": [
+      {
+        "name": "Disgruntled Roly-Poly Worker",
+        "npc": "Roly-Poly 10",
+        "npcLocation": "Ludibrium: Eos Tower 3rd Floor",
+        "exp": 0,
+        "rewards": [
+          "Eos Rock Scroll x 20"
+        ],
+        "procedures": [
+          "Talk to Roly-Poly 10 at Ludibrium: Eos Tower 3rd Floor.",
+          "Kill 20 Black Ratz.",
+          "Hunt for 5 Hard Walnut.",
+          "Return and talk to Roly-Poly 10."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Hard Walnut",
+            "qty": "5"
+          }
+        ]
+      }
+    ]
+  }
+]

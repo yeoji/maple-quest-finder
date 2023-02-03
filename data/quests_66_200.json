@@ -1,0 +1,4226 @@
+[
+  {
+    "location": "World Tour",
+    "level": "69",
+    "name": "An Old Code",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/an-old-code",
+    "chain": [
+      {
+        "name": "A Puzzling Code",
+        "npc": "Kino Konoko",
+        "exp": 10000,
+        "rewards": [
+          "10,000 experience"
+        ],
+        "procedures": [
+          "Talk to Kino Konoko in Zipangu: Mushroom Shrine.",
+          "Head over to Sleepywood and touch the Mysterious Statue."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Zipangu: Mushroom Shrine"
+      },
+      {
+        "name": "Second Code",
+        "npc": "Small Tomb",
+        "exp": 10000,
+        "rewards": [
+          "10,000 experience"
+        ],
+        "procedures": [
+          "Go to El Nath: Wolf Territory I and search for the Small Tomb."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "El Nath: Wolf Territory I"
+      },
+      {
+        "name": "The Meaning of the Code",
+        "npc": "Kino Konoko",
+        "exp": 15000,
+        "rewards": [
+          "15,000 experience"
+        ],
+        "procedures": [
+          "Return to Zipangu: Mushroom Shrine and talk to Kino Konoko."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Zipangu: Mushroom Shrine"
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "75",
+    "name": "Umi's Spiced Veggies",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/umis-spiced-veggies",
+    "chain": [
+      {
+        "name": "Umi's Spiced Veggies",
+        "npc": "Umi",
+        "exp": 0,
+        "rewards": [
+          "Dark Scroll for Shoes for DEX 30% x 1"
+        ],
+        "procedures": [
+          "Talk to Umi in Zipangu: Showa Town.",
+          "Collect 80 Deep Buffoon's Rock Piece from Deep Buffoon.",
+          "Return to Umi after you have collected the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Deep Buffoon's Rock Piece",
+            "qty": "80"
+          }
+        ],
+        "npcLocation": "Zipangu: Showa Town"
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "85",
+    "name": "Veggies are Awesome",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/veggies-are-awesome",
+    "chain": [
+      {
+        "name": "Veggies are Awesome",
+        "npc": "Umi",
+        "exp": 0,
+        "rewards": [
+          "Watermelon x 50"
+        ],
+        "procedures": [
+          "Talk to Umi in Zipangu: Showa Town.",
+          "Collect 200 Bain's Spiky Collar from Bain.",
+          "Return to Umi after you have collected the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Bain's Spiky Collar",
+            "qty": "200"
+          }
+        ],
+        "npcLocation": "Zipangu: Showa Town"
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "85",
+    "name": "Youthful Mariwaka",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/youthful-mariwaka",
+    "chain": [
+      {
+        "name": "Youthful Mariwaka",
+        "npc": "Mariwaka",
+        "exp": 0,
+        "rewards": [
+          "Song Pyun x 50"
+        ],
+        "procedures": [
+          "Talk to Mariwaka in Zipangu: Showa Town.",
+          "Hunt for 50 Sealed Bottle from Phantom Watch.",
+          "Return to Mariwaka after you have collected the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Sealed Bottle",
+            "qty": "50"
+          }
+        ],
+        "npcLocation": "Zipangu: Showa Town"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Operation Eliminate Red-Nosed Pirates",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/operation-eliminate-red-nosed-pirates",
+    "chain": [
+      {
+        "name": "Tae Sang's Request",
+        "npc": "Tae Sang",
+        "exp": 2000,
+        "rewards": [
+          "2,000 experience"
+        ],
+        "procedures": [
+          "Talk to Tae Sang in Mu Lung.",
+          "Head over to Herb Town and talk to Captain Hwang."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Mu Lung"
+      },
+      {
+        "name": "An Evidence of Slaying the Captain",
+        "npc": "Captain Hwang",
+        "exp": 38000,
+        "rewards": [
+          "38,000 experience",
+          "Scroll for Gloves for DEX 60% x 1"
+        ],
+        "procedures": [
+          "Hunt for 20 Hook from Captain.",
+          "Go back to Captain Hwang after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Hook",
+            "qty": "20"
+          }
+        ],
+        "npcLocation": "Herb Town"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Zenumist and the Missing Alchemist",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/zenumist-and-the-missing-alchemist",
+    "chain": [
+      {
+        "name": "Carson's Experiment",
+        "npc": "Carson",
+        "exp": 5000,
+        "rewards": [
+          "5,000 experience"
+        ],
+        "procedures": [
+          "Equip Zenumist's Cape.",
+          "Talk to Carson at Magatia: Zenumist Society.",
+          "Talk to Carson again to go to the Closed Lab.",
+          "Hunt Homun for a Magic Device and place it in the Pentagram of Alchemy at the center of the Closed Lab.",
+          "Take the Lightless Magic Device to Carson."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Zenumist's Cape",
+            "qty": "1"
+          },
+          {
+            "name": "Magic Device",
+            "qty": "1"
+          },
+          {
+            "name": "Lightless Magic Device",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Magatia: Zenumist Society"
+      },
+      {
+        "name": "Clue",
+        "npc": "Carson",
+        "exp": 60000,
+        "rewards": [
+          "60,000 experience"
+        ],
+        "procedures": [
+          "Talk to Carson at Magatia: Zenumist Society.",
+          "Go to Magatia: Home of the Missing Alchemist and search for various writings in the house.",
+          "Go back to Carson and select the option about a pendant."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Magatia: Zenumist Society"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Alcadno and the Missing Alchemist",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/alcadno-and-the-missing-alchemist",
+    "chain": [
+      {
+        "name": "Maed's Experiment",
+        "npc": "Maed",
+        "exp": 7000,
+        "rewards": [
+          "7,000 experience"
+        ],
+        "procedures": [
+          "Equip Alcadno's Cape.",
+          "Talk to Maed at Magatia: Alcadno Society.",
+          "Eliminate 100 Homunculus.",
+          "Return and talk to Maed."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Alcadno's Cape",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Magatia: Alcadno Society"
+      },
+      {
+        "name": "Han the Broker's Info",
+        "npc": "Maed",
+        "exp": 500,
+        "rewards": [
+          "500 experience"
+        ],
+        "procedures": [
+          "Talk to Maed at Magatia: Alcadno Society.",
+          "Talk to Han the Broker and pay him 50,000 mesos."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Magatia: Alcadno Society"
+      },
+      {
+        "name": "Dr. De Lang's Friend",
+        "npc": "Han the Broker",
+        "exp": 70000,
+        "rewards": [
+          "70,000 experience"
+        ],
+        "procedures": [
+          "Talk to Han the Broker in Sunset Road: Magatia again.",
+          "Find and talk to Eurek the Alchemist."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Sunset Road: Magatia"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Parwen's Memory",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/parwens-memory",
+    "chain": [
+      {
+        "name": "What Parwen Knows",
+        "npc": "Parwen",
+        "exp": 5000,
+        "rewards": [
+          "5,000 experience"
+        ],
+        "procedures": [
+          "Talk to Parwen at Hidden Street: Authorized Personnel Only.",
+          "You will be transported to another map. Talk to Dr. De Lang."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Hidden Street: Authorized Personnel Only"
+      },
+      {
+        "name": "Dr. De Lang, the Missing Alchemist",
+        "npc": "Dr. De Lang",
+        "exp": 5000,
+        "rewards": [
+          "5,000 experience"
+        ],
+        "procedures": [
+          "Talk to Dr. De Lang.",
+          "Then talk to Parwen."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": ""
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "The Secret, Quiet Passage",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/the-secret-quiet-passage",
+    "chain": [
+      {
+        "name": "Parwen's Pass",
+        "npc": "Parwen",
+        "exp": 30000,
+        "rewards": [
+          "30,000 experience"
+        ],
+        "procedures": [
+          "Talk to Parwen at Hidden Street: Authorized Personnel Only.",
+          "Hunt Saitie for 1 Parwen's Entry Pass.",
+          "Return to Parwen and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Parwen's Entry Pass",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Hidden Street: Authorized Personnel Only"
+      },
+      {
+        "name": "Searching for the Master Key",
+        "npc": "Parwen",
+        "exp": 60000,
+        "rewards": [
+          "60,000 experience"
+        ],
+        "procedures": [
+          "Talk to Parwen at Hidden Street: Authorized Personnel Only.",
+          "Hunt Saitie for 100 Entry Pass.",
+          "Return to Parwen and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Entry Pass",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Hidden Street: Authorized Personnel Only"
+      },
+      {
+        "name": "Verifying the Password",
+        "npc": "Parwen",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Parwen at Hidden Street: Authorized Personnel Only.",
+          "Write down the code which he gives you - if you fail to recall this code later, you will have to forfeit the quest and start all over again.",
+          "Enter the password at the doors leading to the Hidden Street: The Unknown Underground Passage at Zenumist Research Institute: Lab - 1st Floor Hallway and Alcadno Research Institute: Lab - Area B-1."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Hidden Street: Authorized Personnel Only"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Romeo's Flowers",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/romeos-flowers",
+    "chain": [
+      {
+        "name": "Romeo's Present",
+        "npc": "Romeo",
+        "exp": 100,
+        "rewards": [
+          "100 experience",
+          "Must kill Angry Frankenroid, save Romeo or Juliet, and choose to help Yulete in order to get this quest."
+        ],
+        "procedures": [
+          "Talk to Romeo at Magatia: Zenumist - Hidden Room.",
+          "Collect 20 May Mist by hunting Homunculus.",
+          "Return to Romeo and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "May Mist",
+            "qty": "20"
+          }
+        ],
+        "npcLocation": "Magatia: Zenumist - Hidden Room"
+      },
+      {
+        "name": "Romeo's Flowers",
+        "npc": "Romeo",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Romeo and obtain Romeo's Snow Rose from him.",
+          "Give the rose to Juliet at Magatia: Alcadno - Hidden Room."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Romeo's Snow Rose",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Magatia: Zenumist - Hidden Room"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Juliet's Response",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/juliets-response",
+    "chain": [
+      {
+        "name": "Juliet's Feelings",
+        "npc": "Juliet",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Juliet at Magatia: Alcadno - Hidden Room.",
+          "Go to Ariant: The Town of Ariant and talk to Sirin."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Magatia: Alcadno - Hidden Room"
+      },
+      {
+        "name": "Sirin's Tailoring Methods",
+        "npc": "Sirin",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Sirin in Ariant: The Town of Ariant and get Sirin's Pattern from her.",
+          "Give the pattern to Juliet in Magatia: Alcadno - Hidden Room."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Sirin's Pattern",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Ariant: The Town of Ariant"
+      },
+      {
+        "name": "Juliet's Response",
+        "npc": "Juliet",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Juliet at Magatia: Alcadno - Hidden Room and receive Juliet's Present from her.",
+          "Give the present to Romeo at Magatia: Zenumist - Hidden Room."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Juliet's Present",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Magatia: Alcadno - Hidden Room"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Romeo's Love Letter",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/romeos-love-letter",
+    "chain": [
+      {
+        "name": "Writing Romeo's Letter",
+        "npc": "Romeo",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Romeo at Magatia: Zenumist - Hidden Room.",
+          "Select the appropriate phrases to help him write the love letter:\n\nJuliet, precious and beautiful\nLooking at your starry eyes\nGot my heart pounding like a wave of ocean\nBonding together like Yeti and Pepe\nI'd like to spend the rest of my life being there for you",
+          "Juliet, precious and beautiful",
+          "Looking at your starry eyes",
+          "Got my heart pounding like a wave of ocean",
+          "Bonding together like Yeti and Pepe",
+          "I'd like to spend the rest of my life being there for you"
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Magatia: Zenumist - Hidden Room"
+      },
+      {
+        "name": "Romeo's Love Letter",
+        "npc": "Romeo",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Romeo at Magatia: Zenumist - Hidden Room and receive Romeo's Love Letter from him.",
+          "Give the letter to Juliet at Magatia: Alcadno - Hidden Room."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Romeo's Love Letter",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Magatia: Zenumist - Hidden Room"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Juliet's Lunchbox",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/juliets-lunchbox",
+    "chain": [
+      {
+        "name": "Juliet is Impressed",
+        "npc": "Juliet",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Juliet at Magatia: Alcadno - Hidden Room.",
+          "Complete the following quest: Han the Broker's Recipe.",
+          "Give the Lunchbox Recipe to Juliet."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Lunchbox Recipe",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Magatia: Alcadno - Hidden Room"
+      },
+      {
+        "name": "Juliet's Lunchbox",
+        "npc": "Juliet",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Juliet at Magatia: Alcadno - Hidden Room and receive Juliet's Lunch Box from her.",
+          "Give the lunch box to Romeo at Magatia: Zenumist - Hidden Room."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Juliet's Lunch Box",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Magatia: Alcadno - Hidden Room"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Keeny's Research on Frankenroid",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/keenys-research-on-frankenroid",
+    "chain": []
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Parwen's Lab",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/parwens-lab",
+    "chain": [
+      {
+        "name": "Parwen's Lab",
+        "npc": "Parwen",
+        "exp": 64900,
+        "rewards": [
+          "64,900 experience"
+        ],
+        "procedures": [
+          "Talk to Parwen at Hidden Street: Authorized Personnel Only.",
+          "Eliminate 200 Saitie.",
+          "Talk to Parwen again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Hidden Street: Authorized Personnel Only"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Phyllia's Pendant",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/phyllias-pendant",
+    "chain": [
+      {
+        "name": "Phyllia's Pendant",
+        "npc": "Phyllia",
+        "exp": 64900,
+        "rewards": [
+          "64,900 experience"
+        ],
+        "procedures": [
+          "Talk to Phyllia in Sunset Road: Magatia.",
+          "Go to Dr. De Lang's House to get the Silver Pendant.",
+          "Return to Phyllia and talk to her again."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Silver Pendant",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Sunset Road: Magatia"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Yulete's Request",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/yuletes-request",
+    "chain": [
+      {
+        "name": "Yulete's Request (Part 1)",
+        "npc": "Yulete",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Go to Magatia: Yulete's Lab located in the sewer in Sunset Road: Magatia.",
+          "Talk to Yulete."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": ""
+      },
+      {
+        "name": "Making the Reagent",
+        "npc": "Yulete",
+        "exp": 100,
+        "rewards": [
+          "100 experience",
+          "1 Fame"
+        ],
+        "procedures": [
+          "Talk to Yulete.",
+          "Enter the room on the left to Lab 1.",
+          "The following liquids should be dropped into the beaker in this order: \n\nMysterious Red Liquid\nMysterious Green Liquid\nMysterious Yellow Liquid\nMysterious Blue Liquid\nMysterious Purple Liquid",
+          "Mysterious Red Liquid",
+          "Mysterious Green Liquid",
+          "Mysterious Yellow Liquid",
+          "Mysterious Blue Liquid",
+          "Mysterious Purple Liquid",
+          "Return to Yulete with the Finished Reagent and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Mysterious Red Liquid",
+            "qty": "1"
+          },
+          {
+            "name": "Mysterious Green Liquid",
+            "qty": "1"
+          },
+          {
+            "name": "Mysterious Yellow Liquid",
+            "qty": "1"
+          },
+          {
+            "name": "Mysterious Blue Liquid",
+            "qty": "1"
+          },
+          {
+            "name": "Mysterious Purple Liquid",
+            "qty": "1"
+          },
+          {
+            "name": "Finished Reagent",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": ""
+      },
+      {
+        "name": "Organizing the Lab Report",
+        "npc": "Yulete",
+        "exp": 100,
+        "rewards": [
+          "100 experience",
+          "1 Fame"
+        ],
+        "procedures": [
+          "Talk to Yulete.",
+          "Enter the room on the left to Lab 2.",
+          "Click everywhere in the room to gather 20 Yulete's Report.",
+          "Return to Yulete and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Yulete's Report",
+            "qty": "20"
+          }
+        ],
+        "npcLocation": ""
+      },
+      {
+        "name": "Eliminating Obstacles",
+        "npc": "Yulete",
+        "exp": 100,
+        "rewards": [
+          "100 experience",
+          "1 Fame"
+        ],
+        "procedures": [
+          "Talk to Yulete.",
+          "Enter the room on the left to Lab 3.",
+          "Kill 100 Obstacle Mutae.",
+          "Return to Yulete and talk to him."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": ""
+      },
+      {
+        "name": "Yulete's Request (Part 2)",
+        "npc": "Yulete",
+        "exp": 68000,
+        "rewards": [
+          "68,000 experience"
+        ],
+        "procedures": [
+          "Once all of the above tasks have been completed, talk to Yulete."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": ""
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Han the Broker's Recipe",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/han-the-brokers-recipe",
+    "chain": [
+      {
+        "name": "Han the Broker's Recipe",
+        "npc": "Han the Broker",
+        "exp": 0,
+        "rewards": [
+          "Lunchbox Recipe x 1"
+        ],
+        "procedures": [
+          "Talk to Han the Broker in Sunset Road: Magatia.",
+          "Pay him 20,000 mesos."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Sunset Road: Magatia"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Romeo Proposes",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/romeo-proposes",
+    "chain": [
+      {
+        "name": "Romeo Proposes",
+        "npc": "Romeo",
+        "exp": 10000,
+        "rewards": [
+          "10,000 experience",
+          "Scroll for One-Handed Sword for ATT 60% x 1 if you are a Warrior",
+          "Scroll for One-Handed Axe for ATT 60% x 1 if you are a Warrior",
+          "Scroll for One-Handed BW for ATT 60% x 1 if you are a Warrior",
+          "Scroll for Two-Handed Sword for ATT 60% x 1 if you are a Warrior",
+          "Scroll for Two-Handed Axe for ATT 60% x 1 if you are a Warrior",
+          "Scroll for Two-Handed BW for ATT 60% x 1 if you are a Warrior",
+          "Scroll for Spear for ATT 60% x 1 if you are a Warrior",
+          "Scroll for Pole Arm for ATT 60% x 1 if you are a Warrior",
+          "Scroll for Wand for Magic Attack 60% x 1 if you are a Magician",
+          "Scroll for Staff for Magic Attack 60% x 1 if you are a Magician",
+          "Scroll for Bow for ATT 60% x 1 if you are a Bowman",
+          "Scroll for Crossbow for ATT 60% x 1 if you are a Bowman",
+          "Scroll for Claw for ATT 60% x 1 if you are a Thief",
+          "Scroll for Dagger for ATT 60% x 1 if you are a Thief",
+          "Scroll for Knuckler for ATT 60% x 1 if you are a Pirate",
+          "Scroll for Gun for Attack 60% x 1 if you are a Pirate"
+        ],
+        "procedures": [
+          "Talk to Romeo at Magatia: Zenumist - Hidden Room.",
+          "Complete the following quest: Allegro, the Master of the Rings.",
+          "Give Romeo's Engagement Ring to Romeo."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Romeo's Engagement Ring",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Magatia: Zenumist - Hidden Room"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Allegro, the Master of the Rings",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/allegro-the-master-of-the-rings",
+    "chain": [
+      {
+        "name": "Allegro, the Master of the Rings",
+        "npc": "Moony",
+        "exp": 0,
+        "rewards": [
+          "Romeo's Engagement Ring x 1"
+        ],
+        "procedures": [
+          "Talk to Moony in Amoria.",
+          "Collect 2 Silver Plate and 2 Diamond and give them to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Silver Plate",
+            "qty": "2"
+          },
+          {
+            "name": "Diamond",
+            "qty": "2"
+          }
+        ],
+        "npcLocation": "Amoria"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Keeny's Research on D.Roid!!",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/keenys-research-on-droid",
+    "chain": [
+      {
+        "name": "Keeny's Research on D.Roid!!",
+        "npc": "Keeny",
+        "exp": 0,
+        "rewards": [
+          "Mechanical Glove x 1",
+          "This quest is repeatable every 3 days."
+        ],
+        "procedures": [
+          "Talk to Keeny in Sunset Road: Magatia.",
+          "Hunt D. Roy at Alcadno Research Institute: Lab - Area C-3 for 1 Broken Mechanical Heart.",
+          "Return to Keeny and talk to her."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Broken Mechanical Heart",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Sunset Road: Magatia"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Yulete's Reward",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/yuletes-reward",
+    "chain": [
+      {
+        "name": "Yulete's Reward",
+        "npc": "Yulete",
+        "exp": 0,
+        "rewards": [
+          "Eye of Horus x 1",
+          "Rock of Wisdom x 1",
+          "You only get one reward, depending on how many marbles you give him.",
+          "This quest is not available after level 85."
+        ],
+        "procedures": [
+          "Talk to Yulete at Magatia: Yulete's Lab, located in the sewer in Sunset Road: Magatia.",
+          "Provide Yulete with\n25 Zenumist Marble and 25 Alcadno Marble to get the Eye of Horus\nOR\n10 Zenumist Marble and 10 Alcadno Marble to get the Rock of Wisdom."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Zenumist Marble",
+            "qty": "10"
+          },
+          {
+            "name": "Alcadno Marble",
+            "qty": "10"
+          }
+        ],
+        "npcLocation": ""
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Alcadno and the Ostracized Research",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/alcadno-and-the-ostracized-research",
+    "chain": []
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "70",
+    "name": "Zenumist and the Ostracized Research",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/zenumist-and-the-ostracized-research",
+    "chain": []
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "71",
+    "name": "The Forgotten Master",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/the-forgotten-master",
+    "chain": [
+      {
+        "name": "Tae Soo's Account",
+        "npc": "Tae Soo",
+        "exp": 700,
+        "rewards": [
+          "700 experience"
+        ],
+        "procedures": [
+          "Talk to Tae Soo in Mu Lung: Peach Farm 1.",
+          "Go to Mu Lung: Mu Lung Temple and talk to No Gong."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Mu Lung: Peach Farm 1"
+      },
+      {
+        "name": "No Gong's Student",
+        "npc": "No Gong",
+        "exp": 700,
+        "rewards": [
+          "700 experience"
+        ],
+        "procedures": [
+          "Talk to No Gong in Mu Lung: Mu Lung Temple.",
+          "Next, talk to Do Gong."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      },
+      {
+        "name": "Do Gong's Spell",
+        "npc": "Do Gong",
+        "exp": 1500,
+        "rewards": [
+          "1,500 experience"
+        ],
+        "procedures": [
+          "Talk to Do Gong in Mu Lung: Mu Lung Temple.",
+          "Hunt for 10 Old Paper from The Book Ghost.",
+          "Hunt for 10 Broken Deer Horn from Reindeer.",
+          "Hunt for 50 Peach Seed from Peach Monkey.",
+          "Return to him after you have collected all of the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Old Paper",
+            "qty": "10"
+          },
+          {
+            "name": "Broken Deer Horn",
+            "qty": "10"
+          },
+          {
+            "name": "Peach Seed",
+            "qty": "50"
+          }
+        ],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      },
+      {
+        "name": "Defeat Tae Roon",
+        "npc": "No Gong",
+        "exp": 215400,
+        "rewards": [
+          "215,400 experience"
+        ],
+        "procedures": [
+          "Talk to No Gong in Mu Lung: Mu Lung Temple.",
+          "Eliminate 1 Tae Roon.",
+          "Return to him after you have completed the task."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      },
+      {
+        "name": "Tae Soo’s Reward",
+        "npc": "Tae Soo",
+        "exp": 0,
+        "rewards": [
+          "15 Fame",
+          "Dropping 1 Peach on the stone bench and receiving 1 Tae Roon's Note is repeatable."
+        ],
+        "procedures": [
+          "Head over to Mu Lung: Peach Farm 1 and talk to Tae Soo.",
+          "You will obtain 1 Tae Soo's Peach from him.",
+          "Next, go to Mu Lung: Wild Bear Area 1 and drop the obtained item on the stone bench, just as shown in the image below.",
+          "1 Tae Roon's Note will appear. Pick up the item and bring it to Tae Soo."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Tae Soo's Peach",
+            "qty": "1"
+          },
+          {
+            "name": "Tae Roon's Note",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Mu Lung: Peach Farm 1"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "75",
+    "name": "Dr. De Lang's Notes",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/dr-de-langs-notes",
+    "chain": []
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "75",
+    "name": "Who is De Lang?",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/who-is-de-lang",
+    "chain": [
+      {
+        "name": "What De Lang Wants",
+        "npc": "Parwen",
+        "exp": 5000,
+        "rewards": [
+          "5,000 experience"
+        ],
+        "procedures": [
+          "Talk to Parwen at Hidden Street: Authorized Personnel Only.",
+          "You will be brought to the same area as Dr. De Lang was before, so talk to him."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Hidden Street: Authorized Personnel Only"
+      },
+      {
+        "name": "De Lang's Potion",
+        "npc": "Dr. De Lang",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Dr. De Lang.",
+          "Then talk to Maed at Magatia: Alcadno Society."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": ""
+      },
+      {
+        "name": "The Memories of Humanoid A",
+        "npc": "Maed",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Maed at Magatia: Alcadno Society.",
+          "Then talk to Humanoid A in Sunset Road: Magatia."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Magatia: Alcadno Society"
+      },
+      {
+        "name": "Who is De Lang?",
+        "npc": "Humanoid A",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Humanoid A in Sunset Road: Magatia.",
+          "Receive Unknown Medicine from him, then return to Maed and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Unknown Medicine",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Sunset Road: Magatia"
+      },
+      {
+        "name": "De Lang and Humanoid A",
+        "npc": "Maed",
+        "exp": 0,
+        "rewards": [
+          "Scroll for Cape for Magic Def 60% x 1",
+          "Scroll for Cape for Weapon Def 60% x 1",
+          "Scroll for Cape for HP 60% x 1",
+          "Scroll for Cape for MP 60% x 1",
+          "Scroll for Cape for STR 60% x 1",
+          "Scroll for Cape for DEX 60% x 1",
+          "Scroll for Cape for INT 60% x 1",
+          "Scroll for Cape for LUK 60% x 1"
+        ],
+        "procedures": [
+          "Talk to Maed at Magatia: Alcadno Society.",
+          "Go and talk to Keeny in Sunset Road: Magatia."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Dran's Medicine",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Magatia: Alcadno Society"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "75",
+    "name": "For Zenumist",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/for-zenumist",
+    "chain": [
+      {
+        "name": "For Zenumist",
+        "npc": "Carson",
+        "exp": 50000,
+        "rewards": [
+          "50,000 experience",
+          "Zenumist's Cape [2] x 1",
+          "Cannot get this quest if For Alcadno or For Phyllia has been started."
+        ],
+        "procedures": [
+          "Talk to Carson at Magatia: Zenumist Society.",
+          "Pass to him Dran's Note and Zenumist's Cape."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Dran's Note",
+            "qty": "1"
+          },
+          {
+            "name": "Zenumist's Cape",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Magatia: Zenumist Society"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "75",
+    "name": "For Alcadno",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/for-alcadno",
+    "chain": [
+      {
+        "name": "For Alcadno",
+        "npc": "Maed",
+        "exp": 50000,
+        "rewards": [
+          "50,000 experience",
+          "Alcadno's Cape [2] x 1",
+          "Cannot get this quest if For Zenumist or For Phyllia has been started."
+        ],
+        "procedures": [
+          "Talk to Maed at Magatia: Alcadno Society.",
+          "Pass to him Dran's Note and Alcadno's Cape."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Dran's Note",
+            "qty": "1"
+          },
+          {
+            "name": "Alcadno's Cape",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Magatia: Alcadno Society"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "75",
+    "name": "For Phyllia",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/for-phyllia",
+    "chain": [
+      {
+        "name": "For Phyllia",
+        "npc": "Phyllia",
+        "exp": 120000,
+        "rewards": [
+          "120,000 experience",
+          "30 Fame",
+          "Elixir x 30",
+          "Cannot get this quest if For Zenumist or For Alcadno has been started."
+        ],
+        "procedures": [
+          "Talk to Phyllia in Sunset Road: Magatia.",
+          "Pass her Dran's Note."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Dran's Note",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Sunset Road: Magatia"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "75",
+    "name": "Re-acquiring Dr. De Lang's Notes",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/re-acquiring-dr-de-langs-notes",
+    "chain": [
+      {
+        "name": "Re-acquiring Dr. De Lang's Notes",
+        "npc": "Alcaster",
+        "exp": 0,
+        "rewards": [
+          "Dran's Note x 1",
+          "Only available if For Zenumist, For Alcadno, or For Phyllia has been started and Dran's Note is not in your inventory."
+        ],
+        "procedures": [
+          "Talk to Alcaster in El Nath: El Nath Market repeatedly."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "El Nath: El Nath Market"
+      }
+    ]
+  },
+  {
+    "location": "Mu Lung & Nihal Desert",
+    "level": "77",
+    "name": "Eliminating King Sage Cat",
+    "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/eliminating-king-sage-cat",
+    "chain": [
+      {
+        "name": "Weakening King Sage Cat",
+        "npc": "Do Gong",
+        "exp": 1500,
+        "rewards": [
+          "1,500 experience"
+        ],
+        "procedures": [
+          "Talk to Do Gong in Mu Lung: Mu Lung Temple.",
+          "Hunt for 100 Cat Doll from Sage Cat.",
+          "Return to Do Gong and pass him the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Cat Doll",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      },
+      {
+        "name": "Master Goblin's Call",
+        "npc": "Do Gong",
+        "exp": 750,
+        "rewards": [
+          "750 experience"
+        ],
+        "procedures": [
+          "Talk to Do Gong in Mu Lung: Mu Lung Temple.",
+          "Go to Mu Lung: Goblin Forest 1.  You will automatically receive a notice from Maple Administrator.",
+          "Proceed to Mu Lung: Goblin Forest 2 then through the portal on the right to Hidden Street: Forest of the Ghost Priest.",
+          "Talk to Master Goblin."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      },
+      {
+        "name": "Do Gong's in Trouble",
+        "npc": "Do Gong",
+        "exp": 750,
+        "rewards": [
+          "750 experience"
+        ],
+        "procedures": [
+          "Talk to Master Goblin in Hidden Street: Forest of the Ghost Priest.  You will gain 1 Red Marble.",
+          "Return to Do Gong and give him the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Red Marble",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      },
+      {
+        "name": "Master Goblin's Questions",
+        "npc": "Master Goblin",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience",
+          "Note that there are two answers to each question.  These are the only answers that have been tested.  If you try the other answers and there is different outcome, please email HiddenStreet with your find!"
+        ],
+        "procedures": [
+          "Go back to Master Goblin in Hidden Street: Forest of the Ghost Priest.",
+          "Answer his 3 questions:\n\n...\n...\n No way...",
+          "...",
+          "...",
+          "No way..."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": ""
+      },
+      {
+        "name": "Eliminating King Sage Cat",
+        "npc": "Do Gong",
+        "exp": 278700,
+        "rewards": [
+          "278,700 experience",
+          "17 Fame"
+        ],
+        "procedures": [
+          "Talk to Do Gong in Mu Lung: Mu Lung Temple.",
+          "Return to Mu Lung: Goblin Forest 1 and defeat King Sage Cat.",
+          "Pick up the Antidote Marble that he drops.",
+          "Return to Do Gong and give him the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Antidote Marble",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Mu Lung: Mu Lung Temple"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "70",
+    "name": "Soul in the Dark",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/soul-in-the-dark",
+    "chain": [
+      {
+        "name": "Soul in the Dark",
+        "npc": "Jay",
+        "exp": 0,
+        "rewards": [
+          "Dark Scroll for Bottomwear for Jump 30% x 1",
+          "Dark Scroll for Cape for DEX 30% x 1",
+          "Dark Scroll for Earring for DEX 30% x 1",
+          "Dark Scroll for Earring for INT 30% x 1",
+          "Dark Scroll for Gloves for ATT 30% x 1",
+          "Dark Scroll for Gloves for DEX 30% x 1",
+          "Dark Scroll for Overall Armor for DEX 30% x 1",
+          "Dark Scroll for Overall Armor for INT 30% x 1",
+          "Dark Scroll for Shoes for DEX 30% x 1",
+          "Dark Scroll for Shoes for Jump 30% x 1",
+          "Dark Scroll for Shoes for Speed 30% x 1"
+        ],
+        "procedures": [
+          "Talk to Jayin Henesys.",
+          "Hunt for 50 Free Spirit from Master Soul Teddy.",
+          "Talk to Jay again after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Free Spirit",
+            "qty": "50"
+          }
+        ],
+        "npcLocation": "Henesys"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "70",
+    "name": "The Messenger of the Fairy Forest",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-messenger-of-the-fairy-forest",
+    "chain": [
+      {
+        "name": "The Messenger of the Fairy Forest 1",
+        "npc": "Grendel the Really Old",
+        "exp": 0,
+        "rewards": [
+          "Leafre Guidebook x 1"
+        ],
+        "procedures": [
+          "Talk to Grendel the Really Old at Victoria Road: Magic Library."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Victoria Road: Magic Library"
+      },
+      {
+        "name": "The Messenger of the Fairy Forest 2",
+        "npc": "Grendel the Really Old",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience",
+          "Magic Seed [2] x 2"
+        ],
+        "procedures": [
+          "Talk to Grendel the Really Old at Victoria Road: Magic Library.",
+          "Deliver the Pure Water of Protection to Chief Tatamo at Leafre."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Pure Water of Protection",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Victoria Road: Magic Library"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "85",
+    "name": "The Committee Challenges",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-committee-challenges",
+    "chain": [
+      {
+        "name": "The Committee Challanges",
+        "npc": "Sabitrama",
+        "exp": 5000,
+        "rewards": [
+          "5,000 experience"
+        ],
+        "procedures": [
+          "Talk to Sabitrama in Sleepywood.",
+          "Hunt for 200 Lazy Buffy's Marble from Lazy Buffy.",
+          "Talk to Sabitrama again once you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Lazy Buffy's Marble",
+            "qty": "200"
+          }
+        ],
+        "npcLocation": "Sleepywood"
+      },
+      {
+        "name": "The Father of Modern Science",
+        "npc": "Sabitrama",
+        "exp": 0,
+        "rewards": [
+          "Dark Scroll for Gloves for ATT 30% x 1",
+          "Dark Scroll for Gloves for DEX 30% x 1",
+          "Dark Scroll for Overall Armor for INT 30% x 1",
+          "Power Elixir x 1"
+        ],
+        "procedures": [
+          "Talk to Sabitramain Sleepywood.",
+          "Talk to Dr. Kim in Omega Sector: Command Center.",
+          "Hunt for 500 Dual Pirate's Propeller from Dual Ghost Pirate.",
+          "Talk to Dr. Kim again once you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Dual Pirate's Propeller",
+            "qty": "500"
+          }
+        ],
+        "npcLocation": "Sleepywood"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "85",
+    "name": "Sabitrama's Life Work",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/sabitramas-life-work",
+    "chain": [
+      {
+        "name": "Sabitrama's Life Work",
+        "npc": "Sabitrama",
+        "exp": 15000,
+        "rewards": [
+          "15,000 experience",
+          "Dark Scroll for Gloves for DEX 30% x 1",
+          "Dark Scroll for Overall Armor for INT 30% x 1"
+        ],
+        "procedures": [
+          "Talk to Sabitrama in Sleepywood.",
+          "Hunt for 100 Stone Golem Rubble from Stone Golem.",
+          "Hunt for 100 Dark Stone Golem Rubble from Dark Stone Golem.",
+          "Hunt for 100 Sealed Teddy Bear from Death Teddy.",
+          "Talk to Sabitrama again once you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Stone Golem Rubble",
+            "qty": "100"
+          },
+          {
+            "name": "Dark Stone Golem Rubble",
+            "qty": "100"
+          },
+          {
+            "name": "Sealed Teddy Bear",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Sleepywood"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "85",
+    "name": "Eliminating Blue Mushmom",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/eliminating-blue-mushmom",
+    "chain": []
+  },
+  {
+    "location": "Victoria Island",
+    "level": "85",
+    "name": "Open Sesame",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/open-sesame",
+    "chain": [
+      {
+        "name": "Open Sesame",
+        "npc": "Sabitrama",
+        "exp": 0,
+        "rewards": [
+          "Rower x 1",
+          "Orihalcon Ore x 20",
+          "Elixir x 10",
+          "Fat Sausage x 1",
+          "Dark Scroll for Topwear for STR 30% x 1",
+          "Dark Scroll for Bottomwear for Jump 30% x 1",
+          "Dark Scroll for Overall Armor for INT 30% x 1",
+          "Dark Scroll for Overall Armor for LUK 30% x 1",
+          "Dark Scroll for Overall Armor for DEX 30% x 1",
+          "Dark Scroll for Overall Armor for DEF 30% x 1"
+        ],
+        "procedures": [
+          "Talk to Sabitrama in Sleepywood.",
+          "Pay him 1,000,000 mesos."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Sleepywood"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "85",
+    "name": "An Unknown Love",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/an-unknown-love",
+    "chain": [
+      {
+        "name": "An Unknown Love",
+        "npc": "Jane Doe",
+        "exp": 10000,
+        "rewards": [
+          "10,000 experience",
+          "Dark Scroll for Gloves for DEX 30% x 1",
+          "Dark Scroll for Overall Armor for INT 30% x 1"
+        ],
+        "procedures": [
+          "Talk to Jane Doe in Kerning City.",
+          "Hunt for 100 Binding Bridle from Master Death Teddy.",
+          "Talk to Jane Doe again once you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Binding Bridle",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Kerning City"
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "90",
+    "name": "Freed from Darkness",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/freed-from-darkness",
+    "chain": [
+      {
+        "name": "The Ghost Whereabouts",
+        "npc": "Jay",
+        "exp": 5000,
+        "rewards": [
+          "5,000 experience",
+          "5 Fame",
+          "Elixir x 1"
+        ],
+        "procedures": [
+          "Talk to Jay in Henesys.",
+          "Go to Zipangu: Showa Town and talk to Sakura."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Henesys"
+      },
+      {
+        "name": "A Puppet",
+        "npc": "Jay",
+        "exp": 10000,
+        "rewards": [
+          "10,000 experience",
+          "5 Fame",
+          "Elixir x 1"
+        ],
+        "procedures": [
+          "Go back to Henesys and talk to Jay."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Henesys"
+      },
+      {
+        "name": "The Man of Convention",
+        "npc": "Sakura",
+        "exp": 40000,
+        "rewards": [
+          "40,000 experience",
+          "Dark Scroll for Cape for LUK 30% x 1",
+          "Dark Scroll for Shield for LUK 30% x 1",
+          "Dark Scroll for Two-Handed BW for ATT 30% x 1",
+          "Dark Scroll for Two-Handed Axe for ATT 30% x 1",
+          "Dark Scroll for Two-Handed Sword for ATT 30% x 1"
+        ],
+        "procedures": [
+          "Hunt for 50 Sealed Teddy Bear from Death Teddy.",
+          "Hunt for 50 Binding Bridle from Master Death Teddy.",
+          "Talk to Sakura in Zipangu: Showa Town once you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Sealed Teddy Bear",
+            "qty": "50"
+          },
+          {
+            "name": "Binding Bridle",
+            "qty": "50"
+          }
+        ],
+        "npcLocation": "Zipangu: Showa Town"
+      },
+      {
+        "name": "Ray of Light",
+        "npc": "Jay",
+        "exp": 10000,
+        "rewards": [
+          "10,000 experience",
+          "Dark Scroll for Bow for ATT 30% x 1",
+          "Dark Scroll for Claw for ATT 30% x 1",
+          "Dark Scroll for Crossbow for ATT 30% x 1",
+          "Dark Scroll for Dagger for ATT 30% x 1",
+          "Dark Scroll for Gloves for DEX 30% x 1",
+          "Dark Scroll for One-Handed Axe for ATT 30% x 1",
+          "Dark Scroll for One-Handed BW for ATT 30% x 1",
+          "Dark Scroll for One-Handed Sword for ATT 30% x 1",
+          "Dark Scroll for Pole Arm for ATT 30% x 1",
+          "Dark Scroll for Spear for ATT 30% x 1",
+          "Dark Scroll for Gun for ATT 30% x 1",
+          "Dark Scroll for Knuckler for ATT 30% x 1"
+        ],
+        "procedures": [
+          "Return to Henesys and talk to Jay."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Henesys"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "70",
+    "name": "Monster Riding",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/monster-riding",
+    "chain": [
+      {
+        "name": "Monster Riding",
+        "npc": "Kenta",
+        "exp": 32000,
+        "rewards": [
+          "32,000 experience",
+          "Saddle x 1",
+          "Additional reward: Monster Rider skill"
+        ],
+        "procedures": [
+          "Talk to Kenta in Aquarium: Zoo.",
+          "Talk to Kenta again and select the option \"I would like to start off to protect the Pig\". There will be a time limit of 5 minutes to complete the tasks.",
+          "Collect 5 Pheromone which are dropped randomly by the Pig.",
+          "Collect 5 Kenta's Report by hitting the chests found in the map.",
+          "Once you have collected the items, talk to Kenta found in the map.",
+          "Talk to Kenta once again to receive your rewards."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Pheromone",
+            "qty": "5"
+          },
+          {
+            "name": "Kenta's Report",
+            "qty": "5"
+          }
+        ],
+        "npcLocation": "Aquarium: Zoo"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "70",
+    "name": "Ominous Sign",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/ominous-sign",
+    "chain": [
+      {
+        "name": "Ominous Sign",
+        "npc": "Shammos",
+        "exp": 44000,
+        "rewards": [
+          "44,000 experience"
+        ],
+        "procedures": [
+          "Talk to Shammos at El Nath: Chief's Residence."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "El Nath: Chief's Residence"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "70",
+    "name": "Confirming the Seal",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/confirming-the-seal",
+    "chain": [
+      {
+        "name": "Confirming the Seal",
+        "npc": "Robeira",
+        "exp": 88000,
+        "rewards": [
+          "88,000 experience"
+        ],
+        "procedures": [
+          "Talk to Robeira at El Nath: Chief's Residence.",
+          "Head over to El Nath: Ice Valley II, then access Ice Ravine: Ice Ravine Entrance from there. You will have to navigate to the next subsequent maps up to Ice Ravine: Ice Ravine 5, from which you'll have to enter Ice Ravine: Ancient Ice Cave.",
+          "Once you have confirmed the seal, return and talk to Shammos at El Nath: Chief's Residence."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "El Nath: Chief's Residence"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "75",
+    "name": "Sign Of The Resurrection",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/sign-of-the-resurrection",
+    "chain": [
+      {
+        "name": "Sign Of The Resurrection",
+        "npc": "Robeira",
+        "exp": 55000,
+        "rewards": [
+          "55,000 experience",
+          "This quest starts automatically."
+        ],
+        "procedures": [
+          "Talk to Robeira at El Nath: Chief's Residence.",
+          "Talk to Shammos at El Nath: Chief's Residence."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "El Nath: Chief's Residence"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "75",
+    "name": "Robeira's Proposal",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/robeiras-proposal",
+    "chain": [
+      {
+        "name": "Robeira's Proposal",
+        "npc": "Shammos",
+        "exp": 28000,
+        "rewards": [
+          "28,000 experience"
+        ],
+        "procedures": [
+          "Talk to Shammos at El Nath: Chief's Residence.",
+          "Talk to Robeira at El Nath: Chief's Residence."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "El Nath: Chief's Residence"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "75",
+    "name": "Evidence Of The Seal",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/evidence-of-the-seal",
+    "chain": [
+      {
+        "name": "Evidence Of The Seal",
+        "npc": "Robeira",
+        "exp": 299000,
+        "rewards": [
+          "299,000 experience",
+          "This quest starts automatically."
+        ],
+        "procedures": [
+          "Talk to Robeira at El Nath: Chief's Residence.",
+          "Kill 1 Rex at Ice Ravine: Ancient Ice Cave and obtain Essence of the Hoblin King.",
+          "Return to El Nath: Chief's Residence and talk to Robeira."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Essence of the Hoblin King",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "El Nath: Chief's Residence"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "75",
+    "name": "Preparing For The Extreme",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/preparing-for-the-extreme",
+    "chain": [
+      {
+        "name": "Preparing For The Extreme",
+        "npc": "Robeira",
+        "exp": 89000,
+        "rewards": [
+          "89,000 experience"
+        ],
+        "procedures": [
+          "Talk to Robeira at El Nath: Chief's Residence.",
+          "Hunt for 10 Coal Dust at Coolie Zombie.",
+          "Obtain 1 Steel Plate.",
+          "Obtain 1 Pure Water.",
+          "Return to Robeira at El Nath: Chief's Residence."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Coal Dust",
+            "qty": "10"
+          },
+          {
+            "name": "Steel Plate",
+            "qty": "1"
+          },
+          {
+            "name": "Pure Water",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "El Nath: Chief's Residence"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "75",
+    "name": "Supplying Leather Clothes",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/supplying-leather-clothes",
+    "chain": [
+      {
+        "name": "Supplying Leather Clothes",
+        "npc": "Pedro",
+        "exp": 98000,
+        "rewards": [
+          "98,000 experience"
+        ],
+        "procedures": [
+          "Talk to Pedro at El Nath: Chief's Residence.",
+          "Hunt for 10 Elite Hoblin Outfit from Elite Hoblin.",
+          "Head back to El Nath: Chief's Residence and talk to Pedro."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Elite Hoblin Outfit",
+            "qty": "10"
+          }
+        ],
+        "npcLocation": "El Nath: Chief's Residence"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "75",
+    "name": "Hoblin Weapon",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/hoblin-weapon",
+    "chain": [
+      {
+        "name": "Hoblin Weapon",
+        "npc": "Tylus",
+        "exp": 98000,
+        "rewards": [
+          "98,000 experience"
+        ],
+        "procedures": [
+          "Talk to Tylus at El Nath: Chief's Residence.",
+          "Hunt for 1 Hoblin Mace from Ferocious Hoblin.",
+          "Return to El Nath: Chief's Residence and talk to Tylus."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Hoblin Mace",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "El Nath: Chief's Residence"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "75",
+    "name": "Secret To Improving Concentration",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/secret-to-improving-concentration",
+    "chain": [
+      {
+        "name": "Secret To Improving Concentration",
+        "npc": "Rene",
+        "exp": 98000,
+        "rewards": [
+          "98,000 experience"
+        ],
+        "procedures": [
+          "Talk to Rene at El Nath: Chief's Residence.",
+          "Hunt for 10 Elite Green Hoblin Charm from Elite Green Hoblin.",
+          "Head back to El Nath: Chief's Residence and talk to Rene."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Elite Green Hoblin Charm",
+            "qty": "10"
+          }
+        ],
+        "npcLocation": "El Nath: Chief's Residence"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "75",
+    "name": "Arec's Lost Dagger",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/arecs-lost-dagger",
+    "chain": []
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "80",
+    "name": "Monster Rumor Mill",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/monster-rumor-mill",
+    "chain": [
+      {
+        "name": "Monster Rumor Mill",
+        "npc": "Scadur",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Scadur in El Nath.",
+          "Then talk to Master Sergeant Fox  who is also in El Nath."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "El Nath"
+      },
+      {
+        "name": "Fox So Foxy",
+        "npc": "Master Sergeant Fox ",
+        "exp": 0,
+        "rewards": [
+          "Elixir x 1"
+        ],
+        "procedures": [
+          "Talk to Master Sergeant Fox  in El Nath.",
+          "Hunt for 50 Lazy Buffy's Marble from Lazy Buffy.",
+          "Return to Master Sergeant Fox  after you have collected the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Lazy Buffy's Marble",
+            "qty": "50"
+          }
+        ],
+        "npcLocation": ""
+      },
+      {
+        "name": "Lycanthrope",
+        "npc": "General Maestro",
+        "exp": 0,
+        "rewards": [
+          "Scroll for Shoes for Speed 100% x 1",
+          "Scroll for Shoes for Speed 60% x 1",
+          "Scroll for Shoes for Speed 10% x 1"
+        ],
+        "procedures": [
+          "Talk to General Maestro in Omega Sector.",
+          "Hunt for 50 Lycanthrope's Toenail from Lycanthrope.",
+          "Return to General Maestro after you have collected the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Lycanthrope's Toenail",
+            "qty": "50"
+          }
+        ],
+        "npcLocation": "Omega Sector"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "83",
+    "name": "Goddess' Pet",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/goddess-pet",
+    "chain": []
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "90",
+    "name": "Snowfield Giant",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/snowfield-giant",
+    "chain": []
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "90",
+    "name": "The Blocked Path of the Ocean",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/the-blocked-path-of-the-ocean",
+    "chain": []
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "90",
+    "name": "Carta the Sea Witch",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/carta-the-sea-witch",
+    "chain": [
+      {
+        "name": "Carta the Sea Witch",
+        "npc": "Muse",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience"
+        ],
+        "procedures": [
+          "Talk to Muse in Aquarium: Zoo.",
+          "Search for Carta in Aqua Road: Carta's Cave and talk to her."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Aquarium: Zoo"
+      },
+      {
+        "name": "Carta's Demand",
+        "npc": "Carta",
+        "exp": 90000,
+        "rewards": [
+          "90,000 experience"
+        ],
+        "procedures": [
+          "Hunt for 10 Sea Dust by hitting the chest.",
+          "Hunt for 1 Pianus's Scream from Pianus.",
+          "Hunt for 3 Cold Tear from Bone Fish.",
+          "Return to Carta after you have collected all the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Sea Dust",
+            "qty": "10"
+          },
+          {
+            "name": "Pianus's Scream",
+            "qty": "1"
+          },
+          {
+            "name": "Cold Tear",
+            "qty": "3"
+          }
+        ],
+        "npcLocation": "Aqua Road: Carta's Cave"
+      },
+      {
+        "name": "Carta's Fortune-Telling",
+        "npc": "Muse",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience",
+          "Red Musketeer Cape x 1"
+        ],
+        "procedures": [
+          "Head back to Muse and talk to her."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Aquarium: Zoo"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "95",
+    "name": "Nanuke's Ingredients",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/nanukes-ingredients",
+    "chain": []
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "95",
+    "name": "Muse is Cooking",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/muse-is-cooking",
+    "chain": [
+      {
+        "name": "Muse is Cooking",
+        "npc": "Muse",
+        "exp": 200,
+        "rewards": [
+          "200 experience",
+          "Scroll for Gloves for ATT 10% x 1"
+        ],
+        "procedures": [
+          "You will obtain 1 Muse's Dish from Muse after completing Nanuke's Ingredients.",
+          "Go to Aqua Road: Snowy Whale's Island and talk to Nanuke to hand over the obtained item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Muse's Dish",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Aquarium: Zoo"
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "105",
+    "name": "Destroying the Power of Evil",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/destroying-the-power-of-evil",
+    "chain": []
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "120",
+    "name": "Silver Mane",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/silver-mane",
+    "chain": []
+  },
+  {
+    "location": "Leafre",
+    "level": "70",
+    "name": "Ito's Request",
+    "url": "https://bbb.hidden-street.net/quest/leafre/itos-request",
+    "chain": [
+      {
+        "name": "Ito's Request",
+        "npc": "Ito",
+        "exp": 33000,
+        "rewards": [
+          "33,000 experience",
+          "Baby Dragon Food x 10"
+        ],
+        "procedures": [
+          "Talk to Ito in Leafre.",
+          "Hunt for 55 Rash's Furball from Rash.",
+          "Hunt for 75 Dark Rash's Furball from Dark Rash.",
+          "Talk to Ito again once you have collected all of the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Rash's Furball",
+            "qty": "55"
+          },
+          {
+            "name": "Dark Rash's Furball",
+            "qty": "75"
+          }
+        ],
+        "npcLocation": "Leafre"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "70",
+    "name": "The Suspicious Wanderer",
+    "url": "https://bbb.hidden-street.net/quest/leafre/the-suspicious-wanderer",
+    "chain": [
+      {
+        "name": "The Suspicious Wanderer",
+        "npc": "Han the Broker",
+        "exp": 30000,
+        "rewards": [
+          "30,000 experience"
+        ],
+        "procedures": [
+          "Talk to Han the Broker at Sunset Road: Magatia and pay him 5,000 mesos.",
+          "Then talk to Syras at Ariant: Ariant Station Platform."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Sunset Road: Magatia"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "70",
+    "name": "The Truth Behind that Man",
+    "url": "https://bbb.hidden-street.net/quest/leafre/the-truth-behind-that-man",
+    "chain": [
+      {
+        "name": "The Wanderer's Whereabouts 1             (Level 70 and above)",
+        "npc": "Syras",
+        "exp": 30000,
+        "rewards": [
+          "30,000 experience"
+        ],
+        "procedures": [
+          "Talk to Syras at Ariant: Ariant Station Platform.",
+          "Then talk to Isa the Station Guide at Orbis: Orbis Station Enterence."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Ariant: Ariant Station Platform"
+      },
+      {
+        "name": "The Wanderer's Whereabouts 2             (Level 70 and above)",
+        "npc": "Isa the Station Guide",
+        "exp": 30000,
+        "rewards": [
+          "30,000 experience"
+        ],
+        "procedures": [
+          "Talk to Isa the Station Guide at Orbis: Orbis Station Enterence.",
+          "Then talk to Andy at Tera Forest: Tera Forest Time Gate, which can be accessed by going to the top-right portal of Leafre: Minar Forest : East Border."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Orbis: Orbis Station Enterence"
+      },
+      {
+        "name": "Andy the Time Traveler             (Level 70 and above)",
+        "npc": "Andy",
+        "exp": 40000,
+        "rewards": [
+          "40,000 experience",
+          "Time Traveler's Pocket Watch x 1"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Hunt for 1 Andy's Pocket Watch from the monsters in Minar Forest.",
+          "Return and talk to Andy."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Andy's Pocket Watch",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Henesys"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "70",
+    "name": "Year 2021 - Just Another Day",
+    "url": "https://bbb.hidden-street.net/quest/leafre/year-2021-just-another-day",
+    "chain": [
+      {
+        "name": "Nex the Time Guard             (Level 70 and above)",
+        "npc": "Andy",
+        "exp": 80000,
+        "rewards": [
+          "80,000 experience"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Kill 1 Gatekeeper Nex at Tera Forest: Old Tree in Tera Forest.",
+          "Return and talk to Andy."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Henesys"
+      },
+      {
+        "name": "The First Clue             (Level 70 and above)",
+        "npc": "Andy",
+        "exp": 61000,
+        "rewards": [
+          "61,000 experience"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Hunt for 1 Primary Clue to the Case by attacking the trash cans in the maps of the Year 2021.",
+          "Return and talk to Andy."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Primary Clue to the Case",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Henesys"
+      },
+      {
+        "name": "Dangerous Slimes             (Level 71 and above)",
+        "npc": "Brainy Boy",
+        "exp": 100000,
+        "rewards": [
+          "100,000 experience"
+        ],
+        "procedures": [
+          "Talk to Brainy Boy at Neo City: <Year 2021> Average Town Entrance.",
+          "Hunt for 30 Red Squishy Liquid from Red Slime [2], 30 Silver Squishy Liquid from Silver Slime, and 30 Gold Squishy Liquid from Gold Slime.",
+          "Kill 50 Red Slime [2], 50 Silver Slime, and 50 Gold Slime.",
+          "Return and talk to Brainy Boy."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Red Squishy Liquid",
+            "qty": "30"
+          },
+          {
+            "name": "Silver Squishy Liquid",
+            "qty": "30"
+          },
+          {
+            "name": "Gold Squishy Liquid",
+            "qty": "30"
+          }
+        ],
+        "npcLocation": "Neo City: <Year 2021> Average Town Entrance"
+      },
+      {
+        "name": "The Crying Girl's Sketchbook             (Level 72 and above)",
+        "npc": "Crying Girl",
+        "exp": 65000,
+        "rewards": [
+          "65,000 experience"
+        ],
+        "procedures": [
+          "Talk to Crying Girl at Neo City: <Year 2021> Average Town Entrance.",
+          "Hunt for 20 Wrinkled Sketchbook Loose-Leaf from Red Slime [2], Silver Slime, or Gold Slime.",
+          "Return and talk to Crying Girl."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Wrinkled Sketchbook Loose-Leaf",
+            "qty": "20"
+          }
+        ],
+        "npcLocation": "Neo City: <Year 2021> Average Town Entrance"
+      },
+      {
+        "name": "The Boy and the Girl             (Level 72 and above)",
+        "npc": "Brainy Boy",
+        "exp": 30000,
+        "rewards": [
+          "30,000 experience"
+        ],
+        "procedures": [
+          "Talk to Brainy Boy at Neo City: <Year 2021> Average Town Entrance.",
+          "Then talk to Andy at Tera Forest: Tera Forest Time Gate."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Neo City: <Year 2021> Average Town Entrance"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "73",
+    "name": "Year 2099 - The Harbor",
+    "url": "https://bbb.hidden-street.net/quest/leafre/year-2099-the-harbor",
+    "chain": []
+  },
+  {
+    "location": "Leafre",
+    "level": "75",
+    "name": "Kumo's Request",
+    "url": "https://bbb.hidden-street.net/quest/leafre/kumos-request",
+    "chain": [
+      {
+        "name": "Kumo's Request",
+        "npc": "Kumo",
+        "exp": 42000,
+        "rewards": [
+          "42,000 experience",
+          "Power Crystal Ore x 5",
+          "Wisdom Crystal Ore x 5",
+          "DEX Crystal Ore x 5",
+          "LUK Crystal Ore x 5",
+          "Dark Crystal Ore x 5"
+        ],
+        "procedures": [
+          "Talk to Kumoin Leafre.",
+          "Hunt for 48 Beetle's Horn from Beetle.",
+          "Hunt for 28 Dual Beetle's Horn from Dual Beetle.",
+          "Talk to Kumo again once you have collected all the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Beetle's Horn",
+            "qty": "48"
+          },
+          {
+            "name": "Dual Beetle's Horn",
+            "qty": "28"
+          }
+        ],
+        "npcLocation": "Leafre"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "77",
+    "name": "Year 2215 - The Bombing",
+    "url": "https://bbb.hidden-street.net/quest/leafre/year-2215-the-bombing",
+    "chain": []
+  },
+  {
+    "location": "Leafre",
+    "level": "78",
+    "name": "Pam's Request",
+    "url": "https://bbb.hidden-street.net/quest/leafre/pams-request",
+    "chain": [
+      {
+        "name": "Pam's Request",
+        "npc": "Pam",
+        "exp": 44000,
+        "rewards": [
+          "44,000 experience",
+          "Scroll for Shoes for Jump 10% x 1",
+          "Scroll for Shoes for Jump 60% x 1",
+          "Scroll for Shoes for Speed 10% x 1",
+          "Scroll for Shoes for Speed 60% x 1"
+        ],
+        "procedures": [
+          "Talk to Pam in Leafre.",
+          "Hunt for 50 Hankie's Panfluit from Hankie.",
+          "Talk to Pam again once you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Hankie's Panfluit",
+            "qty": "50"
+          }
+        ],
+        "npcLocation": "Leafre"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "80",
+    "name": "The Missing Hero",
+    "url": "https://bbb.hidden-street.net/quest/leafre/the-missing-hero",
+    "chain": []
+  },
+  {
+    "location": "Leafre",
+    "level": "80",
+    "name": "The Last Hour of Horntail",
+    "url": "https://bbb.hidden-street.net/quest/leafre/the-last-hour-of-horntail",
+    "chain": [
+      {
+        "name": "The Last Hour of Horntail",
+        "npc": "Moira",
+        "exp": 80000,
+        "rewards": [
+          "80,000 experience",
+          "I believe this is part of the party quest you must complete before attempting to fight Horntail's Head B."
+        ],
+        "procedures": [
+          "Talk to Moira in Leafre: Cave of Life - Entrance.",
+          "Kill 1 Horned Tail.",
+          "Talk to Moira again once you have completed the task."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Leafre: Cave of Life - Entrance"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "80",
+    "name": "Wars of the Dragons",
+    "url": "https://bbb.hidden-street.net/quest/leafre/wars-of-the-dragons",
+    "chain": [
+      {
+        "name": "Moira's Whereabouts",
+        "npc": "Chief Tatamo",
+        "exp": 50000,
+        "rewards": [
+          "50,000 experience"
+        ],
+        "procedures": [
+          "Talk to Chief Tatamo in Leafre.",
+          "Go to Leafre: Cave of Life - Entrance and talk to Moira."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Leafre"
+      },
+      {
+        "name": "Secret Medicine for Transformation                      repeatable",
+        "npc": "Moira",
+        "exp": 300000,
+        "rewards": [
+          "300,000 experience",
+          "Dragon Elixir x 1",
+          "Reward(s) (if quest is repeated):\n\n30,000 exp\n1 Dragon Elixir",
+          "30,000 exp",
+          "1 Dragon Elixir",
+          "This quest is repeatable once every hour."
+        ],
+        "procedures": [
+          "Talk to Moira in Leafre: Cave of Life - Entrance.",
+          "Hunt for 10 Tough Dragon Skin from Dark Wyvern.",
+          "Hunt for 1 Cornian's Dagger by forging it with Mos with the following items: 1 Steel Plate, 1 Mithril Plate and 1 Busted Dagger from Dark Cornian..",
+          "Hunt for 1 Cornian's Marrow.",
+          "Hunt for 1 Manon's Cry from Manon.",
+          "Hunt for 1 Skull Shoulder Pad from Dark Cornian.",
+          "Talk to Moira after you have collected all of the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Tough Dragon Skin",
+            "qty": "10"
+          },
+          {
+            "name": "Cornian's Dagger",
+            "qty": "1"
+          },
+          {
+            "name": "Cornian's Marrow",
+            "qty": "1"
+          },
+          {
+            "name": "Manon's Cry",
+            "qty": "1"
+          },
+          {
+            "name": "Skull Shoulder Pad",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Leafre: Cave of Life - Entrance"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "80",
+    "name": "Yaku's Request",
+    "url": "https://bbb.hidden-street.net/quest/leafre/yakus-request",
+    "chain": [
+      {
+        "name": "Yaku's Request",
+        "npc": "Yaku",
+        "exp": 47000,
+        "rewards": [
+          "47,000 experience",
+          "Elixir x 10"
+        ],
+        "procedures": [
+          "Talk to Yaku in Leafre.",
+          "Hunt for 50 Harp's Tail Feather from Harp.",
+          "Hunt for 30 Blood Harp's Crown from Blood Harp.",
+          "Talk to Yaku again once you have collected all the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Harp's Tail Feather",
+            "qty": "50"
+          },
+          {
+            "name": "Blood Harp's Crown",
+            "qty": "30"
+          }
+        ],
+        "npcLocation": "Leafre"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "81",
+    "name": "Year 2216 - The Ruins",
+    "url": "https://bbb.hidden-street.net/quest/leafre/year-2216-the-ruins",
+    "chain": []
+  },
+  {
+    "location": "Leafre",
+    "level": "85",
+    "name": "The Sacred Barrier of the Forest",
+    "url": "https://bbb.hidden-street.net/quest/leafre/the-sacred-barrier-of-the-forest",
+    "chain": [
+      {
+        "name": "Red Tree",
+        "npc": "Yaku",
+        "exp": 500,
+        "rewards": [
+          "500 experience",
+          "Tatamo's Letter x 1"
+        ],
+        "procedures": [
+          "Talk to Yaku in Leafre.",
+          "Talk to Chief Tatamo who is also in Leafre."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Leafre"
+      },
+      {
+        "name": "Getting Advice from Grendel the Really Old 1",
+        "npc": "Grendel the Really Old",
+        "exp": 15000,
+        "rewards": [
+          "15,000 experience",
+          "Hine's Message x 1"
+        ],
+        "procedures": [
+          "After obtaining Tatamo's Letter, go to Ellinia and talk to Grendel the Really Old."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Tatamo's Letter",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Victoria Road: Magic Library"
+      },
+      {
+        "name": "Getting Advice from Grendel the Really Old 2",
+        "npc": "Chief Tatamo",
+        "exp": 50000,
+        "rewards": [
+          "50,000 experience"
+        ],
+        "procedures": [
+          "Hunt for 5 Kentaurus's Flame from Red Kentaurus.",
+          "Hunt for 5 Kentaurus's Marrow from Blue Kentaurus.",
+          "Hunt for 5 Kentaurus's Skull from Black Kentaurus.",
+          "Go to Chief Tatamo in Leafre after you have collected all the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Hine's Message",
+            "qty": "1"
+          },
+          {
+            "name": "Kentaurus's Flame",
+            "qty": "5"
+          },
+          {
+            "name": "Kentaurus's Marrow",
+            "qty": "5"
+          },
+          {
+            "name": "Kentaurus's Skull",
+            "qty": "5"
+          }
+        ],
+        "npcLocation": "Leafre"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "85",
+    "name": "Recipe for the Medicine",
+    "url": "https://bbb.hidden-street.net/quest/leafre/recipe-for-the-medicine",
+    "chain": [
+      {
+        "name": "Recipe for the Medicine",
+        "npc": "Pam",
+        "exp": 58000,
+        "rewards": [
+          "58,000 experience",
+          "All Cure Potion x 30"
+        ],
+        "procedures": [
+          "Talk to Pam in Leafre.",
+          "Hunt for 80 Birk's Chewed Grass from Birk.",
+          "Talk to Pam again after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Birk's Chewed Grass",
+            "qty": "80"
+          }
+        ],
+        "npcLocation": "Leafre"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "85",
+    "name": "Year 2230 - Imminent Collapse!",
+    "url": "https://bbb.hidden-street.net/quest/leafre/year-2230-imminent-collapse",
+    "chain": []
+  },
+  {
+    "location": "Leafre",
+    "level": "90",
+    "name": "Year 2503 - From the Sky",
+    "url": "https://bbb.hidden-street.net/quest/leafre/year-2503-from-the-sky",
+    "chain": []
+  },
+  {
+    "location": "Leafre",
+    "level": "100",
+    "name": "Recovering the Black Spirit",
+    "url": "https://bbb.hidden-street.net/quest/leafre/recovering-the-black-spirit",
+    "chain": [
+      {
+        "name": "Recovering the Black Spirit",
+        "npc": "Raul the Knight",
+        "exp": 72000,
+        "rewards": [
+          "72,000 experience"
+        ],
+        "procedures": [
+          "Talk to Raul the Knight in Leafre: Wyvern Canyon.",
+          "Hunt for 1 Black Soul of Dark Rash.",
+          "Hunt for 1 Black Soul of Dual Birk.",
+          "Hunt for 1 Black Soul of Dark Cornian.",
+          "Hunt for 1 Black Soul of Dark Wyvern.",
+          "Go to Leafre: Cave of Life - Entrance and talk to Moira after you have collected all of the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Black Soul of Dark Rash",
+            "qty": "1"
+          },
+          {
+            "name": "Black Soul of Dual Birk",
+            "qty": "1"
+          },
+          {
+            "name": "Black Soul of Dark Cornian",
+            "qty": "1"
+          },
+          {
+            "name": "Black Soul of Dark Wyvern",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Leafre: Wyvern Canyon"
+      }
+    ]
+  },
+  {
+    "location": "Leafre",
+    "level": "100",
+    "name": "Wyvern's Sudden Attack",
+    "url": "https://bbb.hidden-street.net/quest/leafre/wyverns-sudden-attack",
+    "chain": [
+      {
+        "name": "Wyvern's Sudden Attack",
+        "npc": "Raul the Knight",
+        "exp": 90000,
+        "rewards": [
+          "90,000 experience"
+        ],
+        "procedures": [
+          "Talk to Raul the Knight in Leafre: Wyvern Canyon.",
+          "Kill 18 Red Wyvern.",
+          "Kill 18 Blue Wyvern.",
+          "Kill 18 Dark Wyvern.",
+          "Talk to Raul the Knight again after you have completed these tasks."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Leafre: Wyvern Canyon"
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "70",
+    "name": "Lost in Translation",
+    "url": "https://bbb.hidden-street.net/quest/masteria/lost-in-translation",
+    "chain": [
+      {
+        "name": "Lost in Translation 1",
+        "npc": "Jack",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Look for Jack in Crimsonwood Mountain: Cavern of Pain and talk to him.",
+          "You will obtain 1 Coded Communique.",
+          "Bring the obtained item to John Barricade in Bigger Ben: Lobby."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Coded Communique",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "The Nautilus: Top Floor - Hallway"
+      },
+      {
+        "name": "Lost in Translation 2",
+        "npc": "John Barricade",
+        "exp": 0,
+        "rewards": [
+          "Translated Communique x 1"
+        ],
+        "procedures": [
+          "Talk to John Barricade in Bigger Ben: Lobby.",
+          "In New Leaf City Town Street: New Leaf City - Town Center, talk to Elpam Gorlab."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Coded Communique",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Bigger Ben: Lobby"
+      },
+      {
+        "name": "Lost in Translation 3",
+        "npc": "John Barricade",
+        "exp": 50000,
+        "rewards": [
+          "50,000 experience"
+        ],
+        "procedures": [
+          "Return to John Barricade in Bigger Ben: Lobby and talk to him.",
+          "Head over to Crimsonwood Mountain: Cavern of Pain and talk to Jack."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Translated Communique",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Bigger Ben: Lobby"
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "70",
+    "name": "Translated Communique",
+    "url": "https://bbb.hidden-street.net/quest/masteria/translated-communique",
+    "chain": []
+  },
+  {
+    "location": "Masteria",
+    "level": "70",
+    "name": "The Brewing Storm",
+    "url": "https://bbb.hidden-street.net/quest/masteria/the-brewing-storm",
+    "chain": []
+  },
+  {
+    "location": "Masteria",
+    "level": "70",
+    "name": "Stemming the Tide",
+    "url": "https://bbb.hidden-street.net/quest/masteria/stemming-the-tide",
+    "chain": [
+      {
+        "name": "Stemming the Tide",
+        "npc": "Jack",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Jack in Crimsonwood Mountain: Cavern of Pain.",
+          "Head over to Phantom Forest: Phantom Road and talk to Lukan.  You will then initiate the Storming the Castle quest.",
+          "Once you have finished the Storming the Castle quest, return to Jack."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Crimsonwood Keystone",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "The Nautilus: Top Floor - Hallway"
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "70",
+    "name": "Storming the Castle",
+    "url": "https://bbb.hidden-street.net/quest/masteria/storming-the-castle",
+    "chain": [
+      {
+        "name": "Storming the Castle",
+        "npc": "Lukan",
+        "exp": 220000,
+        "rewards": [
+          "220,000 experience",
+          "Crimsonwood Keystone x 1"
+        ],
+        "procedures": [
+          "Talk to Lukan in Phantom Forest: Phantom Road.",
+          "Eliminate 75 Windraider.",
+          "Eliminate 75 Firebrand [2].",
+          "Eliminate 75 Nightshadow.",
+          "Return to him after you have completed the tasks."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Phantom Forest: Phantom Road"
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "70",
+    "name": "The Right Path",
+    "url": "https://bbb.hidden-street.net/quest/masteria/the-right-path",
+    "chain": []
+  },
+  {
+    "location": "Masteria",
+    "level": "70",
+    "name": "Mark of Heroism",
+    "url": "https://bbb.hidden-street.net/quest/masteria/mark-of-heroism",
+    "chain": [
+      {
+        "name": "Mark of Heroism",
+        "npc": "Lukan",
+        "exp": 50000,
+        "rewards": [
+          "50,000 experience",
+          "Marker of Heroism x 1"
+        ],
+        "procedures": [
+          "Talk to Lukan in Phantom Forest: Phantom Road.",
+          "Go to Bigger Ben: Lobby and talk to John Barricade.",
+          "Collect 10 Gold Ore.",
+          "Hunt for 4 Typhon Feather from Baby Typhon or Typhon.",
+          "Collect 1 Power Crystal Ore.",
+          "Return to John Barricade after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Gold Ore",
+            "qty": "10"
+          },
+          {
+            "name": "Typhon Feather",
+            "qty": "4"
+          },
+          {
+            "name": "Power Crystal Ore",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Phantom Forest: Phantom Road"
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "80",
+    "name": "The Fallen Warriors",
+    "url": "https://bbb.hidden-street.net/quest/masteria/the-fallen-warriors",
+    "chain": [
+      {
+        "name": "The Fallen Warriors",
+        "npc": "Taggrin",
+        "exp": 100000,
+        "rewards": [
+          "100,000 experience"
+        ],
+        "procedures": [
+          "Talk to Taggrin in Phantom Forest: Dead Man's Gorge.",
+          "Hunt for 50 Elder Ashes from Elderwraith.",
+          "Return to him with the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Elder Ashes",
+            "qty": "50"
+          }
+        ],
+        "npcLocation": "Phantom Forest: Dead Man's Gorge"
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "80",
+    "name": "Urban Jungle",
+    "url": "https://bbb.hidden-street.net/quest/masteria/urban-jungle",
+    "chain": []
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "70",
+    "name": "What the Yellow King Goblin Wants",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/what-the-yellow-king-goblin-wants",
+    "chain": [
+      {
+        "name": "What the Yellow King Goblin Wants",
+        "npc": "Yellow King Goblin",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience"
+        ],
+        "procedures": [
+          "Head over to Hidden Street: Goblin House and talk to Yellow King Goblin.",
+          "Acquire 1 Roasted Pork beforehand and give it to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Roasted Pork",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Hidden Street: Goblin House"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "70",
+    "name": "What the Green King Goblin Wants",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/what-the-green-king-goblin-wants",
+    "chain": [
+      {
+        "name": "What the Green King Goblin Wants",
+        "npc": "Green King Goblin",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience"
+        ],
+        "procedures": [
+          "Head over to Hidden Street: Goblin House and talk to Green King Goblin.",
+          "Acquire 1 Buckwheat Paste beforehand and give it to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Buckwheat Paste",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Hidden Street: Goblin House"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "70",
+    "name": "What the Blue King Goblin Wants",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/what-the-blue-king-goblin-wants",
+    "chain": [
+      {
+        "name": "What the Blue King Goblin Wants",
+        "npc": "Blue King Goblin",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience"
+        ],
+        "procedures": [
+          "Head over to Hidden Street: Goblin House and talk to Blue King Goblin.",
+          "Acquire 1 Rice Wine beforehand and give it to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Rice Wine",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Hidden Street: Goblin House"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "70",
+    "name": "Legends of Hometown",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/legends-of-hometown",
+    "chain": [
+      {
+        "name": "Young Man Possessed by a Fox             (Level 70 and above)",
+        "npc": "Chil Sung",
+        "exp": 700,
+        "rewards": [
+          "700 experience"
+        ],
+        "procedures": [
+          "Look for Chil Sung in Korean Folk Town and talk to him.",
+          "Talk to Chil Nam."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Korean Folk Town"
+      },
+      {
+        "name": "Chil Sung's Request             (Level 70 and above)",
+        "npc": "Chil Sung",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience"
+        ],
+        "procedures": [
+          "Talk to Chil Sung again in Korean Folk Town.",
+          "Hunt for 1 Small Clue from Samiho."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Small Clue",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Korean Folk Town"
+      },
+      {
+        "name": "Fox's Threat",
+        "npc": "God of Mountains",
+        "exp": 700,
+        "rewards": [
+          "700 experience"
+        ],
+        "procedures": [
+          "Head over to Korean Folk Town: A Small Well and talk to God of Mountains.",
+          "Obtain 1 Rice Wine by completing Kong Ji's Rice Wine.",
+          "Obtain 1 Buckwheat Paste by completing Chil Nam's Buckwheat Paste.",
+          "Obtain 1 Roasted Pork by completing Chil Sung's Roasted Pork.",
+          "Head down to Hidden Street: Goblin House and talk to Yellow King Goblin, Green King Goblin and Blue King Goblin.",
+          "Complete the following quest:\n- What the Yellow King Goblin Wants\n- What the Green King Goblin Wants\n- What the Blue King Goblin Wants",
+          "Once the three quests are completed, talk to God of Mountains."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Rice Wine",
+            "qty": "1"
+          },
+          {
+            "name": "Buckwheat Paste",
+            "qty": "1"
+          },
+          {
+            "name": "Roasted Pork",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Korean Folk Town: A Small Well"
+      },
+      {
+        "name": "Retrieve a Soul",
+        "npc": "Chil Sung",
+        "exp": 204300,
+        "rewards": [
+          "204,300 experience",
+          "15 Fame"
+        ],
+        "procedures": [
+          "Go to Korean Folk Town and talk to Chil Sung.",
+          "Defeat 1 Nine-Tailed Fox at Korean Folk Town: Moon Ridge to acquire the Old Fox's Tail.",
+          "Once you have obtain the item, talk to Chil Nam."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Old Fox's Tail",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Korean Folk Town"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "84",
+    "name": "The Binding",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/the-binding",
+    "chain": [
+      {
+        "name": "The Binding",
+        "npc": "Ghosthunter Bob",
+        "exp": 42000,
+        "rewards": [
+          "42,000 experience"
+        ],
+        "procedures": [
+          "Search for Ghosthunter Bob in Ludibrium: Forgotten Path of Time <1>.",
+          "Hunt for 20 Binding Bridle from Master Death Teddy.",
+          "Return to Ghosthunter Bob once you have collected the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Binding Bridle",
+            "qty": "20"
+          }
+        ],
+        "npcLocation": "Ludibrium: Forgotten Path of Time <1>"
+      }
+    ]
+  },
+  {
+    "location": "Ludus Lake",
+    "level": "85",
+    "name": "The Soul Collector",
+    "url": "https://bbb.hidden-street.net/quest/ludus-lake/the-soul-collector",
+    "chain": [
+      {
+        "name": "The Soul Collector",
+        "npc": "Ghosthunter Bob",
+        "exp": 63000,
+        "rewards": [
+          "63,000 experience",
+          "1 Fame",
+          "This quest is repeatable once every 24 hours."
+        ],
+        "procedures": [
+          "Search for Ghosthunter Bob in Ludibrium: Forgotten Path of Time <1>.",
+          "Hunt for 1 Soul Collector from Spirit Viking.",
+          "Kill 20 Spirit Viking.",
+          "Return to Ghosthunter Bob once you have collected the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Soul Collector",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Ludibrium: Forgotten Path of Time <1>"
+      }
+    ]
+  },
+  {
+    "location": "Singapore",
+    "level": "70",
+    "name": "Savior Of Ulu City",
+    "url": "https://bbb.hidden-street.net/quest/singapore/savior-of-ulu-city",
+    "chain": [
+      {
+        "name": "Entering Ulu City             (Level 70 and above)          repeatable",
+        "npc": "Ralph the Wanderer",
+        "exp": 15000,
+        "rewards": [
+          "15,000 experience"
+        ],
+        "procedures": [
+          "Talk to Ralph the Wanderer at Singapore: Boat Quay Town.",
+          "Hunt 50 Veetron, 50 Berserkie and 30 Montrecer.",
+          "Collect 50 Veetron Horn from Veetron.",
+          "Collect 50 Sweat Bead from Berserkie.",
+          "Collect 30 Oil Canister from Montrecer.",
+          "Head to Singapore: Ulu City Entrance and talk to Commando Jim"
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Sweat Bead",
+            "qty": "50"
+          },
+          {
+            "name": "Veetron Horn",
+            "qty": "50"
+          },
+          {
+            "name": "Oil Canister",
+            "qty": "30"
+          }
+        ],
+        "npcLocation": "Singapore: Boat Quay Town"
+      },
+      {
+        "name": "Pushing Forward In Ulu City             (Level 70 and above)          repeatable",
+        "npc": "Commando Jim",
+        "exp": 20000,
+        "rewards": [
+          "20,000 experience"
+        ],
+        "procedures": [
+          "Talk to Commando Jim at Singapore: Ulu City Entrance.",
+          "Kill 100 Slygie and 100 Petrifighter.",
+          "Collect 100 Slygie Tail from Slygie.",
+          "Collect 100 Moss Rock from Petrifighter.",
+          "Return to Singapore: Ulu City Entrance and talk to Commando Jim."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Slygie Tail",
+            "qty": "100"
+          },
+          {
+            "name": "Moss Rock",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Singapore: Ulu City Entrance"
+      },
+      {
+        "name": "Ulu City Energy Thieves             (Level 70 and above)          repeatable",
+        "npc": "Commando Jim",
+        "exp": 30000,
+        "rewards": [
+          "30,000 experience",
+          "Mallet x 1",
+          "Elixir x 20",
+          "Power Elixir x 20",
+          "Scroll for Spear for ATT 60% x 1",
+          "Scroll for Pole Arm for ATT 60% x 1",
+          "Scroll for Bow for ATT 60% x 1",
+          "Scroll for Crossbow for ATT 60% x 1",
+          "Scroll for Claw for ATT 60% x 1",
+          "Scroll for Dagger for ATT 60% x 1",
+          "Scroll for One-Handed Sword for ATT 60% x 1",
+          "Scroll for One-Handed Axe for ATT 60% x 1",
+          "Scroll for One-Handed BW for ATT 60% x 1",
+          "Scroll for Two-Handed Sword for ATT 60% x 1",
+          "Scroll for Two-Handed Axe for ATT 60% x 1",
+          "Scroll for Two-Handed BW for ATT 60% x 1",
+          "Scroll for Wand for Magic Attack 60% x 1",
+          "Scroll for Staff for Magic Attack 60% x 1",
+          "Scroll for Earring for INT 60% x 1",
+          "Scroll for Cape for STR 60% x 1",
+          "Scroll for Cape for INT 60% x 1",
+          "Scroll for Cape for LUK 60% x 1",
+          "Scroll for Cape for DEX 60% x 1"
+        ],
+        "procedures": [
+          "Talk to Commando Jim at Singapore: Ulu City Entrance.",
+          "Kill 100 Duku.",
+          "Collect 100 Rafflesia from Duku.",
+          "Collect 1 Soul Lantern from Capt. Latanica."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Rafflesia",
+            "qty": "100"
+          },
+          {
+            "name": "Soul Lantern",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Singapore: Ulu City Entrance"
+      },
+      {
+        "name": "Savior Of Ulu City [2]             (Level 70 and above)          repeatable",
+        "npc": "Commando Jim",
+        "exp": 100000,
+        "rewards": [
+          "150,000 mesos",
+          "100,000 experience",
+          "Reindeer Milk x 30",
+          "Power Elixir x 20",
+          "Dark Korben x 1 if you are a Warrior",
+          "Blue Ciara x 1 if you are a Magician",
+          "Green Arcina x 1 if you are a Bowman",
+          "Dark Anelin x 1 if you are a Thief"
+        ],
+        "procedures": [
+          "Talk to Commando Jim at Singapore: Ulu City Entrance.",
+          "Kill 1 Krexel [3].",
+          "Return to Commando Jim at Singapore: Ulu City Entrance."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Mallet",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Singapore: Ulu City Entrance"
+      }
+    ]
+  },
+  {
+    "location": "Malaysia",
+    "level": "85",
+    "name": "Present for Brother",
+    "url": "https://bbb.hidden-street.net/quest/malaysia/present-for-brother",
+    "chain": [
+      {
+        "name": "Present for Brother",
+        "npc": "Lam",
+        "exp": 44500,
+        "rewards": [
+          "44,500 experience"
+        ],
+        "procedures": [
+          "Speak to Lam in Kampung Village",
+          "Kill 200 Booper Scarlion",
+          "Hunt for 200 Toy Plane from Booper Scarlion",
+          "Return to Lam"
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Malaysia: Kampung Village"
+      }
+    ]
+  },
+  {
+    "location": "Malaysia",
+    "level": "85",
+    "name": "Merry-go-round in Kampung",
+    "url": "https://bbb.hidden-street.net/quest/malaysia/merry-go-round-in-kampung",
+    "chain": [
+      {
+        "name": "Merry-go-round in Kampung",
+        "npc": "Lam",
+        "exp": 78500,
+        "rewards": [
+          "78,500 experience"
+        ],
+        "procedures": [
+          "Speak to Lam in Kampung Village",
+          "Kill 200 Gallopera",
+          "Hunt for 200 Wooden Pony Tail from Gallopera",
+          "Return to Lam"
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Malaysia: Kampung Village"
+      }
+    ]
+  },
+  {
+    "location": "Malaysia",
+    "level": "85",
+    "name": "Away from Kampung",
+    "url": "https://bbb.hidden-street.net/quest/malaysia/away-from-kampung",
+    "chain": [
+      {
+        "name": "Lam Wants To See the World             (Level 85 and above)",
+        "npc": "Lam",
+        "exp": 15000,
+        "rewards": [
+          "15,000 experience",
+          "Dark Scroll for Cape for INT 30% x 1",
+          "Dark Scroll for Cape for DEX 30% x 1",
+          "Dark Scroll for Bow for ATT 30% x 1",
+          "Dark Scroll for Crossbow for ATT 30% x 1",
+          "Dark Scroll for Claw for ATT 30% x 1",
+          "Dark Scroll for Shield for Magic Att 30% x 1",
+          "Dark Scroll for Shield for Weapon Att 30% x 1",
+          "Dark Scroll for Gloves for Magic Att. 30% x 1",
+          "Dark Scroll for Overall Armor for INT 30% x 1"
+        ],
+        "procedures": [
+          "Speak to Lam in Malaysia: Kampung Village.",
+          "Hunt for 100 Lucky Bus Ticket from Yabber Doo.",
+          "Return to Lam."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Lucky Bus Ticket",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Malaysia: Kampung Village"
+      },
+      {
+        "name": "Off to the City             (Level 85 and above)",
+        "npc": "Lam",
+        "exp": 54500,
+        "rewards": [
+          "54,500 experience"
+        ],
+        "procedures": [
+          "Talk to Lam in Malaysia: Kampung Village.",
+          "Hunt 200 Viking Helmet from Vikerola.",
+          "Kill 200 Vikerola.",
+          "Return to Lam."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Viking Helmet",
+            "qty": "200"
+          }
+        ],
+        "npcLocation": "Malaysia: Kampung Village"
+      },
+      {
+        "name": "Gift for Brother             (Level 85 and above)",
+        "npc": "Lam",
+        "exp": 44500,
+        "rewards": [
+          "44,500 experience"
+        ],
+        "procedures": [
+          "Talk to Lam in Malaysia: Kampung Village.",
+          "Hunt 200 Toy Plane from Booper Scarlion.",
+          "Kill 200 Booper Scarlion.",
+          "Return to Lam."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Toy Plane",
+            "qty": "200"
+          }
+        ],
+        "npcLocation": "Malaysia: Kampung Village"
+      },
+      {
+        "name": "Merry-go-round in Kampung             (Level 85 and above)",
+        "npc": "Lam",
+        "exp": 78500,
+        "rewards": [
+          "78,500 experience"
+        ],
+        "procedures": [
+          "Talk to Lam in Malaysia: Kampung Village.",
+          "Hunt 200 Wooden Pony Tail from Gallopera.",
+          "Kill 200 Gallopera.",
+          "Return to Lam."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Wooden Pony Tail",
+            "qty": "200"
+          }
+        ],
+        "npcLocation": "Malaysia: Kampung Village"
+      }
+    ]
+  },
+  {
+    "location": "Malaysia",
+    "level": "85",
+    "name": "Surprise Birthday Party",
+    "url": "https://bbb.hidden-street.net/quest/malaysia/surprise-birthday-party",
+    "chain": [
+      {
+        "name": "Gift for Dear Daddy",
+        "npc": "Hurliza",
+        "exp": 10000,
+        "rewards": [
+          "10,000 experience",
+          "Power Elixir x 10"
+        ],
+        "procedures": [
+          "Talk to [node:8177 link] in Malaysia: Outskirts of Muddy Banks.",
+          "Eliminate 100 Charmer.",
+          "Obtain 100 Charmer's Flute.",
+          "Return to Hurliza and give her the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Charmer's Flute",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Malaysia: Outskirt of Muddy Banks"
+      },
+      {
+        "name": "Daddy's Birthday Party",
+        "npc": "Hurliza",
+        "exp": 16000,
+        "rewards": [
+          "16,000 experience"
+        ],
+        "procedures": [
+          "Talk to [node:8177 link] in Malaysia: Outskirts of Muddy Banks.",
+          "Eliminate 50 Ratatula.",
+          "Obtain 50 Tall Hat.",
+          "Return to Hurliza and give her the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Tall Hat",
+            "qty": "50"
+          }
+        ],
+        "npcLocation": "Malaysia: Outskirt of Muddy Banks"
+      },
+      {
+        "name": "Unexpected Guest",
+        "npc": "Hurliza",
+        "exp": 18000,
+        "rewards": [
+          "18,000 experience"
+        ],
+        "procedures": [
+          "Talk to Hurliza in Malaysia: Outskirts of Muddy Banks.",
+          "Eliminate 100 Froscola.",
+          "Obtain 100 Lucky Hat.",
+          "Return to Hurliza and give her the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Lucky Hat",
+            "qty": "100"
+          }
+        ],
+        "npcLocation": "Malaysia: Outskirt of Muddy Banks"
+      },
+      {
+        "name": "Grand Finale             (Level 85 and above)",
+        "npc": "Hurliza",
+        "exp": 89000,
+        "rewards": [
+          "10,000 mesos",
+          "89,000 experience"
+        ],
+        "procedures": [
+          "Talk to Hurliza in Malaysia: Outskirts of Muddy Banks.",
+          "Eliminate 200 Jester Scarlion.",
+          "Obtain 200 Dented Barrel.",
+          "Return to Hurliza and give her the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Dented Barrel",
+            "qty": "200"
+          }
+        ],
+        "npcLocation": "Malaysia: Outskirt of Muddy Banks"
+      }
+    ]
+  },
+  {
+    "location": "Malaysia",
+    "level": "90",
+    "name": "Off to the Fantasy Theme Park",
+    "url": "https://bbb.hidden-street.net/quest/malaysia/off-to-the-fantasy-theme-park",
+    "chain": [
+      {
+        "name": "Off to the Fantasy Theme Park",
+        "npc": "Lam",
+        "exp": 0,
+        "rewards": [
+          "Spirit of Fantasy Theme Park x 1"
+        ],
+        "procedures": [
+          "Talk to Lam in Malaysia: Kampung Village.",
+          "Hunt for 10 Rodeo's Master.",
+          "Return to Lam.",
+          "You may place the Spirit of Fantasy Theme Park under the statue of the Scarlion Boss [1] or Targa [1] to summon them."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Rodeo's Master",
+            "qty": "10"
+          }
+        ],
+        "npcLocation": "Malaysia: Kampung Village"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "90",
+    "name": "Path to the Past",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/path-to-the-past",
+    "chain": [
+      {
+        "name": "Path to the Past",
+        "npc": "Temple Keeper",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Temple Keeper."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "91",
+    "name": "The One Who Walks Down Memory Lane 1",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-memory-lane-1",
+    "chain": []
+  },
+  {
+    "location": "Temple of Time",
+    "level": "94",
+    "name": "The One Who Walks Down Memory Lane 2",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-memory-lane-2",
+    "chain": [
+      {
+        "name": "The One Who Walks Down Memory Lane 2",
+        "npc": "Temple Keeper",
+        "exp": 222700,
+        "rewards": [
+          "222,700 experience",
+          "Amethyst x 1",
+          "Allows access to Memory Lane 3."
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Memory Monk Trainee.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "98",
+    "name": "The One Who Walks Down Memory Lane 3",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-memory-lane-3",
+    "chain": [
+      {
+        "name": "The One Who Walks Down Memory Lane 3",
+        "npc": "Temple Keeper",
+        "exp": 275700,
+        "rewards": [
+          "275,700 experience",
+          "Aquamarine x 1",
+          "Allows access to Memory Lane 4."
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Memory Guardian.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "101",
+    "name": "The One Who Walks Down Memory Lane 4",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-memory-lane-4",
+    "chain": [
+      {
+        "name": "The One Who Walks Down Memory Lane 4",
+        "npc": "Temple Keeper",
+        "exp": 323500,
+        "rewards": [
+          "323,500 experience",
+          "Emerald x 1",
+          "Allows access to Memory Lane 5."
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Chief Memory Guardian.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "103",
+    "name": "The One Who Walks Down Memory Lane 5",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-memory-lane-5",
+    "chain": [
+      {
+        "name": "The One Who Walks Down Memory Lane 5",
+        "npc": "Temple Keeper",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 1 Dodo.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "103",
+    "name": "In Search for the Lost Memory",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/in-search-for-the-lost-memory",
+    "chain": [
+      {
+        "name": "In Search for the Lost Memory",
+        "npc": "Temple Keeper",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Talk to Memory Keeper."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "103",
+    "name": "Memory Lane",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/memory-lane",
+    "chain": [
+      {
+        "name": "Memory Lane",
+        "npc": "Memory Keeper",
+        "exp": 359900,
+        "rewards": [
+          "359,900 experience"
+        ],
+        "procedures": [
+          "Talk to Memory Keeper.",
+          "Talk to your 1st job advancement NPC.",
+          "Talk to Memory Keeper."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Memory Keeper's Room"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "106",
+    "name": "The One Who Walks Down the Road of Regrets 1",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-the-road-of-regrets-1",
+    "chain": [
+      {
+        "name": "The One Who Walks Down the Road of Regrets 1",
+        "npc": "Temple Keeper",
+        "exp": 422400,
+        "rewards": [
+          "422,400 experience",
+          "Sapphire x 1",
+          "Allows access to Road of Regrets 2."
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Qualm Monk.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "109",
+    "name": "The One Who Walks Down the Road of Regrets 2",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-the-road-of-regrets-2",
+    "chain": []
+  },
+  {
+    "location": "Temple of Time",
+    "level": "113",
+    "name": "The One Who Walks Down the Road of Regrets 3",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-the-road-of-regrets-3",
+    "chain": [
+      {
+        "name": "The One Who Walks Down the Road of Regrets 3",
+        "npc": "Temple Keeper",
+        "exp": 613600,
+        "rewards": [
+          "613,600 experience",
+          "Diamond x 1",
+          "Allows access to Road of Regrets 4."
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Qualm Guardian.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "116",
+    "name": "The One Who Walks Down the Road of Regrets 4",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-the-road-of-regrets-4",
+    "chain": [
+      {
+        "name": "The One Who Walks Down the Road of Regrets 4",
+        "npc": "Temple Keeper",
+        "exp": 720200,
+        "rewards": [
+          "720,200 experience",
+          "Black Crystal x 1",
+          "Allows access to Road of Regrets 5."
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Chief Qualm Guardian.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "120",
+    "name": "Frozen Emotions",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/frozen-emotions",
+    "chain": [
+      {
+        "name": "Frozen Emotions",
+        "npc": "Temple Keeper",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Temple Keeper at Time Lane: Three Doors.",
+          "Talk to Sorcerer at Time Lane: Sorcerer's Room."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "120",
+    "name": "The One Who Walks Down the Road of Regrets 5",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-the-road-of-regrets-5",
+    "chain": [
+      {
+        "name": "The One Who Walks Down the Road of Regrets 5",
+        "npc": "Temple Keeper",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 1 Lilynouch.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "120",
+    "name": "The Sorcerer Who Sells Emotions",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-sorcerer-who-sells-emotions",
+    "chain": [
+      {
+        "name": "The Sorcerer Who Sells Emotions",
+        "npc": "Sorcerer",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Sorcerer in Time Lane: Sorcerer's Room.",
+          "Pay 1,000,000 mesos to obtain 1 Sorcerer's Potion.",
+          "Drink the Sorcerer's Potion. Player will die upon drinking. Click Ok to revive, but do not heal.",
+          "Talk to Sorcerer again to finish the quest."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Sorcerer's Potion",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Time Lane: Sorcerer's Room"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "121",
+    "name": "The One Who Walks Down the Road to Oblivion 1",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-the-road-to-oblivion-1",
+    "chain": [
+      {
+        "name": "The One Who Walks Down the Road to Oblivion 1",
+        "npc": "Temple Keeper",
+        "exp": 940300,
+        "rewards": [
+          "940,300 experience",
+          "Power Crystal x 1",
+          "Allows access to Road to Oblivion 2"
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Oblivion Monk.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "124",
+    "name": "The One Who Walks Down the Road to Oblivion 2",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-the-road-to-oblivion-2",
+    "chain": [
+      {
+        "name": "The One Who Walks Down the Road to Oblivion 2",
+        "npc": "Temple Keeper",
+        "exp": 1103500,
+        "rewards": [
+          "1,103,500 experience",
+          "Wisdom Crystal x 1",
+          "Allows access to Road to Oblivion 3"
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Oblivion Monk Trainee.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "128",
+    "name": "The One Who Walks Down the Road to Oblivion 3",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-the-road-to-oblivion-3",
+    "chain": [
+      {
+        "name": "The One Who Walks Down the Road to Oblivion 3",
+        "npc": "Temple Keeper",
+        "exp": 1366000,
+        "rewards": [
+          "1,366,000 experience",
+          "DEX Crystal x 1",
+          "Allows access to Road to Oblivion 4"
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Oblivion Guardian.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "131",
+    "name": "The One Who Walks Down the Road to Oblivion 4",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-the-road-to-oblivion-4",
+    "chain": [
+      {
+        "name": "The One Who Walks Down the Road to Oblivion 4",
+        "npc": "Temple Keeper",
+        "exp": 1603200,
+        "rewards": [
+          "1,603,200 experience",
+          "LUK Crystal x 1",
+          "Allows access to Road to Oblivion 5"
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Chief Oblivion Guardian.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "135",
+    "name": "The One Who Walks Down the Road to Oblivion 5",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-the-road-to-oblivion-5",
+    "chain": [
+      {
+        "name": "The One Who Walks Down the Road to Oblivion 5",
+        "npc": "Temple Keeper",
+        "exp": 1984500,
+        "rewards": [
+          "1,984,500 experience",
+          "Dark Crystal x 1",
+          "Allows access to Depths of the Temple"
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 1 Lyka.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "135",
+    "name": "Goddess's Blessing",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/goddesss-blessing",
+    "chain": [
+      {
+        "name": "Goddess's Blessing",
+        "npc": "Temple Keeper",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Temple Keeper at Time Lane: Three Doors.",
+          "Talk to Record Keeper at Time Lane: Record Keeper's Room"
+        ],
+        "itemsNeeded": [],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "135",
+    "name": "Barrier",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/barrier",
+    "chain": [
+      {
+        "name": "Barrier",
+        "npc": "Record Keeper",
+        "exp": 0,
+        "rewards": [
+          "Marble of Chaos x 1"
+        ],
+        "procedures": [
+          "Talk to Record Keeper at Time Lane: Record Keeper's Room.",
+          "Talk to Temple Keeper at Time Lane: Three Doors.",
+          "Obtain 10 of each Smiley Mask, Neutral Mask and Frowny Mask from the Monks/Monk Trainees in their respective areas.",
+          "Obtain one of each Whale's Helmet, Knight's Mask and Guardian's Horn from each of the three bosses in their respective areas.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Smiley Mask",
+            "qty": "10"
+          },
+          {
+            "name": "Neutral Mask",
+            "qty": "10"
+          },
+          {
+            "name": "Frowny Mask",
+            "qty": "10"
+          },
+          {
+            "name": "Whale's Helmet",
+            "qty": "1"
+          },
+          {
+            "name": "Knight's Mask",
+            "qty": "1"
+          },
+          {
+            "name": "Guardian's Horn",
+            "qty": "1"
+          }
+        ],
+        "npcLocation": "Time Lane: Record Keeper's Room"
+      }
+    ]
+  },
+  {
+    "location": "Temple of Time",
+    "level": "135",
+    "name": "Breaking the Barrier again",
+    "url": "https://bbb.hidden-street.net/quest/temple-of-time/breaking-the-barrier-again",
+    "chain": [
+      {
+        "name": "Breaking the Barrier again",
+        "npc": "Temple Keeper",
+        "exp": 0,
+        "rewards": [
+          "Marble of Chaos x 1",
+          "This quest is repeatable whenever Marble of Chaos is not in your inventory."
+        ],
+        "procedures": [
+          "Talk to Temple Keeper at Time Lane: Three Doors.",
+          "Obtain 10 of each Smiley Mask, Neutral Mask and Frowny Mask from the Monks/Monk Trainees in their respective areas.",
+          "Obtain one of each Whale's Helmet, Knight's Mask and Guardian's Horn from each of the three bosses in their respective areas.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Smiley Mask",
+            "qty": "10"
+          },
+          {
+            "name": "Neutral Mask",
+            "qty": "10"
+          },
+          {
+            "name": "Frowny Mask",
+            "qty": "10"
+          },
+          {
+            "name": "Whale's Helmet",
+            "qty": "1"
+          },
+          {
+            "name": "Knight's Mask",
+            "qty": "1"
+          },
+          {
+            "name": "Guardian's Horn",
+            "qty": "1"
+          },
+          {
+            "name": "Marble of Chaos",
+            "qty": "0"
+          }
+        ],
+        "npcLocation": "Time Lane: Three Doors"
+      }
+    ]
+  }
+]

@@ -1,7 +1,7 @@
 <template>
-  <HelloWorld />
+  <QuestTable />
 </template>
 
 <script setup>
-  import HelloWorld from '@/components/HelloWorld.vue'
+  import QuestTable from '@/components/QuestTable.vue';
 </script>

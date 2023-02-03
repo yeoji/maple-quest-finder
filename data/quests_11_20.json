@@ -1,0 +1,1827 @@
+[
+  {
+    "location": "Victoria Island",
+    "level": "12",
+    "name": "The Terrorizing Red Ribbon Pigs",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/the-terrorizing-red-ribbon-pigs",
+    "chain": [
+      {
+        "name": "The Terrorizing Red Ribbon Pigs",
+        "npc": "Jay",
+        "npcLocation": "Henesys",
+        "exp": 1300,
+        "rewards": [
+          "1,300 experience"
+        ],
+        "procedures": [
+          "Talk to Jay in Henesys.",
+          "Kill 30 Ribbon Pigs.",
+          "Return to Jay in Henesys."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "12",
+    "name": "That Red Isn't For Everyone!",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/that-red-isnt-for-everyone",
+    "chain": [
+      {
+        "name": "That Red Isn't For Everyone!",
+        "npc": "Alex",
+        "npcLocation": "Kerning City",
+        "exp": 1300,
+        "rewards": [
+          "1,300 experience"
+        ],
+        "procedures": [
+          "Talk to Alex in Kerning City.",
+          "Kill 30 Ribbon Pigs.",
+          "Return to Alex in Kerning City."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "12",
+    "name": "Intimidating Octopuses",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/intimidating-octopuses",
+    "chain": [
+      {
+        "name": "Intimidating Octopuses",
+        "npc": "Icarus",
+        "npcLocation": "Kerning City",
+        "exp": 1300,
+        "rewards": [
+          "1,300 experience"
+        ],
+        "procedures": [
+          "Talk to Icarus in Kerning City.",
+          "Kill 30 Octopus.",
+          "Return to Icarus in Kerning City."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "12",
+    "name": "Why Are Dark Stumps So Dark?",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/why-are-dark-stumps-so-dark",
+    "chain": [
+      {
+        "name": "Why Are Dark Stumps So Dark?",
+        "npc": "Rowen the Fairy",
+        "npcLocation": "Ellinia",
+        "exp": 1100,
+        "rewards": [
+          "1,100 experience"
+        ],
+        "procedures": [
+          "Talk to Rowen the Fairy in Ellinia.",
+          "Kill 40 Dark Stumps.",
+          "Return to Rowen the Fairy in Ellinia."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "12",
+    "name": "Preparations for the Traditional Ceremony",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/preparations-for-the-traditional-ceremony",
+    "chain": [
+      {
+        "name": "Preparations for the Traditional Ceremony",
+        "npc": "Blackbull",
+        "npcLocation": "Perion",
+        "exp": 1100,
+        "rewards": [
+          "1,100 experience"
+        ],
+        "procedures": [
+          "Talk to Blackbull in Perion.",
+          "Collect 20 Leaf from Dark Stump.",
+          "Return to Blackbull in Perion."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Leaf",
+            "qty": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "14",
+    "name": "I Need an Umbrella!",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/i-need-an-umbrella",
+    "chain": [
+      {
+        "name": "I Need an Umbrella!",
+        "npc": "Rina",
+        "npcLocation": "Henesys",
+        "exp": 1600,
+        "rewards": [
+          "1,600 experience"
+        ],
+        "procedures": [
+          "Talk to Rina in Henesys.",
+          "Collect 20 Green Mushroom Caps from Green Mushrooms.",
+          "Return to Rina in Henesys."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Green Mushroom Cap",
+            "qty": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "14",
+    "name": "You Were Bitten by a Green Mushroom?",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/you-were-bitten-by-a-green-mushroom",
+    "chain": [
+      {
+        "name": "You Were Bitten by a Green Mushroom?",
+        "npc": "Betty",
+        "npcLocation": "Ellinia",
+        "exp": 1600,
+        "rewards": [
+          "1,600 experience"
+        ],
+        "procedures": [
+          "Talk to Betty in Ellinia.",
+          "Kill 40 Green Mushrooms.",
+          "Return to Betty in Ellinia."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "15",
+    "name": "Request of Mrs. Reade",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/request-of-mrs-reade",
+    "chain": [
+      {
+        "name": "Cleaning the Nautilus 3             (Level 25 and above)",
+        "npc": "Mrs. Reade",
+        "npcLocation": "The Nautilus: Top Floor - Hallway",
+        "exp": 7000,
+        "rewards": [
+          "7,000 experience"
+        ],
+        "procedures": [
+          "Talk to Mrs. Reade in The Nautilus: Top Floor - Hallway.",
+          "Purchase 1 Pure Water from Valen or Sleepywood Sauna.",
+          "Give the obtained item to Jack."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Pure Water",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Cleaning the Nautilus 1",
+        "npc": "Mrs. Reade",
+        "npcLocation": "The Nautilus: Top Floor - Hallway",
+        "exp": 1300,
+        "rewards": [
+          "1,300 experience"
+        ],
+        "procedures": [
+          "Talk to Mrs. Reade in The Nautilus: Top Floor - Hallway.",
+          "Hunt for 50 Pig's Ribbon.",
+          "Return to her after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Pig's Ribbon",
+            "qty": "50"
+          }
+        ]
+      },
+      {
+        "name": "Cleaning the Nautilus 2             (Level 25 and above)",
+        "npc": "Mrs. Reade",
+        "npcLocation": "The Nautilus: Top Floor - Hallway",
+        "exp": 7000,
+        "rewards": [
+          "7,000 experience"
+        ],
+        "procedures": [
+          "Talk to Mrs. Reade in The Nautilus: Top Floor - Hallway.",
+          "Hunt for 50 Rat Trap from Ratz.",
+          "Return to her after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Rat Trap",
+            "qty": "50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "15",
+    "name": "Nella & Kerning City Citizen's Request [1]",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/nella-kerning-city-citizens-request-1",
+    "chain": [
+      {
+        "name": "Shumi's Request",
+        "npc": "Nella",
+        "npcLocation": "Kerning City",
+        "exp": 900,
+        "rewards": [
+          "900 experience",
+          "Cake x 100"
+        ],
+        "procedures": [
+          "Talk to Nella outside the Hairshop in Kerning City.",
+          "Collect 5 Processed Wood.",
+          "Collect 5 Screw.",
+          "Return to Nella and talk to her repeatedly until you receive the next request."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Processed Wood",
+            "qty": "5"
+          },
+          {
+            "name": "Screw",
+            "qty": "5"
+          }
+        ]
+      },
+      {
+        "name": "Don Hwang's Request",
+        "npc": "Nella",
+        "npcLocation": "Kerning City",
+        "exp": 800,
+        "rewards": [
+          "800 experience",
+          "Lemon x 50"
+        ],
+        "procedures": [
+          "Talk to Nella outside the Hairshop in Kerning City.",
+          "Pay her 1,000 mesos for the request.",
+          "Hunt for 50 Green Mushroom Cap.",
+          "Hunt for 50 Bubbling's Large Bubble.",
+          "Return to Nella and talk to her repeatedly until you receive the next request."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Green Mushroom Cap",
+            "qty": "50"
+          },
+          {
+            "name": "Bubbling's Large Bubble",
+            "qty": "50"
+          }
+        ]
+      },
+      {
+        "name": "Andre's Request",
+        "npc": "Nella",
+        "npcLocation": "Kerning City",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience",
+          "Work Gloves x 1 if you are a Beginner",
+          "Venon x 1 if you are a Warrior",
+          "Blue Morrican x 1 if you are a Magician",
+          "Blue Diros x 1 if you are a Bowman",
+          "Bronze Mischief x 1 if you are a Thief",
+          "Brown Leather Armor Glove x 1 if you are a Pirate"
+        ],
+        "procedures": [
+          "Talk to Nella outside the Hairshop in Kerning City.",
+          "Hunt for 100 Octopus Leg.",
+          "Purchase 1 Pure Water from Valen or from Mr. Sweatbottom in Sleepywood Sauna.",
+          "Return to Nella and talk to her repeatedly until you receive the next request."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Octopus Leg",
+            "qty": "100"
+          },
+          {
+            "name": "Pure Water",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "15",
+    "name": "DANGER! <1-G. Mushroom>",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/danger-1-g-mushroom",
+    "chain": [
+      {
+        "name": "DANGER! <1-G. Mushroom> (Part II)                      repeatable",
+        "npc": "Wanted: G. Mushroom",
+        "npcLocation": "Dungeon: Deep Forest",
+        "exp": 600,
+        "rewards": [
+          "600 experience",
+          "Red Potion x 50"
+        ],
+        "procedures": [
+          "Search for Wanted: G. Mushroom signboard in Dungeon: Deep Forest again.",
+          "Kill 999 Green Mushroom.",
+          "Return to Sleepywood and talk to The Rememberer once you have completed the task for Part II."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "DANGER! <1-G. Mushroom> (Part I)",
+        "npc": "Wanted: G. Mushroom",
+        "npcLocation": "Dungeon: Deep Forest",
+        "exp": 2500,
+        "rewards": [
+          "2,500 experience",
+          "White Potion x 50"
+        ],
+        "procedures": [
+          "Search for Wanted: G. Mushroom signboard in Dungeon: Deep Forest.",
+          "Kill 99 Green Mushroom.",
+          "Go to Sleepywood and talk to The Rememberer  once you have complete Part I."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "15",
+    "name": "Nautilus' Special Entree",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/nautilus-special-entree",
+    "chain": [
+      {
+        "name": "Protect The Nautilus' Emergency Food Supply",
+        "npc": "Tangyoon",
+        "npcLocation": "The Nautilus: Cafeteria",
+        "exp": 1300,
+        "rewards": [
+          "1,300 experience"
+        ],
+        "procedures": [
+          "Talk to Tangyoon in The Nautilus: Cafeteria.",
+          "Kill 30 Pig.",
+          "Kill 30 Ribbon Pig.",
+          "Return to him once you have completed the given tasks."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Find Fresh Milk",
+        "npc": "Tangyoon",
+        "npcLocation": "The Nautilus: Cafeteria",
+        "exp": 3600,
+        "rewards": [
+          "3,600 experience"
+        ],
+        "procedures": [
+          "Talk to Tangyoon in The Nautilus: Cafeteria and you will obtain 1 Milk Jug.",
+          "Talk to him again and select \"Please send it to the stable\".",
+          "Click on the cow with lipstick, as shown in the image below. Do this until the bottle is fully filled.",
+          "Return to Tangyoon once you have completed the task."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Milk Jug",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "15",
+    "name": "Maya and the Weird Medicine",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/maya-and-the-weird-medicine",
+    "chain": [
+      {
+        "name": "Arcon's Blood?",
+        "npc": "Manji",
+        "npcLocation": "Perion",
+        "exp": 0,
+        "rewards": [
+          "Arcon's Blood x 1"
+        ],
+        "procedures": [
+          "Hunt for 40 The Charm of the Undead from Zombie Mushroom.",
+          "Talk to Manji again once you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "The Charm of the Undead",
+            "qty": "40"
+          }
+        ]
+      },
+      {
+        "name": "Making Sparkling Rock (2)",
+        "npc": "Teo",
+        "npcLocation": "Lith Harbor",
+        "exp": 0,
+        "rewards": [
+          "Weird Medicine x 1"
+        ],
+        "procedures": [
+          "Give the Sparkling Rock to Teo at Lith Harbor."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Sparkling Rock",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Making Sparkling Rock (1)",
+        "npc": "Manji",
+        "npcLocation": "Perion",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Search for Manji at the top left platform of Perion and talk to him."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Delivering the Weird Medicine",
+        "npc": "Maya",
+        "npcLocation": "Henesys",
+        "exp": 2000,
+        "rewards": [
+          "5,000 mesos",
+          "2,000 experience",
+          "Brown Bamboo Hat x 1"
+        ],
+        "procedures": [
+          "Go back to Henesys and give the item to Maya."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Weird Medicine",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Maya Of Henesys",
+        "npc": "Maya",
+        "npcLocation": "Henesys",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Maya in a house in Henesys.",
+          "Talk to Teo in Lith Harbor."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Getting Arcon's Blood",
+        "npc": "Sophia",
+        "npcLocation": "Perion",
+        "exp": 0,
+        "rewards": [
+          "Sparkling Rock x 1"
+        ],
+        "procedures": [
+          "Hunt for 50 Squishy Liquid from Slime.",
+          "Hunt for 50 Leaf from Dark Stump.",
+          "Hunt for 20 Octopus Leg from Octopus.",
+          "Return to Sophia in Perion after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Squishy Liquid",
+            "qty": "50"
+          },
+          {
+            "name": "Leaf",
+            "qty": "50"
+          },
+          {
+            "name": "Octopus Leg",
+            "qty": "20"
+          },
+          {
+            "name": "Arcon's Blood",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Finding Sophia",
+        "npc": "Sophia",
+        "npcLocation": "Perion",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Head over to the potion shop of Perion and talk to Sophia."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "15",
+    "name": "Luke the Security Guy",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/luke-the-security-guy",
+    "chain": [
+      {
+        "name": "Luke the Security Guy",
+        "npc": "Luke",
+        "npcLocation": "Warning Street: Henesys Dungeon Entrance",
+        "exp": 1500,
+        "rewards": [
+          "1,500 experience",
+          "Garnet x 1",
+          "Amethyst x 1",
+          "Aquamarine x 1",
+          "Emerald x 1",
+          "Opal x 1",
+          "Sapphire x 1",
+          "Topaz x 1",
+          "Diamond x 1"
+        ],
+        "procedures": [
+          "Talk to Luke, who is located in Warning Street: Henesys Dungeon Entrance",
+          "Hunt for 100 Jr. Necki's Skin from Jr. Necki.",
+          "Hunt for 10 Stirge Wing from Stirge.",
+          "Obtain 1 Salad by buying it from either 24-Hr Mobile Store or Valen.",
+          "Return to Luke once you have gathered all the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Jr. Necki's Skin",
+            "qty": "100"
+          },
+          {
+            "name": "Stirge Wing",
+            "qty": "10"
+          },
+          {
+            "name": "Salad",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "15",
+    "name": "Arwen and Ellinia",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/arwen-and-ellinia",
+    "chain": [
+      {
+        "name": "Arwen and Ellinia",
+        "npc": "Arwen the Fairy",
+        "npcLocation": "Ellinia",
+        "exp": 400,
+        "rewards": [
+          "400 experience",
+          "Fairy's Wing x 1",
+          "Piece of Ice x 1"
+        ],
+        "procedures": [
+          "Talk to Arwen the Fairy in Ellinia.",
+          "Kill 100 Green Mushroom.",
+          "Return to Arwen the Fairy once you have completed the task."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "15",
+    "name": "John's Pink Flower Basket",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/johns-pink-flower-basket",
+    "chain": [
+      {
+        "name": "John's Pink Flower Basket",
+        "npc": "John",
+        "npcLocation": "Lith Harbor",
+        "exp": 2000,
+        "rewards": [
+          "2,000 experience",
+          "Screw x 30",
+          "Random Reward(s) (if quest is repeated):\n\nAdamantium Ore\nBronze Ore\nMithril Ore\nOrihalcon Ore\nSilver Ore\nSteel Ore",
+          "Adamantium Ore",
+          "Bronze Ore",
+          "Mithril Ore",
+          "Orihalcon Ore",
+          "Silver Ore",
+          "Steel Ore"
+        ],
+        "procedures": [
+          "Talk to John in Lith Harbor.",
+          "Go to Sleepywood and touch the Mysterious Statue.",
+          "Climb step 1 and 2 of the Deep Forest of Patience and collect the Pink Viola.",
+          "Go back to John and give him the Pink Viola."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Pink Viola",
+            "qty": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "15",
+    "name": "Help Me Find My Glasses",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/help-me-find-my-glasses",
+    "chain": [
+      {
+        "name": "Help Me Find My Glasses",
+        "npc": "Abel",
+        "npcLocation": "Victoria Road: Nautilus Harbor",
+        "exp": 1000,
+        "rewards": [
+          "1,700 experience",
+          "Nautilus Return Scroll x 10",
+          "You will only get that reward stated if you obtain Abel's Glasses.  Otherwise, you will only receive 1,000 experience and Nautilus Return Scroll x 5"
+        ],
+        "procedures": [
+          "Talk to Abel in Victoria Road: Nautilus Harbor.",
+          "Head over to the right section of the map where Bart is. Below him, click on any particular part of the bush, as shown in the image below.",
+          "If you have obtained Miscellaneous Glasses, keep on clicking again and again until you obtain 1 Abel's Glasses.",
+          "Return to Abel once you have collected the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Abel's Glasses",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "15",
+    "name": "A Myterious Small Egg",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/a-myterious-small-egg",
+    "chain": [
+      {
+        "name": "A Myterious Small Egg",
+        "npc": "Maple Administrator",
+        "npcLocation": "The Burning Road: Ariant",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "You will automatically receive a message from the [node:5087 link].  You will obtain 1 Mysterious Small Egg.",
+          "Go to Hidden Street: Marr's Forest and talk to Mar the Fairy."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "18",
+    "name": "Sophia's Snack",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/sophias-snack",
+    "chain": [
+      {
+        "name": "Sophia's Snack",
+        "npc": "Sophia",
+        "npcLocation": "Perion",
+        "exp": 2000,
+        "rewards": [
+          "2,000 experience",
+          "Honey x 20"
+        ],
+        "procedures": [
+          "Talk to Sophia in the Potion Shop in Perion.",
+          "Hunt for 20 Sap of Ancient Tree.",
+          "Return to Sophia and give her the collected items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Sap of Ancient Tree",
+            "qty": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "18",
+    "name": "Manji and the Secret Group",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/manji-and-the-secret-group",
+    "chain": [
+      {
+        "name": "Manji and the Secret Group",
+        "npc": "Manji",
+        "npcLocation": "Perion",
+        "exp": 1400,
+        "rewards": [
+          "1,400 experience",
+          "This quest requires a maximum level of Level 29."
+        ],
+        "procedures": [
+          "Talk to Manji of Perion.",
+          "Kill 10 Dark Axe Stump.",
+          "Return and talk to Manji"
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "18",
+    "name": "To the Desert...",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/to-the-desert",
+    "chain": [
+      {
+        "name": "To the Desert...",
+        "npc": "Manji",
+        "npcLocation": "Perion",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Manji of Perion."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "18",
+    "name": "Assignment of a Sand Crew",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/assignment-of-a-sand-crew",
+    "chain": [
+      {
+        "name": "A Special Assignment",
+        "npc": "Manji",
+        "npcLocation": "Perion",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Manji of Perion.",
+          "Then talk to Moppie in Orbis."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "A Supply from the Sand Crew",
+        "npc": "Moppie",
+        "npcLocation": "Orbis",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Manji of Perion.",
+          "Then deliver Moppie's Little Box to Eleska of Ariant: The Town of Ariant."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Moppie's Little Box",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "20",
+    "name": "Winston's Fossil Dig-up",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/winstons-fossil-dig-up",
+    "chain": [
+      {
+        "name": "Delivering A Box Of Fossils",
+        "npc": "Betty",
+        "npcLocation": "Ellinia",
+        "exp": 1000,
+        "rewards": [
+          "30,000 mesos",
+          "1,000 experience",
+          "Egg x 50"
+        ],
+        "procedures": [
+          "Talk to Betty in Ellinia.",
+          "Give her the Fossil Box and Winston's Letter of Recommendation."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Fossil Box",
+            "qty": "1"
+          },
+          {
+            "name": "Winston's Letter of Recommendation",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Searching For Fossils",
+        "npc": "Winston",
+        "npcLocation": "Victoria Road: East Rocky Mountain II",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience",
+          "Fossil Box x 1",
+          "Winston's Letter of Recommendation x 1"
+        ],
+        "procedures": [
+          "Talk to Winston at Victoria Road: East Rocky Mountain II.",
+          "Collect 100 Animal Fossil from Green Mushroom.",
+          "Collect 100 Plant Fossil from Axe Stump.",
+          "Once you have collected all the items needed, go back to Winston and give him the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Animal Fossil",
+            "qty": "100"
+          },
+          {
+            "name": "Plant Fossil",
+            "qty": "100"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "20",
+    "name": "Alex the Runaway Kid",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/alex-the-runaway-kid",
+    "chain": [
+      {
+        "name": "Alex's Request",
+        "npc": "Alex",
+        "npcLocation": "Kerning City",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Alex in Kerning City (above the Pharmacy).",
+          "Head over to Henesys and talk to Chief Stan.",
+          "Choose the following answers:\n\nWell, I'm here at the request of Alex to see you. Please give me 5 minutes.\nStop it now!  Alex is really sorry for running away.\nWhy don't you just ask Alex how he's doing?\nI think you are a great chief of this town.\nAlex has been wandering around even since his mother's passing, along with your strict nature. How about forgiving him first?",
+          "Well, I'm here at the request of Alex to see you. Please give me 5 minutes.",
+          "Stop it now!  Alex is really sorry for running away.",
+          "Why don't you just ask Alex how he's doing?",
+          "I think you are a great chief of this town.",
+          "Alex has been wandering around even since his mother's passing, along with your strict nature. How about forgiving him first?"
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Mother's Gold Watch",
+        "npc": "Alex",
+        "npcLocation": "Kerning City",
+        "exp": 2000,
+        "rewards": [
+          "2,000 experience",
+          "Gold Earrings x 1",
+          "Red Cross Earrings x 1",
+          "Lightning Earrings x 1",
+          "Emerald Earrings x 1"
+        ],
+        "procedures": [
+          "Give the collected item to Alex in Kerning City."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Old Gold Watch",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Talking To Stan",
+        "npc": "Chief Stan",
+        "npcLocation": "Henesys",
+        "exp": 1600,
+        "rewards": [
+          "1,600 experience",
+          "Old Gold Watch x 1"
+        ],
+        "procedures": [
+          "Hunt for 60 Pig's Ribbon from Ribbon Pig.",
+          "Hunt for 30 Evil Eye's Tail from Evil Eye.",
+          "Return to Chief Stan after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Pig's Ribbon",
+            "qty": "60"
+          },
+          {
+            "name": "Evil Eye's Tail",
+            "qty": "30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "20",
+    "name": "DANGER! <2-H. Mushroom>",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/danger-2-h-mushroom",
+    "chain": [
+      {
+        "name": "DANGER! <2-H. Mushroom> (Part 1)",
+        "npc": "Wanted: H. Mushroom",
+        "npcLocation": "Dungeon: Ant Tunnel III",
+        "exp": 3000,
+        "rewards": [
+          "3,000 experience",
+          "White Potion x 100"
+        ],
+        "procedures": [
+          "Search for the Wanted: H. Mushroom  signboard in Dungeon: Ant Tunnel III.",
+          "Kill 99 Horny Mushroom.",
+          "Go to Sleepywood and talk to The Rememberer  once you have completed Part I."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "DANGER! <2-H. Mushroom> (Part II)                      repeatable",
+        "npc": "Wanted: H. Mushroom",
+        "npcLocation": "Dungeon: Ant Tunnel III",
+        "exp": 1100,
+        "rewards": [
+          "1,100 experience",
+          "Orange Potion x 50"
+        ],
+        "procedures": [
+          "Search for the Wanted: H. Mushroom signboard in Dungeon: Ant Tunnel III again.",
+          "Kill 999 Horny Mushroom.",
+          "Return to Sleepywood and talk to The Rememberer once you have completed the task for Part II."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "20",
+    "name": "A Banquet for the Whalians",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/a-banquet-for-the-whalians",
+    "chain": [
+      {
+        "name": "Porchay's Letter",
+        "npc": "Porchay",
+        "npcLocation": "The Nautilus: Generator Room",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience"
+        ],
+        "procedures": [
+          "Talk to Porchay in The Nautilus: Generator Room and you will obtain 1 Porchay's Letter.",
+          "Head over to Aquarium: Zoo and talk to Kenta."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Porchay's Letter",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "A Banquet for the Whalians",
+        "npc": "Kenta",
+        "npcLocation": "Aquarium: Zoo",
+        "exp": 3500,
+        "rewards": [
+          "3,500 experience"
+        ],
+        "procedures": [
+          "Talk to Kenta once again and you will obtain 1 Whalean Canned Food.",
+          "Go to The Nautilus: Generator Room and give the item to Porchay."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Whalean Canned Food",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Ingredients to Get for the Banquet",
+        "npc": "Kenta",
+        "npcLocation": "Aquarium: Zoo",
+        "exp": 3000,
+        "rewards": [
+          "3,000 experience"
+        ],
+        "procedures": [
+          "Talk to Kenta in Aquarium: Zoo.",
+          "Hunt for 40 Sea Horse Tail from Seacle.",
+          "Return to him once you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Sea Horse Tail",
+            "qty": "40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "20",
+    "name": "Pia and the Blue Mushroom",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/pia-and-the-blue-mushroom",
+    "chain": [
+      {
+        "name": "Pia and the Blue Mushroom",
+        "npc": "Pia",
+        "npcLocation": "Victoria Road: Henesys Park",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience",
+          "Scroll for Helmet for DEF 100% x 1",
+          "Scroll for Helmet for DEF 60% x 1",
+          "Scroll for Helmet for DEF 10% x 1"
+        ],
+        "procedures": [
+          "Talk to Pia in the Victoria Road: Henesys Park.",
+          "Hunt for 60 Blue Mushroom Cap from Blue Mushroom.",
+          "Hunt for 60 Green Mushroom Cap from Green Mushroom.",
+          "Return to Pia and hand over the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Blue Mushroom Cap",
+            "qty": "60"
+          },
+          {
+            "name": "Green Mushroom Cap",
+            "qty": "60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "20",
+    "name": "Mrs. Ming Ming's First Worry",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/mrs-ming-mings-first-worry",
+    "chain": [
+      {
+        "name": "Mrs. Ming Ming's First Worry",
+        "npc": "Mrs. Ming Ming",
+        "npcLocation": "Henesys",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience"
+        ],
+        "procedures": [
+          "Talk to Mrs. Ming Ming in Henesys.",
+          "Collect 100 Pig's Ribbon from Ribbon Pig.",
+          "Collect 50 Bubbling's Large Bubble from Bubbling.",
+          "Collect 20 Slime's Bubble from Slime.",
+          "Once you have collected all the items needed, go back to Mrs. Ming Ming and give her the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Pig's Ribbon",
+            "qty": "100"
+          },
+          {
+            "name": "Bubbling's Large Bubble",
+            "qty": "50"
+          },
+          {
+            "name": "Slime's Bubble",
+            "qty": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "20",
+    "name": "Planting Trees",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/planting-trees",
+    "chain": [
+      {
+        "name": "Planting Trees",
+        "npc": "Winston",
+        "npcLocation": "Victoria Road: East Rocky Mountain II",
+        "exp": 5000,
+        "rewards": [
+          "5,000 experience",
+          "Red Potion x 30"
+        ],
+        "procedures": [
+          "Talk to Winston at Victoria Road: East Rocky Mountain II.",
+          "Collect 54 Seedling from Ghost Stump.",
+          "Go back to Winston and give him the collected item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Seedling",
+            "qty": "54"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "20",
+    "name": "Shumi's Lost Coin",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/shumis-lost-coin",
+    "chain": [
+      {
+        "name": "Shumi's Lost Coin",
+        "npc": "Shumi",
+        "npcLocation": "Kerning City",
+        "exp": 2200,
+        "rewards": [
+          "2,200 experience",
+          "1 Fame",
+          "Return Scroll - Nearest Town x 30",
+          "Return Scroll to Ellinia x 30",
+          "Return Scroll to Henesys x 30",
+          "Return Scroll to Kerning City x 30",
+          "Return Scroll to Lith Harbor x 30",
+          "Return Scroll to Perion x 30",
+          "Return Scroll to Sleepywood x 30",
+          "Random Reward(s) (if quest is repeated):\n\nAdamantium Ore\nBronze Ore\nMithril Ore\nOrihalcon Ore\nSilver Ore\nSteel Ore",
+          "Adamantium Ore",
+          "Bronze Ore",
+          "Mithril Ore",
+          "Orihalcon Ore",
+          "Silver Ore",
+          "Steel Ore"
+        ],
+        "procedures": [
+          "Talk to Shumi outside the Subway Station in Kerning City.",
+          "Enter into the Victoria Road: Subway Ticketing Booth.",
+          "Buy 1 Ticket to Construction Site B1 from Jake.",
+          "Double click on The Ticket Gate to enter Construction Site B1.",
+          "Climb steps 1 and 2 of Construction Site B1 and double click on the chest at the top.",
+          "Talk to Shumi and return Shumi's Coin to her."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Shumi's Coin",
+            "qty": "1"
+          },
+          {
+            "name": "Ticket to Construction Site B1",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victoria Island",
+    "level": "20",
+    "name": "Legend of the Snail",
+    "url": "https://bbb.hidden-street.net/quest/victoria-island/legend-of-the-snail",
+    "chain": [
+      {
+        "name": "Hero of the Story",
+        "npc": "Mrs. Ming Ming",
+        "npcLocation": "Henesys",
+        "exp": 5,
+        "rewards": [
+          "5 experience"
+        ],
+        "procedures": [
+          "Talk to Mrs. Ming Ming in Henesys.",
+          "Head over to Ellinia and talk to Wing the Fairy."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "The Old Snail",
+        "npc": "Pia",
+        "npcLocation": "Victoria Road: Henesys Park",
+        "exp": 5,
+        "rewards": [
+          "5 experience"
+        ],
+        "procedures": [
+          "Talk to Pia in Henesys and you will obtain 1 The Snail Legend.",
+          "Next, look for Jay and talk to him to give the obtained item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "The Snail Legend",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "A Rainbow Snail Shell That Makes Wishes Come True!?",
+        "npc": "Pia",
+        "npcLocation": "Victoria Road: Henesys Park",
+        "exp": 7500,
+        "rewards": [
+          "30,000 mesos",
+          "7,500 experience",
+          "3 Fame"
+        ],
+        "procedures": [
+          "Talk to Pia in Henesys.",
+          "Hunt for 1 Rainbow Colored Snail Shell from Mano.",
+          "Return to Pia after you have obtained the item."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Rainbow Colored Snail Shell",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Snail Hunt",
+        "npc": "Wing the Fairy",
+        "npcLocation": "Ellinia",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Wing the Fairy in Ellinia.",
+          "Hunt for 10 Blue Snail Shell.",
+          "Hunt for 10 Red Snail Shell.",
+          "Hunt for 10 Snail Shell.",
+          "Return to him after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Blue Snail Shell",
+            "qty": "10"
+          },
+          {
+            "name": "Red Snail Shell",
+            "qty": "10"
+          },
+          {
+            "name": "Snail Shell",
+            "qty": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Masteria",
+    "level": "15",
+    "name": "Welcome to New Leaf City Quiz",
+    "url": "https://bbb.hidden-street.net/quest/masteria/welcome-to-new-leaf-city-quiz",
+    "chain": [
+      {
+        "name": "Welcome to New Leaf City Quiz 3",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Welcome to New Leaf City Quiz 1",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Welcome to New Leaf City Quiz 12",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience",
+          "Elixir x 5"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Welcome to New Leaf City Quiz 9",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Welcome to New Leaf City Quiz 11",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Welcome to New Leaf City Quiz - END",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience",
+          "2 Fame"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Welcome to New Leaf City Quiz 8",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Welcome to New Leaf City Quiz 5",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Welcome to New Leaf City Quiz 6",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Welcome to New Leaf City Quiz 2",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Welcome to New Leaf City Quiz 7",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Welcome to New Leaf City Quiz 4",
+        "npc": "Icebyrd Slimm",
+        "npcLocation": "New Leaf City Town Street: New Leaf City - Town Center",
+        "exp": 333,
+        "rewards": [
+          "333 experience"
+        ],
+        "procedures": [
+          "Talk to Icebyrd Slimm at New Leaf City Town Street: New Leaf City - Town Center.",
+          "Solve the question given by him. If you answer the question incorrectly, you will have to start from the top of this quest again."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "Singapore",
+    "level": "15",
+    "name": "Clear the Rubbish",
+    "url": "https://bbb.hidden-street.net/quest/singapore/clear-the-rubbish",
+    "chain": [
+      {
+        "name": "Clear the Rubbish",
+        "npc": "Sureen",
+        "npcLocation": "Singapore: Changi Airport",
+        "exp": 450,
+        "rewards": [
+          "450 experience"
+        ],
+        "procedures": [
+          "Talk to Sureen in Singapore: Changi Airport.",
+          "Hunt for 20 Waste Paper.",
+          "Hunt for 20 Recycle Water Bottle.",
+          "Return to Sureen once you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Waste Paper",
+            "qty": "20"
+          },
+          {
+            "name": "Recycle Water Bottle",
+            "qty": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "15",
+    "name": "Attracting Tourists to the Golden Temple",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/attracting-tourists-to-the-golden-temple",
+    "chain": [
+      {
+        "name": "Attracting Tourists to the Golden Temple",
+        "npc": "Cassandra",
+        "npcLocation": "The Burning Road: Ariant",
+        "exp": 0,
+        "rewards": [
+          "Golden Ticket x 1"
+        ],
+        "procedures": [
+          "Talk to Cassandra.",
+          "Talk to Dimensional Mirror and enter in the Golden Temple.",
+          "Talk to Mr. Yoo."
+        ],
+        "itemsNeeded": []
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "15",
+    "name": "Recycled Golden Ticket",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/recycled-golden-ticket",
+    "chain": [
+      {
+        "name": "Recycled Golden Ticket",
+        "npc": "Mr. Yoo",
+        "npcLocation": "Golden Temple : Golden Temple",
+        "exp": 0,
+        "rewards": [
+          "Golden Ticket x 1",
+          "This quest can only be done once a day."
+        ],
+        "procedures": [
+          "Talk to Mr. Yoo.",
+          "Hunt any monster and collect 10 Golden Ticket Piece.",
+          "Return to Mr. Yoo and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Golden Ticket Piece",
+            "qty": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "15",
+    "name": "Tourist Site: A Wild Monkey Mess",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/tourist-site-a-wild-monkey-mess",
+    "chain": [
+      {
+        "name": "Tourist Site: A Wild Monkey Mess",
+        "npc": "Mr. Yoo",
+        "npcLocation": "Golden Temple : Golden Temple",
+        "exp": 1450,
+        "rewards": [
+          "1,450 experience",
+          "This quest is repeatable every 60 minutes."
+        ],
+        "procedures": [
+          "Talk to Mr. Yoo.",
+          "Talk to Dao and enter in Mini Dungeon : Monkey Temple 1. You must have a Golden Ticket or Premium Golden Ticket with you to enter.",
+          "Hunt 100 Wild Monkey and collect 50 Banana Peel.",
+          "Return to Mr. Yoo and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Banana Peel",
+            "qty": "50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "20",
+    "name": "Kino Konoko's Concern",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/kino-konokos-concern",
+    "chain": [
+      {
+        "name": "Kino Konoko's Concern",
+        "npc": "Kino Konoko",
+        "npcLocation": "Zipangu: Mushroom Shrine",
+        "exp": 1700,
+        "rewards": [
+          "1,700 experience"
+        ],
+        "procedures": [
+          "Talk to Kino Konoko in Zipangu: Mushroom Shrine.",
+          "Hunt for 100 Crow Feather.",
+          "Return to her after you have completed the task."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Crow Feather",
+            "qty": "100"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "20",
+    "name": "Red Dahlia - Thief Only",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/red-dahlia-thief-only",
+    "chain": [
+      {
+        "name": "Red Dahlia - Thief Only",
+        "npc": "Ben",
+        "npcLocation": "Amoria",
+        "exp": 3500,
+        "rewards": [
+          "3,500 experience",
+          "Scroll for Shoes for Speed 60% x 1"
+        ],
+        "procedures": [
+          "Talk to Ben in Amoria.",
+          "Hunt for 3 Diamond Ore.",
+          "Hunt for 30 Stiff Feather.",
+          "Return to Ben after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Stiff Feather",
+            "qty": "30"
+          },
+          {
+            "name": "Diamond Ore",
+            "qty": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "20",
+    "name": "Red Dahlia - Bowman Only",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/red-dahlia-bowman-only",
+    "chain": [
+      {
+        "name": "Red Dahlia - Bowman Only",
+        "npc": "Ben",
+        "npcLocation": "Amoria",
+        "exp": 3500,
+        "rewards": [
+          "3,500 experience",
+          "Scroll for Gloves for DEX 60% x 1"
+        ],
+        "procedures": [
+          "Talk to Ben in Amoria.",
+          "Hunt for 3 Diamond Ore.",
+          "Hunt for 30 Stiff Feather.",
+          "Return to Ben after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Stiff Feather",
+            "qty": "30"
+          },
+          {
+            "name": "Diamond Ore",
+            "qty": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "20",
+    "name": "Red Dahlia - Magician Only",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/red-dahlia-magician-only",
+    "chain": [
+      {
+        "name": "Red Dahlia - Magician Only",
+        "npc": "Ben",
+        "npcLocation": "Amoria",
+        "exp": 3500,
+        "rewards": [
+          "3,500 experience",
+          "Scroll for Shield for DEF 60% x 1"
+        ],
+        "procedures": [
+          "Talk to Ben in Amoria.",
+          "Hunt for 3 Diamond Ore.",
+          "Hunt for 30 Stiff Feather.",
+          "Return to Ben after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Stiff Feather",
+            "qty": "30"
+          },
+          {
+            "name": "Diamond Ore",
+            "qty": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "20",
+    "name": "Red Dahlia - Warrior Only",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/red-dahlia-warrior-only",
+    "chain": [
+      {
+        "name": "Red Dahlia - Warrior Only",
+        "npc": "Ben",
+        "npcLocation": "Amoria",
+        "exp": 3500,
+        "rewards": [
+          "3,500 experience",
+          "Scroll for One-Handed Sword for ATT 60% x 1"
+        ],
+        "procedures": [
+          "Talk to Ben in Amoria.",
+          "Hunt for 3 Diamond Ore.",
+          "Hunt for 30 Stiff Feather.",
+          "Return to Ben after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Stiff Feather",
+            "qty": "30"
+          },
+          {
+            "name": "Diamond Ore",
+            "qty": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "World Tour",
+    "level": "20",
+    "name": "Red Dahlia - Pirate Only",
+    "url": "https://bbb.hidden-street.net/quest/world-tour/red-dahlia-pirate-only",
+    "chain": [
+      {
+        "name": "Red Dahlia - Pirate Only",
+        "npc": "Ben",
+        "npcLocation": "Amoria",
+        "exp": 3500,
+        "rewards": [
+          "3,500 experience",
+          "Scroll for Knuckler for ATT 60% x 1",
+          "Scroll for Gun for Attack 60% x 1"
+        ],
+        "procedures": [
+          "Talk to Ben in Amoria.",
+          "Hunt for 3 Diamond Ore.",
+          "Hunt for 30 Stiff Feather.",
+          "Return to Ben after you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Stiff Feather",
+            "qty": "30"
+          },
+          {
+            "name": "Diamond Ore",
+            "qty": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "El Nath Mt. & Aquaroad",
+    "level": "20",
+    "name": "Nero's Necklace",
+    "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/neros-necklace",
+    "chain": [
+      {
+        "name": "Nero's Necklace",
+        "npc": "Ericsson",
+        "npcLocation": "Orbis: Orbis Park",
+        "exp": 4000,
+        "rewards": [
+          "4,000 experience"
+        ],
+        "procedures": [
+          "Find Ericsson in Orbis: Orbis Park and talk to him.",
+          "Buy 1 Golden Bell and 1 Red Ribbon from the Cash Shop.",
+          "Go back to Ericsson once you have obtained the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Golden Bell",
+            "qty": "1"
+          },
+          {
+            "name": "Red Ribbon",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  }
+]
