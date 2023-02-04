@@ -586,7 +586,41 @@
     "level": "70",
     "name": "Keeny's Research on Frankenroid",
     "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/keenys-research-on-frankenroid",
-    "chain": []
+    "chain": [
+      {
+        "name": "Studying Frankenroid 1",
+        "npc": "Keeny",
+        "exp": 100,
+        "rewards": [
+          "100 experience",
+          "Cannot obtain this quest after level 85."
+        ],
+        "procedures": [
+          "Talk to Keeny in Sunset Road: Magatia.",
+          "Ensure that you have completed Magatia PQ, killed Angry Frankenroid, saved Romeo or Juliet, and have chosen to help Yulete - if you have not already done so, you will have to do it.",
+          "Talk to Yulete at Hidden Street: Yulete's Lab, located in the sewer in Sunset Road: Magatia."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Studying Frankenroid 2",
+        "npc": "Yulete",
+        "exp": 0,
+        "rewards": [
+          "Scroll for Overall Armor for DEX 10% x 1"
+        ],
+        "procedures": [
+          "Talk to Yulete and obtain Frankenroid's Blueprint from him.",
+          "Return to Keeny in Sunset Road: Magatia and talk to her."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Frankenroid's Blueprint",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "Mu Lung & Nihal Desert",
@@ -923,14 +957,58 @@
     "level": "70",
     "name": "Alcadno and the Ostracized Research",
     "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/alcadno-and-the-ostracized-research",
-    "chain": []
+    "chain": [
+      {
+        "name": "Alcadno and the Ostracized Research",
+        "npc": "Russellon",
+        "exp": 40000,
+        "rewards": [
+          "50,000 mesos",
+          "40,000 experience",
+          "This quest may not be initiated if you are over level 85 or if Zenumist and the Ostracized Research has been started."
+        ],
+        "procedures": [
+          "Talk to Russellon at Alcadno Research Institute: Lab - Center Gate.",
+          "Participate in the Magatia Party Quest. Obtain 1 Yulete's Lab Report from the Neo Huroid that are on the protector's platform at the stage where you fight Frankenroid.",
+          "Return to Russellon and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Yulete's Lab Report",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "Mu Lung & Nihal Desert",
     "level": "70",
     "name": "Zenumist and the Ostracized Research",
     "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/zenumist-and-the-ostracized-research",
-    "chain": []
+    "chain": [
+      {
+        "name": "Zenumist and the Ostracized Research",
+        "npc": "Bedin",
+        "exp": 40000,
+        "rewards": [
+          "50,000 mesos",
+          "40,000 experience",
+          "This quest may not be initialized if you are over level 85 or if Alcadno and the Ostracized Research has been started."
+        ],
+        "procedures": [
+          "Talk to Bedin at Zenumist Research Institute: Lab - 1st Floor Hallway.",
+          "Participate in the Magatia Party Quest. Obtain 1 Yulete's Lab Report from the Neo Huroid that are on the protector's platform at the stage where you fight Frankenroid.",
+          "Return to Bedin and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Yulete's Lab Report",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "Mu Lung & Nihal Desert",
@@ -1044,7 +1122,159 @@
     "level": "75",
     "name": "Dr. De Lang's Notes",
     "url": "https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/dr-de-langs-notes",
-    "chain": []
+    "chain": [
+      {
+        "name": "Dr. De Lang's Underground Study",
+        "npc": "Phyllia",
+        "exp": 6000,
+        "rewards": [
+          "6,000 experience"
+        ],
+        "procedures": [
+          "Talk to Phyllia in Sunset Road: Magatia.",
+          "Go to Magatia: Home of the Missing Alchemist, and turn the pipes in the following order: top, bottom, middle.",
+          "Enter the password my love Phyllia.",
+          "Click on Dr. De Lang's Secret Book."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "The Key to the Secret Book",
+        "npc": "Phyllia",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Phyllia in Sunset Road: Magatia.",
+          "Obtain the Silver Pendant again from her, and return to Dr. De Lang's Secret Book.",
+          "Click on the book."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Silver Pendant",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Dr. De Lang's Secret Notes",
+        "npc": "Eurek the Alchemist",
+        "exp": 5000,
+        "rewards": [
+          "5,000 experience"
+        ],
+        "procedures": [
+          "Obtain Dran's Note from Dr. De Lang's Secret Book.",
+          "Talk to Eurek the Alchemist."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Dran's Note",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "The Truth About Dr. De Lang",
+        "npc": "Eurek the Alchemist",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Eurek the Alchemist.",
+          "Talk to Alcaster in El Nath: El Nath Market."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Dran's Note",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "The Hidden Words",
+        "npc": "Alcaster",
+        "exp": 100,
+        "rewards": [
+          "100 experience"
+        ],
+        "procedures": [
+          "Talk to Alcaster in El Nath: El Nath Market.",
+          "Fight Homunscullo in Zenumist Research Institute: Lab - Unit 202 to obtain 1 Homunsculer's Blood.",
+          "Return to Alcaster and talk to him."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Homunsculer's Blood",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "The Secrets of Magatia",
+        "npc": "Alcaster",
+        "exp": 50000,
+        "rewards": [
+          "50,000 experience"
+        ],
+        "procedures": [
+          "Talk to Alcaster in El Nath: El Nath Market.",
+          "Read Dran's Note.",
+          "Talk to Alcaster again."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Dran's Note",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "The Black Magician's Magic Pentagram",
+        "npc": "Alcaster",
+        "exp": 2200,
+        "rewards": [
+          "2,200 experience"
+        ],
+        "procedures": [
+          "Talk to Alcaster in El Nath: El Nath Market.",
+          "Obtain 1 Magic Stone of Humility from Alcaster.",
+          "Hunt for 1 Magic Stone of Trust from D. Roy.",
+          "Hunt for 1 Magic Stone of Honesty from Homunscullo.",
+          "Go to Hidden Street: Black Magician's Lab and click on the pentagram in the following order: top, left, right, center.",
+          "Return to Alcaster and talk to him again."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Magic Stone of Humility",
+            "qty": "1"
+          },
+          {
+            "name": "Magic Stone of Trust",
+            "qty": "1"
+          },
+          {
+            "name": "Magic Stone of Honesty",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "The Brutal Truth",
+        "npc": "Alcaster",
+        "exp": 7500,
+        "rewards": [
+          "7,500 experience",
+          "Dran's Note x 1"
+        ],
+        "procedures": [
+          "Talk to Alcaster in El Nath: El Nath Market repeatedly."
+        ],
+        "itemsNeeded": []
+      }
+    ]
   },
   {
     "location": "Mu Lung & Nihal Desert",
@@ -1538,7 +1768,47 @@
     "level": "85",
     "name": "Eliminating Blue Mushmom",
     "url": "https://bbb.hidden-street.net/quest/victoria-island/eliminating-blue-mushmom",
-    "chain": []
+    "chain": [
+      {
+        "name": "Eliminating Blue Mushmom",
+        "npc": "Hikari",
+        "exp": 19800,
+        "rewards": [
+          "19,800 experience",
+          "Scroll for One-Handed Sword for ATT 60% x 1",
+          "Scroll for One-Handed Axe for ATT 60% x 1",
+          "Scroll for One-Handed BW for ATT 60% x 1",
+          "Scroll for Dagger for ATT 60% x 1",
+          "Scroll for Wand for Magic Attack 60% x 1",
+          "Scroll for Staff for Magic Attack 60% x 1",
+          "Scroll for Two-Handed Sword for ATT 60% x 1",
+          "Scroll for Two-Handed Axe for ATT 60% x 1",
+          "Scroll for Two-Handed BW for ATT 60% x 1",
+          "Scroll for Spear for ATT 60% x 1",
+          "Scroll for Pole Arm for ATT 60% x 1",
+          "Scroll for Bow for ATT 60% x 1",
+          "Scroll for Crossbow for ATT 60% x 1",
+          "Scroll for Claw for ATT 60% x 1",
+          "Scroll for Earring for INT 60% x 1",
+          "Scroll for Cape for STR 60% x 1",
+          "Scroll for Cape for INT 60% x 1",
+          "Scroll for Cape for DEX 60% x 1",
+          "Scroll for Cape for LUK 60% x 1",
+          "Scroll for Gloves for ATT 60% x 1",
+          "Scroll for Knuckler for ATT 60% x 1",
+          "Scroll for Gun for Attack 60% x 1",
+          "Power Elixir x 20",
+          "Elixir x 40",
+          "Sword Earrings x 1"
+        ],
+        "procedures": [
+          "Talk to Hikari.",
+          "Eliminate 1 Blue Mushmom.",
+          "Return to Hikari once you have completed the task."
+        ],
+        "itemsNeeded": []
+      }
+    ]
   },
   {
     "location": "Victoria Island",
@@ -1976,7 +2246,27 @@
     "level": "75",
     "name": "Arec's Lost Dagger",
     "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/arecs-lost-dagger",
-    "chain": []
+    "chain": [
+      {
+        "name": "Arec's Lost Dagger",
+        "npc": "Arec",
+        "exp": 180000,
+        "rewards": [
+          "180,000 experience"
+        ],
+        "procedures": [
+          "Talk to Rene at El Nath: Chief's Residence.",
+          "Hunt for 1 Old Dagger from Combat Hoblin.",
+          "Return to El Nath: Chief's Residence and talk to Rene."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Old Dagger",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "El Nath Mt. & Aquaroad",
@@ -2045,21 +2335,193 @@
     "level": "83",
     "name": "Goddess' Pet",
     "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/goddess-pet",
-    "chain": []
+    "chain": [
+      {
+        "name": "Eliza's Rage",
+        "npc": "Spiruna",
+        "exp": 800,
+        "rewards": [
+          "800 experience"
+        ],
+        "procedures": [
+          "Talk to Spiruna in Old Man's House located at Orbis: Cloud Park IV.",
+          "Kill 50 Star Pixie.",
+          "Kill 100 Lunar Pixie.",
+          "Kill 150 Luster Pixie.",
+          "Return to Spiruna after you have completed the given tasks."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Eliza's Garden",
+        "npc": "Spiruna",
+        "exp": 800,
+        "rewards": [
+          "800 experience"
+        ],
+        "procedures": [
+          "Talk to Spiruna again.",
+          "Head over to Orbis: Stairway to the Sky II and press up on a hidden portal, as shown in the image below to access Hidden Street: Eliza's Garden.",
+          "Talk to Eliza."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Talk with Eliza",
+        "npc": "Eliza",
+        "exp": 384000,
+        "rewards": [
+          "384,000 experience"
+        ],
+        "procedures": [
+          "Talk to Eliza once again.",
+          "Eliminate 1 Elliza.",
+          "Return to Eliza once you have completed the given task."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Eliza’s Eternal Sleep",
+        "npc": "Eliza",
+        "exp": 0,
+        "rewards": [
+          "20 Fame"
+        ],
+        "procedures": [
+          "Talk to Eliza and you will obtain 1 Song : Twinkle Twinkle Little Star.",
+          "In the same map, head over to the left of the map and hit the music note according to what it is written in Song : Twinkle Twinkle Little Star, as shown in the image below.",
+          "Return and talk to Eliza once you have completed the given task."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Song : Twinkle Twinkle Little Star",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "El Nath Mt. & Aquaroad",
     "level": "90",
     "name": "Snowfield Giant",
     "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/snowfield-giant",
-    "chain": []
+    "chain": [
+      {
+        "name": "Huge Creature of the Snowfield",
+        "npc": "Jade",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience"
+        ],
+        "procedures": [
+          "Talk to Jade in El Nath.",
+          "Look for Scadur who is also in El Nath and talk to him."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Snowfield Legend",
+        "npc": "Scadur",
+        "exp": 1000,
+        "rewards": [
+          "1,000 experience"
+        ],
+        "procedures": [
+          "Talk to Scadur in El Nath.",
+          "Return and talk to Jade again."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Snowman's Rage",
+        "npc": "Scadur",
+        "exp": 200,
+        "rewards": [
+          "200 experience"
+        ],
+        "procedures": [
+          "Head over to El Nath: Ice Valley I and press up on the hidden portal as shown in the image below to access Hidden Street: Valley of Snowman.",
+          "Climb up the rope to access Snow Soul's Resting Place.",
+          "Talk to Spirit of the Snow Sculpture.",
+          "Head back to El Nath and talk to Scadur."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Holding Back the Snowman",
+        "npc": "Scadur",
+        "exp": 539700,
+        "rewards": [
+          "539,700 experience"
+        ],
+        "procedures": [
+          "Talk to Scadur in El Nath.",
+          "Eliminate 1 Snowman.",
+          "Return to Scadur after you have completed the task."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Restoring the Spirit of the Snow Sculpture",
+        "npc": "Alcaster",
+        "exp": 0,
+        "rewards": [
+          "20 Fame"
+        ],
+        "procedures": [
+          "Talk to Alcaster in El Nath and you will obtain 1 Ice Crystal.",
+          "Return to Snow Soul's Resting Place, where Spirit of the Snow Sculpture is located.",
+          "Talk to Spirit of the Snow Sculpture."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Ice Crystal",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "El Nath Mt. & Aquaroad",
     "level": "90",
     "name": "The Blocked Path of the Ocean",
     "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/the-blocked-path-of-the-ocean",
-    "chain": []
+    "chain": [
+      {
+        "name": "The Blocked Path of the Ocean",
+        "npc": "Taeng the Explorer",
+        "exp": 70000,
+        "rewards": [
+          "70,000 experience",
+          "Scroll for Cape for Weapon Def 60% x 1",
+          "Scroll for Cape for Weapon Def 10% x 1",
+          "Scroll for Cape for Magic Def 60% x 1",
+          "Scroll for Cape for Magic Def 10% x 1"
+        ],
+        "procedures": [
+          "Head over to Aqua Road: The Grave of a Wrecked Ship and press up at the hole of the ship as depicted in the image below to enter into Aqua Road: A Small Wrecked Ship.",
+          "Talk to Taeng the Explorer.",
+          "Hunt for 1 Broken Camera, 1 Broken Flashlight and 1 Ripped Note from Shark or Cold Shark.",
+          "Return to Taeng the Explorer once you have collected the items."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Broken Camera",
+            "qty": "1"
+          },
+          {
+            "name": "Broken Flashlight",
+            "qty": "1"
+          },
+          {
+            "name": "Ripped Note",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "El Nath Mt. & Aquaroad",
@@ -2131,7 +2593,33 @@
     "level": "95",
     "name": "Nanuke's Ingredients",
     "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/nanukes-ingredients",
-    "chain": []
+    "chain": [
+      {
+        "name": "Nanuke's Ingredients",
+        "npc": "Nanuke",
+        "exp": 80000,
+        "rewards": [
+          "80,000 experience"
+        ],
+        "procedures": [
+          "Head over to Aqua Road: Snowy Whale's Island and talk to Nanuke.",
+          "Hunt for 80 Frozen Shark's Fin from Cold Shark.",
+          "Hunt for 150 Ink Bottle from Squid.",
+          "Go to Aquarium: Zoo and talk to Muse to complete the quest.",
+          "You will initiate the next quest, Muse is Cooking."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Frozen Shark's Fin",
+            "qty": "80"
+          },
+          {
+            "name": "Ink Bottle",
+            "qty": "150"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "El Nath Mt. & Aquaroad",
@@ -2166,14 +2654,62 @@
     "level": "105",
     "name": "Destroying the Power of Evil",
     "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/destroying-the-power-of-evil",
-    "chain": []
+    "chain": [
+      {
+        "name": "Destroying the Power of Evil",
+        "npc": "Suspicious Lava",
+        "exp": 126000,
+        "rewards": [
+          "126,000 experience"
+        ],
+        "procedures": [
+          "Head to Hidden Street: Cave Within the Cave and search for the Suspicious Lava.",
+          "Click on it."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Dark Tachion",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "El Nath Mt. & Aquaroad",
     "level": "120",
     "name": "Silver Mane",
     "url": "https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/silver-mane",
-    "chain": []
+    "chain": [
+      {
+        "name": "Silver Mane",
+        "npc": "Kenta",
+        "exp": 0,
+        "rewards": [
+          "Silver Mane x 1",
+          "Only available after obtaining a Hog"
+        ],
+        "procedures": [
+          "Talk to Kenta to start the quest.",
+          "Collect all of the required items.",
+          "Return to Kenta with all of the items"
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Wooden Shoulder Pad",
+            "qty": "400"
+          },
+          {
+            "name": "Skull Shoulder Pad",
+            "qty": "400"
+          },
+          {
+            "name": "Rexton Leather",
+            "qty": "600"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "Leafre",
@@ -2399,7 +2935,93 @@
     "level": "73",
     "name": "Year 2099 - The Harbor",
     "url": "https://bbb.hidden-street.net/quest/leafre/year-2099-the-harbor",
-    "chain": []
+    "chain": [
+      {
+        "name": "Nex the Time Guard [2]             (Level 73 and above)",
+        "npc": "Andy",
+        "exp": 90000,
+        "rewards": [
+          "90,000 experience"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Kill 1 Gatekeeper Nex at Tera Forest: Old Tree in Tera Forest.",
+          "Then return and talk to Andy."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "The Hidden Truth about the Past             (Level 73 and above)",
+        "npc": "Andy",
+        "exp": 120000,
+        "rewards": [
+          "120,000 experience"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Travel to the year 2099 and head to Neo City: <Year 2009> Midnight Harbor Pier and defeat Bergamot.",
+          "Then return and talk to Andy."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Policeman in Danger             (Level 73 and above)",
+        "npc": "Policeman",
+        "exp": 72000,
+        "rewards": [
+          "72,000 experience"
+        ],
+        "procedures": [
+          "Talk to Policeman at Neo City: <Year 2099> Midnight Harbor Entrance.",
+          "Defeat 50 Overlord A and 40 Overlord B.",
+          "Return and talk to Policeman."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "The Shelter Key             (Level 74 and above)",
+        "npc": "Policeman",
+        "exp": 60000,
+        "rewards": [
+          "60,000 experience"
+        ],
+        "procedures": [
+          "Talk to Policeman at Neo City: <Year 2099> Midnight Harbor Entrance.",
+          "Hunt for 1 Shelter Key from the surrounding monsters.",
+          "Then deliver the item to Captain Edmond at Neo City: <Year 2099> Midnight Harbor Warehouse."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Shelter Key",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Temporary Relief             (Level 75 and above)",
+        "npc": "Captain Edmond",
+        "exp": 75000,
+        "rewards": [
+          "75,000 experience"
+        ],
+        "procedures": [
+          "Talk to Captain Edmond at Neo City: <Year 2099> Midnight Harbor Warehouse.",
+          "Hunt for 20 Overlord A Radar Device from Overlord A",
+          "Hunt for 40 Overlord B Radar Device from Overlord B",
+          "Talk to Captain Edmond at Neo City: <Year 2099> Midnight Harbor Warehouse."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Overlord A Radar Device",
+            "qty": "20"
+          },
+          {
+            "name": "Overlord B Radar Device",
+            "qty": "40"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "Leafre",
@@ -2444,7 +3066,96 @@
     "level": "77",
     "name": "Year 2215 - The Bombing",
     "url": "https://bbb.hidden-street.net/quest/leafre/year-2215-the-bombing",
-    "chain": []
+    "chain": [
+      {
+        "name": "Nex the Time Guard [3]             (Level 77 and above)",
+        "npc": "Andy",
+        "exp": 110000,
+        "rewards": [
+          "110,000 experience"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Kill 1 Gatekeeper Nex at Tera Forest: Old Tree in Tera Forest.",
+          "Then return and talk to Andy."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Identity of the Missile             (Level 77 and above)",
+        "npc": "Andy",
+        "exp": 140000,
+        "rewards": [
+          "140,000 experience"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Travel to the year 2215 and head to Neo City: <Year 2215> Bombed City Center Square and defeat Dunas.",
+          "Then return and talk to Andy."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Rambunctious Robots             (Level 77 and above)",
+        "npc": "May",
+        "exp": 90000,
+        "rewards": [
+          "90,000 experience"
+        ],
+        "procedures": [
+          "Talk to May at Neo City: <Year 2215> Bombed City Center Retail District.",
+          "Defeat 50 Robby.",
+          "Return and talk to May."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Survivor Search             (Level 78 and above)",
+        "npc": "May",
+        "exp": 30000,
+        "rewards": [
+          "30,000 experience"
+        ],
+        "procedures": [
+          "Talk to May at Neo City: <Year 2215> Bombed City Center Retail District.",
+          "Go to Neo City: <Year 2215> Bombed City Center Shopping District and talk to Bao."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "The Dangerous Android             (Level 79 and above)",
+        "npc": "Bao",
+        "exp": 30000,
+        "rewards": [
+          "30,000 experience"
+        ],
+        "procedures": [
+          "Talk to Bao at Neo City: <Year 2215> Bombed City Center Shopping District.",
+          "Kill 50 Iruvata.",
+          "Return and talk to Bao."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "The Wreckage of the Missile             (Level 80 and above)",
+        "npc": "Bao",
+        "exp": 60000,
+        "rewards": [
+          "60,000 experience"
+        ],
+        "procedures": [
+          "Talk to Bao at Neo City: <Year 2215> Bombed City Center Shopping District.",
+          "Go to Neo City: <Year 2215> Bombed City Center Square and kill Dunas to obtain 1 Dunas's Time Sand.",
+          "Then go to Tera Forest: Tera Forest Time Gate and talk to Andy."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Dunas's Time Sand",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "Leafre",
@@ -2483,7 +3194,38 @@
     "level": "80",
     "name": "The Missing Hero",
     "url": "https://bbb.hidden-street.net/quest/leafre/the-missing-hero",
-    "chain": []
+    "chain": [
+      {
+        "name": "Hero's Mark",
+        "npc": "Kumo",
+        "exp": 0,
+        "rewards": [],
+        "procedures": [
+          "Talk to Kumo in Leafre.",
+          "Go to Leafre: Wyvern Canyon and talk to Raul the Knight."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Dragon Squad's Mission",
+        "exp": 90000,
+        "rewards": [
+          "90,000 experience",
+          "The Breath of Nine Spirit x 1",
+          "Dragon Stone x 1"
+        ],
+        "procedures": [
+          "Obtain 1 Nine Spirit's Egg from Horntail.",
+          "Go to Leafre: Nine Spirit's Nest and drop the Nine Spirit's Egg. A Nine Spirit's Baby Dragon will hatch after that."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Nine Spirit's Egg",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "Leafre",
@@ -2615,7 +3357,83 @@
     "level": "81",
     "name": "Year 2216 - The Ruins",
     "url": "https://bbb.hidden-street.net/quest/leafre/year-2216-the-ruins",
-    "chain": []
+    "chain": [
+      {
+        "name": "Nex the Time Guard [4]             (Level 81 and above)",
+        "npc": "Andy",
+        "exp": 130000,
+        "rewards": [
+          "130,000 experience"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Kill 1 Gatekeeper Nex at Tera Forest: Old Tree in Tera Forest.",
+          "Then return and talk to Andy."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Central Robot Aufheben             (Level 81 and above)",
+        "npc": "Andy",
+        "exp": 170000,
+        "rewards": [
+          "170,000 experience"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Travel to the year 2216 and head to Neo City: <Year 2216> Ruined City Land Mark and defeat Aufheben.",
+          "Then return and talk to Andy."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Disturbing the Army of Robots             (Level 81 and above)",
+        "npc": "Ken",
+        "exp": 105000,
+        "rewards": [
+          "105,000 experience"
+        ],
+        "procedures": [
+          "Talk to Ken at Neo City: <Year 2216> Ruined City Intersection.",
+          "Defeat 50 Afterlord.",
+          "Defeat 40 Prototype Lord.",
+          "Return and talk to Ken."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Isabella's Search             (Level 82 and above)",
+        "npc": "Ken",
+        "exp": 50000,
+        "rewards": [
+          "50,000 experience"
+        ],
+        "procedures": [
+          "Talk to Ken at Neo City: <Year 2216> Ruined City Intersection.",
+          "Go to Neo City: <Year 2216> Ruined City Construction Site and talk to Isabella."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "What Was That I Saw?             (Level 82 and above)",
+        "npc": "Isabella",
+        "exp": 70000,
+        "rewards": [
+          "70,000 experience"
+        ],
+        "procedures": [
+          "Talk to Isabella at Neo City: <Year 2216> Ruined City Construction Site.",
+          "Head to Neo City: <Year 2216> Ruined City Land Mark and defeat Aufheben to obtain 1 Aufheben's Time Sand.",
+          "Then go to Tera Forest: Tera Forest Time Gate and talk to Andy."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Aufheben's Time Sand",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "Leafre",
@@ -2726,14 +3544,94 @@
     "level": "85",
     "name": "Year 2230 - Imminent Collapse!",
     "url": "https://bbb.hidden-street.net/quest/leafre/year-2230-imminent-collapse",
-    "chain": []
+    "chain": [
+      {
+        "name": "Nex the Time Guard [5]             (Level 85 and above)",
+        "npc": "Andy",
+        "exp": 140000,
+        "rewards": [
+          "140,000 experience"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Kill 1 Gatekeeper Nex at Tera Forest: Old Tree in Tera Forest.",
+          "Then return and talk to Andy."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "The New and Improved, Oberon             (Level 85 and above)",
+        "npc": "Andy",
+        "exp": 200000,
+        "rewards": [
+          "200,000 experience"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Travel to the year 2230 and head to Neo City: <Year 2230> Dangerous Tower Penthouse and defeat Oberon to obtain 1 Oberon's Time Sand.",
+          "Then return and talk to Andy."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Oberon's Time Sand",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "name": "Defeat the Mavericks             (Level 81 and above)",
+        "npc": "Hoya",
+        "exp": 90000,
+        "rewards": [
+          "90,000 experience"
+        ],
+        "procedures": [
+          "Talk to Hoya at Neo City: <Year 2230> Dangerous Tower Lobby.",
+          "Defeat 30 Maverick Type A.",
+          "Defeat 30 Maverick Type S.",
+          "Defeat 30 Maverick Type D.",
+          "Then go to Neo City: <Year 2230> Dangerous Tower Emergency Exit and talk to Nalo."
+        ],
+        "itemsNeeded": []
+      }
+    ]
   },
   {
     "location": "Leafre",
     "level": "90",
     "name": "Year 2503 - From the Sky",
     "url": "https://bbb.hidden-street.net/quest/leafre/year-2503-from-the-sky",
-    "chain": []
+    "chain": [
+      {
+        "name": "Nex the Time Guard [6]             (Level 90 and above)",
+        "npc": "Andy",
+        "exp": 150000,
+        "rewards": [
+          "150,000 experience"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Kill 1 Gatekeeper Nex at Tera Forest: Old Tree in Tera Forest.",
+          "Then return and talk to Andy."
+        ],
+        "itemsNeeded": []
+      },
+      {
+        "name": "Nibelung's Song             (Level 90 and above)",
+        "npc": "Andy",
+        "exp": 220000,
+        "rewards": [
+          "220,000 experience",
+          "Time Traveler's Circlet x 1"
+        ],
+        "procedures": [
+          "Talk to Andy at Tera Forest: Tera Forest Time Gate.",
+          "Travel to the year 2503 and head to Neo City: <Year 2503> Air Battleship Stern and defeat Nibelung.",
+          "Then go to Neo City: <Year 2503> Air Battleship Area B and talk to Ashura."
+        ],
+        "itemsNeeded": []
+      }
+    ]
   },
   {
     "location": "Leafre",
@@ -2872,14 +3770,48 @@
     "level": "70",
     "name": "Translated Communique",
     "url": "https://bbb.hidden-street.net/quest/masteria/translated-communique",
-    "chain": []
+    "chain": [
+      {
+        "name": "Translated Communique",
+        "npc": "Elpam Gorlab",
+        "exp": 0,
+        "rewards": [
+          "Translated Communique x 1",
+          "Note: This quest is only available if Translated Communique is not in your inventory."
+        ],
+        "procedures": [
+          "Talk to Elpam Gorlab in New Leaf City Town Street: New Leaf City - Town Center."
+        ],
+        "itemsNeeded": []
+      }
+    ]
   },
   {
     "location": "Masteria",
     "level": "70",
     "name": "The Brewing Storm",
     "url": "https://bbb.hidden-street.net/quest/masteria/the-brewing-storm",
-    "chain": []
+    "chain": [
+      {
+        "name": "The Brewing Storm",
+        "npc": "Lukan",
+        "exp": 85000,
+        "rewards": [
+          "85,000 experience"
+        ],
+        "procedures": [
+          "Talk to Lukan in Phantom Forest: Phantom Road.",
+          "Hunt for 10 Stormbreaker Badge.",
+          "Return to him after you have completed the task."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Stormbreaker Badge",
+            "qty": "10"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "Masteria",
@@ -2938,7 +3870,26 @@
     "level": "70",
     "name": "The Right Path",
     "url": "https://bbb.hidden-street.net/quest/masteria/the-right-path",
-    "chain": []
+    "chain": [
+      {
+        "name": "The Right Path",
+        "npc": "Taggrin",
+        "exp": 15000,
+        "rewards": [
+          "15,000 experience",
+          "Map of Phantom Forest x 1"
+        ],
+        "procedures": [
+          "After you have obtained 1 Map of Phantom Forest, head over to Phantom Forest: Dead Man's Gorge and talk to Taggrin."
+        ],
+        "itemsNeeded": [
+          {
+            "name": "Map of Phantom Forest",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
   },
   {
     "location": "Masteria",
@@ -3013,7 +3964,29 @@
     "level": "80",
     "name": "Urban Jungle",
     "url": "https://bbb.hidden-street.net/quest/masteria/urban-jungle",
-    "chain": []
+    "chain": [
+      {
+        "name": "Urban Jungle",
+        "npc": "Jack Masque",
+        "exp": 55000,
+        "rewards": [
+          "55,000 experience",
+          "5 Fame",
+          "Leaf Crystal x 5",
+          "Reward(s) (if quest is repeated):\n\n20,000 exp\n2 fame\n5 Leaf Crystal",
+          "20,000 exp",
+          "2 fame",
+          "5 Leaf Crystal",
+          "This quest is repeatable every 3 days."
+        ],
+        "procedures": [
+          "Talk to Jack Masque in New Leaf City Town Street: New Leaf City - Town Center.",
+          "Eliminate 100 Wolf Spider.",
+          "Return to Jack Masque after you have completed the task."
+        ],
+        "itemsNeeded": []
+      }
+    ]
   },
   {
     "location": "Ludus Lake",
@@ -3683,7 +4656,24 @@
     "level": "91",
     "name": "The One Who Walks Down Memory Lane 1",
     "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-memory-lane-1",
-    "chain": []
+    "chain": [
+      {
+        "name": "The One Who Walks Down Memory Lane 1",
+        "npc": "Temple Keeper",
+        "exp": 189700,
+        "rewards": [
+          "189,700 experience",
+          "Garnet x 1",
+          "Allows access to Memory Lane 2."
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Memory Monk.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": []
+      }
+    ]
   },
   {
     "location": "Temple of Time",
@@ -3854,7 +4844,24 @@
     "level": "109",
     "name": "The One Who Walks Down the Road of Regrets 2",
     "url": "https://bbb.hidden-street.net/quest/temple-of-time/the-one-who-walks-down-the-road-of-regrets-2",
-    "chain": []
+    "chain": [
+      {
+        "name": "The One Who Walks Down the Road of Regrets 2",
+        "npc": "Temple Keeper",
+        "exp": 495700,
+        "rewards": [
+          "495,700 experience",
+          "Topaz x 1",
+          "Allows access to Road of Regrets 3."
+        ],
+        "procedures": [
+          "Talk to Temple Keeper.",
+          "Kill 999 Qualm Monk Trainee.",
+          "Talk to Temple Keeper again."
+        ],
+        "itemsNeeded": []
+      }
+    ]
   },
   {
     "location": "Temple of Time",

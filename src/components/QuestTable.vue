@@ -111,7 +111,13 @@ const QUESTS_ALL = transformToTableFormat(
 function transformToTableFormat(quests) {
   return quests.flatMap(quest => {
     quest.chain.forEach(chain => {
-      chain.level = quest.level;
+      const splitLevelQuestChainMatch = chain.name.match(/(.*) \(Level (\d+) and above\)/);
+      if(splitLevelQuestChainMatch != null) {
+        chain.level = splitLevelQuestChainMatch[2]
+        chain.name = splitLevelQuestChainMatch[1]
+      } else {
+        chain.level = quest.level;
+      }
       chain.location = quest.location;
       chain.exp = chain.exp * 3
     });
