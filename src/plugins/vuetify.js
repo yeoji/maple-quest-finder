@@ -18,6 +18,7 @@ export default createVuetify({
     VDataTable,
   },
   theme: {
+    defaultTheme: 'dark',
     themes: {
       light: {
         colors: {

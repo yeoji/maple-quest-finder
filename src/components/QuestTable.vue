@@ -12,8 +12,8 @@
               v-model="location"
               label="Location"
               :items="locationsList"
-              variant="solo"
               clearable=true
+              class="ma-2 pa-2"
             ></v-select>
           </v-col>
           <v-col
@@ -25,8 +25,8 @@
               v-model="levelRange"
               label="Level Range"
               :items="levelRangeList"
-              variant="solo"
               clearable=true
+              class="ma-2 pa-2"
             ></v-select>
           </v-col>
           <v-col
@@ -39,6 +39,7 @@
               label="Search"
               single-line
               hide-details
+              class="ma-2 pa-2"
             ></v-text-field>
           </v-col>
         </v-row>
@@ -65,7 +66,7 @@
         </v-list>
       </template>
       <template v-slot:expanded-row="{ columns, item }">
-        <tr>
+        <tr class="quest-details">
           <td :colspan="columns.length">
             <strong>Procedure:</strong>
             <v-list lines="one">
@@ -77,7 +78,7 @@
             </v-list>
           </td>
         </tr>
-        <tr>
+        <tr class="quest-details" v-if="item.raw.rewards.length > 0">
           <td :colspan="columns.length">
             <strong>Potential Reward(s):</strong>
             <v-list lines="one">
@@ -112,6 +113,7 @@ function transformToTableFormat(quests) {
     quest.chain.forEach(chain => {
       chain.level = quest.level;
       chain.location = quest.location;
+      chain.exp = chain.exp * 3
     });
 
     return quest.chain;
@@ -191,4 +193,7 @@ export default {
 </script>
 
 <style scoped>
+.quest-details {
+  text-align: center;
+}
 </style>
