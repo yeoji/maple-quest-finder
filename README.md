@@ -1,57 +1,25 @@
-# base
+# MapleLegends Quest Finder
 
-## Project setup
+Quest finder for MapleLegends. All exp listed is multiplied by 3x.
+
+### Development
 
 ```
-# yarn
+# install dependencies
 yarn
 
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-# yarn
+# start the server
 yarn dev
 
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-```
-
-### Compiles and minifies for production
-
-```
-# yarn
-yarn build
-
-# npm
-npm run build
-
-# pnpm
-pnpm build
-```
-
-### Lints and fixes files
-
-```
-# yarn
+# Lints and fixes files
 yarn lint
-
-# npm
-npm run lint
-
-# pnpm
-pnpm lint
 ```
 
-### Customize configuration
+### Build
 
-See [Configuration Reference](https://vitejs.dev/config/).
+```
+yarn build
+```
+
+### Credits
+- Quest data is retrieved from [Hidden Street](https://bbb.hidden-street.net/quest/list)

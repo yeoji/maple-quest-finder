@@ -96,17 +96,9 @@
 </template>
 
 <script>
-import Quests_1_10 from '../../data/quests_1_10.json';
-import Quests_11_20 from '../../data/quests_11_20.json';
-import Quests_21_30 from '../../data/quests_21_30.json';
-import Quests_31_40 from '../../data/quests_31_40.json';
-import Quests_41_50 from '../../data/quests_41_50.json';
-import Quests_51_65 from '../../data/quests_51_65.json';
-import Quests_66_200 from '../../data/quests_66_200.json';
+import {getQuests} from '../data/quests';
 
-const QUESTS_ALL = transformToTableFormat(
-  Quests_1_10.concat(Quests_11_20, Quests_21_30, Quests_31_40, Quests_41_50, Quests_51_65, Quests_66_200)
-)
+const QUESTS_ALL = transformToTableFormat(getQuests())
 
 function transformToTableFormat(quests) {
   return quests.flatMap(quest => {
@@ -174,25 +166,18 @@ export default {
       })
     },
     customSearch(_, search, item) {
+      const searchValue = (value) => {
+        return value && value.toString().toLowerCase().includes(search.toLowerCase());
+      }
+
+      const checkObject = (obj) => {
+        return Object.values(obj).some(value => {
+          return typeof value === 'object' ? checkObject(value) : searchValue(value);
+        });
+      }
+
       // why 6? no idea
-      return Object.values(Object.values(item)[6]).some(
-        (itemValue) => {
-          if (typeof (itemValue) === 'object') {
-            return itemValue.some(value => {
-              if(typeof(value) === 'object') {
-                return Object.values(value).some(
-                  (objValue) => {
-                    return objValue && objValue.toString().toLowerCase().includes(search.toLowerCase())
-                  }) 
-              } else {
-                return value && value.toString().toLowerCase().includes(search.toLowerCase());
-              }
-            });
-          } else {
-            return itemValue && itemValue.toString().toLowerCase().includes(search.toLowerCase());
-          }
-        }
-      );
+      return checkObject(Object.values(item)[6]);
     },
   },
 }
