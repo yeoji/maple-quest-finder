@@ -66,6 +66,12 @@
         </v-list>
       </template>
       <template v-slot:expanded-row="{ columns, item }">
+        <tr class="quest-details" v-if="item.raw.previousQuest">
+          <td :colspan="columns.length">
+            <strong>Prerequisite:</strong><br/>
+            {{ item.raw.previousQuest }}
+          </td>
+        </tr>
         <tr class="quest-details">
           <td :colspan="columns.length">
             <strong>Procedure:</strong>
@@ -102,13 +108,16 @@ const QUESTS_ALL = transformToTableFormat(getQuests())
 
 function transformToTableFormat(quests) {
   return quests.flatMap(quest => {
-    quest.chain.forEach(chain => {
+    quest.chain.forEach((chain, i) => {
       const splitLevelQuestChainMatch = chain.name.match(/(.*) \(Level (\d+) and above\)/);
       if(splitLevelQuestChainMatch != null) {
         chain.level = splitLevelQuestChainMatch[2]
         chain.name = splitLevelQuestChainMatch[1]
       } else {
         chain.level = quest.level;
+      }
+      if(quest.chain.length > 1 && quest.chain[i-1]) {
+        chain.previousQuest = quest.chain[i-1].name;
       }
       chain.location = quest.location;
       chain.exp = chain.exp * 3
